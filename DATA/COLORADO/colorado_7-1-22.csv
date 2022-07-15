@@ -1,0 +1,152 @@
+STATION,NETWORK,ADDRESS,CITY,STATE,ZIP,AMPS,KW,NON_KWH,MEM_KWH,MEM_FEE_PER_MONTH,RATE_PER_MIN,FLATE_FEE
+Denver International Airport - Canopy Airport Parking,None,8100 Tower Rd,Commerce City,CO,80022,NULL,NULL,0,NULL,NULL,NULL,NULL
+Larry H Miller Nissan - Arapahoe,None,10030 East Arapahoe Road,Centennial,CO,80112,NULL,NULL,0,NULL,NULL,NULL,NULL
+Larry H. Miller Nissan,None,2400 West 104th Avenue,Denver,CO,80234,NULL,NULL,0,NULL,NULL,NULL,NULL
+Valley Nissan,None,1005 Ken Pratt Boulevard,Longmont,CO,80501,NULL,NULL,0,NULL,NULL,NULL,NULL
+City of Denver - Denver Performing Arts Center Garage,None,1055 13th Street,Denver,CO,80204,NULL,NULL,0,NULL,NULL,NULL,NULL
+Boulder Nissan,None,2285 28th Street,Boulder,CO,80301,NULL,NULL,0,NULL,NULL,NULL,NULL
+15th & Pearl Parking Garage,ChargePoint,1500 Pearl Street,Boulder,CO,80302,62,62,0.45,NULL,NULL,NULL,NULL
+Larry H Miller Nissan,None,1320 Plum Valley Lane,Highlands Ranch,CO,80129,NULL,NULL,0,NULL,NULL,NULL,NULL
+Edwards Station,Electrify America,434 Edwards Access Road,Edwards,CO,81632,875,350,0.43,0.31,4,NULL,NULL
+Arapahoe Crossings,EVgo,6564 South Parker Road,Aurora,CO,80016,125,50,0.3,0.27,6.99,NULL,NULL
+Highlands Ranch Shopping Center,EVgo,9579 South University Boulevard,Highlands Ranch,CO,80126,125,50,0.3,0.27,6.99,NULL,NULL
+Jax Outdoor Gear - Fort Collins,EVgo,1200 North College Avenue,Fort Collins,CO,80524,125,50,0.3,0.27,6.99,NULL,NULL
+Jax Outdoor Gear - Loveland,EVgo,950 East Eisenhower Boulevard,Loveland,CO,80537,125,50,0.3,0.27,6.99,NULL,NULL
+Lionshead Parking Structure,ChargePoint,395 East Lionshead Circle,Vail,CO,81657,62,62,0.2,NULL,NULL,NULL,NULL
+Flatiron Crossing,EVgo,1 West Flatiron Crossing Drive,Broomfield,CO,80021,125,50,0.3,0.27,6.99,NULL,NULL
+Superior Marketplace,EVgo,405 Center Drive,Superior,CO,80027,125,50,0.3,0.27,6.99,NULL,NULL
+Jax Outdoor Gear - Lafayette,EVgo,900 South US Highway 287,Lafayette,CO,80026,125,50,0.3,0.27,6.99,NULL,NULL
+Tynan's Nissan,None,780 South Havana Street,Aurora,CO,80012,NULL,NULL,0,NULL,NULL,NULL,NULL
+Northridge Shopping Center,EVgo,7790 West 80th Avenue,Arvada,CO,80005,125,50,0.3,0.27,6.99,NULL,NULL
+Greeley Commons,EVgo,4711 29th Street,Greeley,CO,80634,125,50,0.3,0.27,6.99,NULL,NULL
+BMW Of Denver,ChargePoint,1030 South Colorado Boulevard,Denver,CO,80246,52,23.9,0,NULL,NULL,NULL,NULL
+22470 E. 6th Parkway,ChargePoint,22470 East Stephen D. Hogan Parkway,Aurora,CO,80018,62,62,0,NULL,NULL,NULL,NULL
+Alliance Center,ChargePoint,1536 Wynkoop Street,Denver,CO,80202,100,50,0.26,NULL,NULL,NULL,8.5
+REI,EVgo,1416 Platte Street,Denver,CO,80202,125,50,0.3,0.27,6.99,NULL,NULL
+Walmart,EVgo,3301 Tower Road,Aurora,CO,80011,125,50,0.3,0.27,6.99,NULL,NULL
+REI,EVgo,5375 South Wadsworth Boulevard,Littleton,CO,80123,125,50,0.3,0.27,6.99,NULL,NULL
+Orchard Town Center,EVgo,14697 Delaware Street,Westminster,CO,80023,125,50,0.3,0.27,6.99,NULL,NULL
+Kum & Go,ChargePoint,250 East 136th Avenue,Thornton,CO,80241,100,50,0.35,NULL,NULL,NULL,NULL
+Walmart - Fort Morgan,Electrify America,1300 Barlow Road,Fort Morgan,CO,80701,875,350,0.43,0.31,4,NULL,NULL
+Walmart,Electrify America,200 West 136th Avenue,Westminster,CO,80234,875,350,0.43,0.31,4,NULL,NULL
+Target - Englewood,Electrify America,6767 South Clinton Street,Englewood,CO,80112,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Littleton,Electrify America,13420 West Coal Mine Avenue,Littleton,CO,80127,875,350,0.43,0.31,4,NULL,NULL
+Colorado Mills Mall,Electrify America,14500 West Colfax Avenue,Lakewood,CO,80401,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Aurora,Electrify America,14000 Exposition Avenue,Aurora,CO,80012,875,350,0.43,0.31,4,NULL,NULL
+Harley Davisdon,ChargePoint,4250 Byrd Drive,Loveland,CO,80538,50,24,0,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,18425 West Colfax Avenue,Golden,CO,80401,50,24,0.13,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,2885 West County Line Road,Littleton,CO,80129,50,24,0,NULL,NULL,NULL,NULL
+United Power,ChargePoint,5 Gross Dam Road,Golden,CO,80403,62,62,0.25,NULL,NULL,NULL,NULL
+Harley Davidson,ChargePoint,16565 East 33rd Drive,Aurora,CO,80011,50,24,0.13,NULL,NULL,NULL,NULL
+Walmart - Frisco,Electrify America,840 Summit Boulevard,Frisco,CO,80443,875,350,0.43,0.31,4,NULL,NULL
+Target - Edgewater,Electrify America,1985 Sheridan Boulevard,Edgewater,CO,80214,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Denver,Electrify America,7800 Smith Road,Denver,CO,80207,875,350,0.43,0.31,4,NULL,NULL
+29th St. Mall Garage,EVgo,1710 29th Street,Boulder,CO,80301,125,50,0.3,0.27,6.99,NULL,NULL
+Whole Foods - Union Station,EVgo,1701 Wewatta Street,Denver,CO,80202,125,50,0.3,0.27,6.99,NULL,NULL
+Rampart Range,ChargePoint,10003 Commons Street,Lone Tree,CO,80124,62,62,0.82,NULL,NULL,NULL,2
+Monaco Square,EVgo,942 South Monaco Parkway,Denver,CO,80224,125,50,0.3,0.27,6.99,NULL,NULL
+Village Market,ChargePoint,34295 US-6,Edwards,CO,81632,62,62,0.75,NULL,NULL,NULL,NULL
+Ideal Market Capitol Hill,EVgo,900 East 11th Avenue,Denver,CO,80218,125,50,0.3,0.27,6.99,NULL,NULL
+"Walmart 5137 (Aurora, CO)",Electrify America,6101 SOUTH AURORA PARKWAY,Aurora,CO,80016,875,350,0.43,0.31,4,NULL,NULL
+Westminster City Center,Electrify America,9210-9440 North Sheridan Boulevard,Westminster,CO,80031,875,350,0.43,0.31,4,NULL,NULL
+Choice Market Colfax,None,2200 East Colfax Avenue,Denver,CO,80206,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Town Of Avon Beaver Creek DC,ChargePoint,220 Beaver Creek Place,Avon,CO,81620,62,62,0.15,NULL,NULL,NULL,NULL
+Walmart,Electrify America,5650 South Chambers Road,Aurora,CO,80015,875,350,0.43,0.31,4,NULL,NULL
+Walmart,Electrify America,9901 GRANT Street,Thornton,CO,80229,875,350,0.43,0.31,4,NULL,NULL
+Lions Ponds,ChargePoint,575 Zerex Street,Fraser,CO,80442,62,62,0.2,NULL,NULL,NULL,NULL
+Fairplay Visitors Center,ChargePoint,901 Main Street,Fairplay,CO,80440,62,62,0.45,NULL,NULL,NULL,NULL
+Walmart,Electrify America,9400 Ralston Road,Arvada,CO,80002,875,350,0.43,0.31,4,NULL,NULL
+Walmart,Electrify America,6675 Business Center Drive,Highlands Ranch,CO,80130,875,350,0.43,0.31,4,NULL,NULL
+Estes Park Visitors Center,ChargePoint,500 Big Thompson Avenue,Estes Park,CO,80517,62,62,0.45,NULL,NULL,NULL,NULL
+BMW Of Denver,ChargePoint,1040 South Colorado Boulevard,Denver,CO,80246,52,23.9,0,NULL,NULL,NULL,NULL
+Walmart,Electrify America,745 US HIGHWAY 287,Lafayette,CO,80026,875,350,0.43,0.31,4,NULL,NULL
+Minturn Shop,ChargePoint,401 Main Street,Minturn,CO,81645,62,62,0.45,NULL,NULL,NULL,NULL
+Walmart,Electrify America,2514 Main Street,Longmont,CO,80504,875,350,0.43,0.31,4,NULL,NULL
+Whole Foods,EVgo,2905 Pearl Street,Boulder,CO,80301,125,50,0.3,0.27,6.99,NULL,NULL
+Emich Volkswagen,ChargePoint,350 South Santa Fe Drive,Denver,CO,80223,62,62,0.45,NULL,NULL,NULL,NULL
+Shell,ChargePoint,165 Market Street,Keenesburg,CO,80643,62,62,0.25,NULL,NULL,NULL,NULL
+Kroger King Soopers,Electrify America,1891 State Highway 7,Erie,CO,80516,875,350,0.43,0.31,4,NULL,NULL
+Macerich Flatiron Crossing,Electrify America,1 West Flatiron Crossing Drive,Broomfield,CO,80021,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,400 Marshall Road,Superior,CO,80027,875,350,0.43,0.31,4,NULL,NULL
+Kum & Go Grandby,ChargePoint,240 West Agate Avenue,Granby,CO,80446,62,62,0.35,NULL,NULL,NULL,NULL
+Target,Electrify America,1725 Rocky Mountain Avenue,Loveland,CO,80538,875,350,0.43,0.31,4,NULL,NULL
+King Soopers Wine & Spirits,Electrify America,4600 Leetsdale Road,Glendale,CO,80246,875,350,0.43,0.31,4,NULL,NULL
+Kroger King Soopers,Electrify America,101 Englewood Parkway,Englewood,CO,80110,875,350,0.43,0.31,4,NULL,NULL
+Buckley Square,EVgo,17000 East IIiff Avenue,Aurora,CO,80013,125,50,0.3,0.27,6.99,NULL,NULL
+Kum & Go Wellington,ChargePoint,8150 6th Street,Wellington,CO,80549,62,62,0.35,NULL,NULL,NULL,NULL
+Target,Electrify America,5010 Founders Parkway,Castle Rock,CO,80108,875,350,0.43,0.31,4,NULL,NULL
+NP Village,EVConnect,900 Moraine Avenue,Estes Park,CO,80517,300,120,0.45,NULL,NULL,NULL,NULL
+Target,ChargePoint,5071 Kipling Street,Wheat Ridge,CO,80033,62,62,0.45,NULL,NULL,NULL,NULL
+Lloyd King Center,EVgo,6350 Sheridan Boulevard,Arvada,CO,80003,125,50,0.3,0.27,6.99,NULL,NULL
+CORE Electric Cooperative,ChargePoint,5496 US-85,Sedalia,CO,80135,62,62,0,NULL,NULL,NULL,NULL
+Core Sedalia,ChargePoint,1092 Cedar Street,Bennett,CO,80102,62,62,0,NULL,NULL,NULL,NULL
+Kroger King Soopers,Electrify America,17761 COTTONWOOD DRIVE,Parker,CO,80134,875,350,0.43,0.31,4,NULL,NULL
+Core Sedalia Station 4,ChargePoint,1092 cedar street,Bennett,CO,80102,62,62,0,NULL,NULL,NULL,NULL
+Macerich Twenty Ninth Street Mall,Electrify America,1805 29th Street #1118,Boulder,CO,80301,875,350,0.43,0.31,4,NULL,NULL
+1028 Grand Avenue Street Parking,ChargePoint,1028 Grand Avenue,Grand Lake,CO,80447,62,62,0.42,NULL,NULL,NULL,NULL
+Kroger King Soopers,Electrify America,15051 East 104th Avenue,Commerce City,CO,80022,875,350,0.43,0.31,4,NULL,NULL
+"7-eleven, Inc",ChargePoint,15200 East 120th Avenue,Commerce City,CO,80022,62,62,0.45,NULL,NULL,NULL,NULL
+Albertsons Denver,EVgo,6220 East 14th Avenue,Denver,CO,80220,125,50,0.3,0.27,6.99,NULL,NULL
+Berthoud Recreation Center,ChargePoint,1000 Berthoud Parkway,Berthoud,CO,80513,62,62,0.45,NULL,NULL,NULL,NULL
+Littleton Square,EVgo,100 West Littleton Boulevard,Littleton,CO,80120,125,50,0.3,0.27,6.99,NULL,NULL
+Markley Motor,ChargePoint,3325 South College Avenue,Fort Collins,CO,80525,62,62,NULL,NULL,NULL,0.6,NULL
+Conifer DC 1,ChargePoint,27175 Main Street,Conifer,CO,80433,62,62,0.4,NULL,NULL,NULL,NULL
+Grand Vail,ChargePoint,1300 Westhaven Drive,Vail,CO,81657,62,62,0,NULL,NULL,NULL,NULL
+3rd Street Parking,ChargePoint,Harrison & 3rd,Leadville,CO,80461,62,62,0,NULL,NULL,NULL,NULL
+Evergreen 56th and Towe,Electrify America,18552 East 57th Avenue,Denver,CO,80249,875,350,0.43,0.31,4,NULL,NULL
+Transwest Buick GMC,Blink,7911 East 96th Avenue,Henderson,CO,80640,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+United Power DCFC,ChargePoint,9586 East I-25 Frontage Road,Longmont,CO,80504,62,62,0.25,NULL,NULL,NULL,NULL
+King Soopers Denver,EVgo,10406 Martin Luther King Boulevard,Denver,CO,80238,125,50,0.3,0.27,6.99,NULL,NULL
+"Regency Cherrywood SC (Centennial, CO)",Electrify America,7575 South University Boulevard,Centennial,CO,80122,875,350,0.43,0.31,4,NULL,NULL
+Stapp Interstate Toyota,EVConnect,8019 Raspberry Wy.,Frederick,CO,80504,95,50.1,0.45,NULL,NULL,NULL,NULL
+Clear Creek County Government - Annex Facility,ChargePoint,1198 Argentine Street,Georgetown,CO,80444,62,62,0.39,NULL,NULL,NULL,NULL
+Hion Limon,ChargePoint,250 Main Street,Limon,CO,80828,62,62,0.48,NULL,NULL,NULL,1.99
+"7-eleven, Inc.",ChargePoint,7382 Federal Boulevard,Westminster,CO,80030,62,62,0.49,NULL,NULL,NULL,NULL
+Subway,ChargePoint,276 East 1st Street,Akron,CO,80720,62,62,0.25,NULL,NULL,NULL,10
+Dave Solon Nissan,None,2525 West US Highway 50,Pueblo,CO,81008,NULL,NULL,0,NULL,NULL,NULL,NULL
+South Colorado Springs Nissan,None,1333 South Academy Boulevard,Colorado Springs,CO,80916,NULL,NULL,0,NULL,NULL,NULL,NULL
+City Administration Building - Parking Garage,ChargePoint,130 South Nevada Avenue,Colorado Springs,CO,80903,62,62,0,NULL,NULL,NULL,NULL
+Sam's Club - Fountain,Electrify America,4385 Venetucci Boulevard,Fountain,CO,80906,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Trinidad,Electrify America,2921 Toupal Drive,Trinidad,CO,81082,875,350,0.43,0.31,4,NULL,NULL
+Sam's Club - Pueblo,Electrify America,412 Eagleridge Boulevard,Pueblo,CO,81008,875,350,0.43,0.31,4,NULL,NULL
+Hion La Junta,ChargePoint,5 Walmart Way,La Junta,CO,81050,62,62,0.48,NULL,NULL,NULL,1.99
+George's Drive Inn,Unknown,564 US-85,Walsenburg,CO,81089,125,50,0.31,NULL,NULL,NULL,NULL
+Phil Long Kia,evGateway,1338 Motor City Drive,Colorado Springs,CO,80905,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7-eleven,ChargePoint,3522 North Elizabeth Street,Pueblo,CO,81008,62,62,0.43,NULL,NULL,NULL,NULL
+Pitkin County,None,76 Service Center Road,Aspen,CO,81611,NULL,NULL,0,NULL,NULL,NULL,NULL
+Galena Street Parking,ChargePoint,501 South Galena Street,Aspen,CO,81611,62,62,0,NULL,NULL,NULL,NULL
+Stop N Save,ChargePoint,723 Horizon Drive,Grand Junction,CO,81506,62,62,0.25,NULL,NULL,NULL,NULL
+Sam's Club - Grand Junction,Electrify America,1040 Independent Avenue,Grand Junction,CO,81505,875,350,0.43,0.31,4,NULL,NULL
+Crested Butte Fire Hall,ChargePoint,306 Maroon Avenue,Crested Butte,CO,81224,62,62,0.2,NULL,NULL,0.25,NULL
+Lake City Ice Park,ChargePoint,100 Bluff Street,Lake City,CO,81235,62,62,0.2,NULL,NULL,0.25,NULL
+Creede Chamber of Commerce,ChargePoint,904 South Main Street,Creede,CO,81130,62,62,0.2,NULL,NULL,0.25,NULL
+Welcome Center,ChargePoint,216 South Main Street,Monticello,UT,84535,62,62,0,NULL,NULL,NULL,NULL
+533 North 1st Street,ChargePoint,533 North 1st Street,Montrose,CO,81401,62,62,0.3,NULL,NULL,NULL,NULL
+595 Columbia Avenue,ChargePoint,595 Columbia Avenue,Del Norte,CO,81132,62,62,0.2,NULL,NULL,0.05,NULL
+111 West 3rd Street,EVConnect,111 West 3rd Street,Delta,CO,81416,120,50,NULL,NULL,NULL,0.12,NULL
+Wcsa Level 3 Esp250,ChargePoint,USFS-391,Pagosa Springs,CO,81147,62,62,1.2,NULL,NULL,NULL,NULL
+Purgatory,ChargePoint,1 Skier Place,Durango,CO,81301,62,62,0.3,NULL,NULL,NULL,NULL
+City Of Aspen City Hall,ChargePoint,415 Rio Grande Place,Aspen,CO,81611,62,62,0,NULL,NULL,NULL,NULL
+Town of Basalt - Midland Spur,ChargePoint,99 Midland Spur,Basalt,CO,81621,62,62,0,NULL,NULL,NULL,NULL
+Eagle County,None,500 Broadway Street,Eagle,CO,81631,NULL,NULL,0,NULL,NULL,NULL,NULL
+Eagle Tourist Information Center,ChargePoint,112 Fairgrounds Road,Eagle,CO,81631,62,62,0.11,NULL,NULL,NULL,NULL
+504 Market St - WREA,ChargePoint,504 Market Street,Meeker,CO,81641,62,62,0.25,NULL,NULL,NULL,NULL
+Yampa Valley Electric Association,None,2211 Elk River Road,Steamboat Springs,CO,80487,NULL,NULL,0.25,NULL,NULL,NULL,NULL
+Target - Glenwood Springs,Electrify America,110 West Meadows Drive,Glenwood Springs,CO,81601,875,350,0.43,0.31,4,NULL,NULL
+944 Cowen Drive,ChargePoint,944 Cowen Drive,Carbondale,CO,81623,62,62,0.14,NULL,NULL,NULL,NULL
+Dinosaur Colorado Welcome Center,ChargePoint,101 Stegosaurus Freeway,Dinosaur,CO,81610,62,62,0.2,NULL,NULL,NULL,NULL
+EGE Airport Level 3,ChargePoint,216 Eldon Wilson Road,Gypsum,CO,81637,62,62,0.11,NULL,NULL,NULL,NULL
+Kum & Go,ChargePoint,80 Anglers Drive,Steamboat Springs,CO,80477,62,62,0.35,NULL,NULL,NULL,NULL
+"Craig, CO Supercharger",ChargePoint,700 East Victory Way,Craig,CO,81625,62,62,0.35,NULL,NULL,NULL,NULL
+Gypsum Shop&hop,ChargePoint,800 Highway 6,Gypsum,CO,81637,62,62,0.45,NULL,NULL,NULL,NULL
+Kum & Go Rifle,ChargePoint,705 Taugenbaugh Boulevard,Rifle,CO,81650,62,62,0.35,NULL,NULL,NULL,NULL
+Glenwood Spring Fast Charger,ChargePoint,100 Riverine Road,Glenwood Springs,CO,81601,26,23.9,0,NULL,NULL,NULL,NULL
+Woodmen Nissan,None,6840 Vincent Drive,Colorado Springs,CO,80918,NULL,NULL,0,NULL,NULL,NULL,NULL
+REI Colorado Springs,EVgo,1376 East Woodmen Road,Colorado Springs,CO,80920,125,50,0.3,0.27,6.99,NULL,NULL
+912 South Main Street - SDCEA,ChargePoint,912 South Main Street,Buena Vista,CO,81211,62,62,1.33,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,5867 North Nevada Avenue,Colorado Springs,CO,80918,50,24,0,NULL,NULL,NULL,NULL
+Two Rivers,ChargePoint,144A Co Road 105,Salida,CO,81201,62,62,0.46,NULL,NULL,NULL,NULL
+Mike Maroone Volkswagen,ChargePoint,1580 Auto Mall Loop,Colorado Springs,CO,80920,26,23.9,0,NULL,NULL,NULL,NULL
+TriCounty Health Department,Unknown,119 South 500 East,Vernal,UT,84078,NULL,NULL,0,NULL,NULL,NULL,NULL
+Fort Collins Museum of Discovery,EVgo,408 Mason Ct,Fort Collins,CO,80524,125,50,0.3,0.27,6.99,NULL,NULL
+Town of Paonia - Parking,None,236 Main Avenue,Paonia,CO,81428,NULL,NULL,NULL,NULL,NULL,0.07,NULL

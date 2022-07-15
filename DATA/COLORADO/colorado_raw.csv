@@ -1,0 +1,150 @@
+STATION,NETWORK,ADDRESS,CITY,STATE,ZIP,CHARGE_SPEED,PRICE_RAW
+Denver International Airport - Canopy Airport Parking,None,8100 Tower Rd,Commerce City,CO,80022,"? A, ? kW",Cost: 0.00$ / Free
+Larry H Miller Nissan - Arapahoe,None,10030 East Arapahoe Road,Centennial,CO,80112,"? A, ? kW",Cost: 0.00$ / Free
+Larry H. Miller Nissan,None,2400 West 104th Avenue,Denver,CO,80234,"? A, ? kW",Cost: 0.00$ / Free
+Valley Nissan,None,1005 Ken Pratt Boulevard,Longmont,CO,80501,"? A, ? kW",Cost: 0.00$ / Free
+City of Denver - Denver Performing Arts Center Garage,None,1055 13th Street,Denver,CO,80204,"? A, ? kW",Cost: 0.00$ / Free
+Boulder Nissan,None,2285 28th Street,Boulder,CO,80301,"? A, ? kW",Cost: 0.00$ / Free
+15th & Pearl Parking Garage,ChargePoint,1500 Pearl Street,Boulder,CO,80302,"62 A, 62 kW",Cost: Energy 0.45 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins
+Larry H Miller Nissan,None,1320 Plum Valley Lane,Highlands Ranch,CO,80129,"? A, ? kW",Cost: 0.00$ / Free
+Edwards Station,Electrify America,434 Edwards Access Road,Edwards,CO,81632,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Arapahoe Crossings,EVgo,6564 South Parker Road,Aurora,CO,80016,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Highlands Ranch Shopping Center,EVgo,9579 South University Boulevard,Highlands Ranch,CO,80126,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Jax Outdoor Gear - Fort Collins,EVgo,1200 North College Avenue,Fort Collins,CO,80524,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Jax Outdoor Gear - Loveland,EVgo,950 East Eisenhower Boulevard,Loveland,CO,80537,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Lionshead Parking Structure,ChargePoint,395 East Lionshead Circle,Vail,CO,81657,"62 A, 62 kW",Cost: Energy 0.2 USD per kWh Parking 0 USD per minute for first 75 mins Parking 1 USD per minute after 75 mins Max Fee 750 USD
+Flatiron Crossing,EVgo,1 West Flatiron Crossing Drive,Broomfield,CO,80021,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Superior Marketplace,EVgo,405 Center Drive,Superior,CO,80027,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Jax Outdoor Gear - Lafayette,EVgo,900 South US Highway 287,Lafayette,CO,80026,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Tynan's Nissan,None,780 South Havana Street,Aurora,CO,80012,"? A, ? kW",Cost: 0.00$ / Free
+Northridge Shopping Center,EVgo,7790 West 80th Avenue,Arvada,CO,80005,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Greeley Commons,EVgo,4711 29th Street,Greeley,CO,80634,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+BMW Of Denver,ChargePoint,1030 South Colorado Boulevard,Denver,CO,80246,"52 A, 23.9 kW",Cost: Free
+22470 E. 6th Parkway,ChargePoint,22470 East Stephen D. Hogan Parkway,Aurora,CO,80018,"62 A, 62 kW",Cost: Free
+Alliance Center,ChargePoint,1536 Wynkoop Street,Denver,CO,80202,"100 A, 50 kW",Cost: Energy 2:00 PM - 6:00 PM 0.26 USD per kWh 6:00 PM - 2:00 PM 0 USD per kWh Flat Fee 8.5 USD
+REI,EVgo,1416 Platte Street,Denver,CO,80202,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walmart,EVgo,3301 Tower Road,Aurora,CO,80011,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+REI,EVgo,5375 South Wadsworth Boulevard,Littleton,CO,80123,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Orchard Town Center,EVgo,14697 Delaware Street,Westminster,CO,80023,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Kum & Go,ChargePoint,250 East 136th Avenue,Thornton,CO,80241,"100 A, 50 kW",Cost: Energy 0.35 USD per kWh Parking 0 USD per minute for first 35 mins Parking 0.2 USD per minute after 35 mins
+Walmart - Fort Morgan,Electrify America,1300 Barlow Road,Fort Morgan,CO,80701,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart,Electrify America,200 West 136th Avenue,Westminster,CO,80234,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Target - Englewood,Electrify America,6767 South Clinton Street,Englewood,CO,80112,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart - Littleton,Electrify America,13420 West Coal Mine Avenue,Littleton,CO,80127,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Colorado Mills Mall,Electrify America,14500 West Colfax Avenue,Lakewood,CO,80401,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart - Aurora,Electrify America,14000 Exposition Avenue,Aurora,CO,80012,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Harley Davisdon,ChargePoint,4250 Byrd Drive,Loveland,CO,80538,"50 A, 24 kW",Cost: Free
+Harley Davisdon,ChargePoint,18425 West Colfax Avenue,Golden,CO,80401,"50 A, 24 kW",Cost: Energy 0.13 USD per kWh Parking 0.1 USD per hour for first 60 mins Parking 0.1 USD per hour after 60 mins
+Harley Davisdon,ChargePoint,2885 West County Line Road,Littleton,CO,80129,"50 A, 24 kW",Cost: Free
+United Power,ChargePoint,5 Gross Dam Road,Golden,CO,80403,"62 A, 62 kW",Cost: 0.25$ / kWh Time not charging: $6/hr after 15 mins
+Harley Davidson,ChargePoint,16565 East 33rd Drive,Aurora,CO,80011,"50 A, 24 kW",Cost: Energy 0.13 USD per kWh Parking 4 USD per hour
+Walmart - Frisco,Electrify America,840 Summit Boulevard,Frisco,CO,80443,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Target - Edgewater,Electrify America,1985 Sheridan Boulevard,Edgewater,CO,80214,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart - Denver,Electrify America,7800 Smith Road,Denver,CO,80207,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+29th St. Mall Garage,EVgo,1710 29th Street,Boulder,CO,80301,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Whole Foods - Union Station,EVgo,1701 Wewatta Street,Denver,CO,80202,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Rampart Range,ChargePoint,10003 Commons Street,Lone Tree,CO,80124,"62 A, 62 kW",Cost: Energy 0.82 USD per kWh Parking (While not charging) 2 USD per hour After 60 mins of grace Period Parking (While plugged in) For first 1 hr(s) Free Flat Fee 2 USD Max Fee 15 USD
+Monaco Square,EVgo,942 South Monaco Parkway,Denver,CO,80224,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Village Market,ChargePoint,34295 US-6,Edwards,CO,81632,"62 A, 62 kW",Cost: Energy 00:00 AM - 4:00 PM 0.24 USD per kWh 4:00 PM - 9:00 PM 0.75 USD per kWh Parking (While not charging) 5 USD per hour After 30 mins of grace Period Parking (While plugged in) For first 30 mins Free
+Ideal Market Capitol Hill,EVgo,900 East 11th Avenue,Denver,CO,80218,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+"Walmart 5137 (Aurora, CO)",Electrify America,6101 SOUTH AURORA PARKWAY,Aurora,CO,80016,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Westminster City Center,Electrify America,9210-9440 North Sheridan Boulevard,Westminster,CO,80031,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Choice Market Colfax,None,2200 East Colfax Avenue,Denver,CO,80206,"? A, ? kW",Cost: Unknown
+Town Of Avon Beaver Creek DC,ChargePoint,220 Beaver Creek Place,Avon,CO,81620,"62 A, 62 kW",Cost: 0.15$ / kWh
+Walmart,Electrify America,5650 South Chambers Road,Aurora,CO,80015,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart,Electrify America,9901 GRANT Street,Thornton,CO,80229,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Lions Ponds,ChargePoint,575 Zerex Street,Fraser,CO,80442,"62 A, 62 kW",Cost: 0.20$ / kWh Time not charging: $5/hr after 15 mins
+Fairplay Visitors Center,ChargePoint,901 Main Street,Fairplay,CO,80440,"62 A, 62 kW",Cost: Energy 0.45 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins
+Walmart,Electrify America,9400 Ralston Road,Arvada,CO,80002,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart,Electrify America,6675 Business Center Drive,Highlands Ranch,CO,80130,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Estes Park Visitors Center,ChargePoint,500 Big Thompson Avenue,Estes Park,CO,80517,"62 A, 62 kW",Cost: Energy 0.45 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins
+BMW Of Denver,ChargePoint,1040 South Colorado Boulevard,Denver,CO,80246,"52 A, 23.9 kW",Cost: Free
+Walmart,Electrify America,745 US HIGHWAY 287,Lafayette,CO,80026,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Minturn Shop,ChargePoint,401 Main Street,Minturn,CO,81645,"62 A, 62 kW",Cost: Energy 0.45 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins
+Walmart,Electrify America,2514 Main Street,Longmont,CO,80504,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Whole Foods,EVgo,2905 Pearl Street,Boulder,CO,80301,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Emich Volkswagen,ChargePoint,350 South Santa Fe Drive,Denver,CO,80223,"62 A, 62 kW",Cost: Energy 00:00 AM - 0:00 PM 0.39 USD per kWh 0:00 PM - 9:00 PM 0.45 USD per kWh 9:00 PM - 11:59 PM 0.39 USD per kWh Parking (While not charging) 1 USD per minute After 10 mins of grace Period Parking (While plugged in) For first 10 mins Free
+Shell,ChargePoint,165 Market Street,Keenesburg,CO,80643,"62 A, 62 kW",Cost: 0.25$ / kWh Time not charging: $6/hr after 15 mins
+Kroger King Soopers,Electrify America,1891 State Highway 7,Erie,CO,80516,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Macerich Flatiron Crossing,Electrify America,1 West Flatiron Crossing Drive,Broomfield,CO,80021,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Target,Electrify America,400 Marshall Road,Superior,CO,80027,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Kum & Go Grandby,ChargePoint,240 West Agate Avenue,Granby,CO,80446,"62 A, 62 kW",Cost: Energy 0.35 USD per kWh Parking 0 USD per minute for first 35 mins Parking 0.2 USD per minute after 35 mins
+Target,Electrify America,1725 Rocky Mountain Avenue,Loveland,CO,80538,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+King Soopers Wine & Spirits,Electrify America,4600 Leetsdale Road,Glendale,CO,80246,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Kroger King Soopers,Electrify America,101 Englewood Parkway,Englewood,CO,80110,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Buckley Square,EVgo,17000 East IIiff Avenue,Aurora,CO,80013,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Kum & Go Wellington,ChargePoint,8150 6th Street,Wellington,CO,80549,"62 A, 62 kW",Cost: Energy 0.35 USD per kWh Parking 0 USD per minute for first 35 mins Parking 0.2 USD per minute after 35 mins
+Target,Electrify America,5010 Founders Parkway,Castle Rock,CO,80108,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+NP Village,EVConnect,900 Moraine Avenue,Estes Park,CO,80517,"300 A, 120 kW",Cost: 0.45$ / kWh
+Target,ChargePoint,5071 Kipling Street,Wheat Ridge,CO,80033,"62 A, 62 kW",Cost: Energy 0.45 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins
+Lloyd King Center,EVgo,6350 Sheridan Boulevard,Arvada,CO,80003,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+CORE Electric Cooperative,ChargePoint,5496 US-85,Sedalia,CO,80135,"62 A, 62 kW",Cost: Free
+Core Sedalia,ChargePoint,1092 Cedar Street,Bennett,CO,80102,"62 A, 62 kW",Cost: Free
+Kroger King Soopers,Electrify America,17761 COTTONWOOD DRIVE,Parker,CO,80134,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Core Sedalia Station 4,ChargePoint,1092 cedar street,Bennett,CO,80102,"62 A, 62 kW",Cost: Free
+Macerich Twenty Ninth Street Mall,Electrify America,1805 29th Street #1118,Boulder,CO,80301,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+1028 Grand Avenue Street Parking,ChargePoint,1028 Grand Avenue,Grand Lake,CO,80447,"62 A, 62 kW",Cost: 0.42$ / kWh Time not charging: $60/hr after 10 mins
+Kroger King Soopers,Electrify America,15051 East 104th Avenue,Commerce City,CO,80022,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+"7-eleven, Inc",ChargePoint,15200 East 120th Avenue,Commerce City,CO,80022,"62 A, 62 kW",Cost: 0.45$ / kWh Time not charging: $60/hr after 15 mins
+Albertsons Denver,EVgo,6220 East 14th Avenue,Denver,CO,80220,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Berthoud Recreation Center,ChargePoint,1000 Berthoud Parkway,Berthoud,CO,80513,"62 A, 62 kW",Cost: 0.45$ / kWh
+Littleton Square,EVgo,100 West Littleton Boulevard,Littleton,CO,80120,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Markley Motor,ChargePoint,3325 South College Avenue,Fort Collins,CO,80525,"62 A, 62 kW",Cost: 3.60$ / Hour
+Conifer DC 1,ChargePoint,27175 Main Street,Conifer,CO,80433,"62 A, 62 kW",Cost: Energy 0.4 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins
+Grand Vail,ChargePoint,1300 Westhaven Drive,Vail,CO,81657,"62 A, 62 kW",Cost: Free
+3rd Street Parking,ChargePoint,Harrison & 3rd,Leadville,CO,80461,"62 A, 62 kW",Cost: Free
+Evergreen 56th and Towe,Electrify America,18552 East 57th Avenue,Denver,CO,80249,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Transwest Buick GMC,Blink,7911 East 96th Avenue,Henderson,CO,80640,"? A, ? kW",Cost: Unknown
+United Power DCFC,ChargePoint,9586 East I-25 Frontage Road,Longmont,CO,80504,"62 A, 62 kW",Cost: 0.25$ / kWh Time not charging: $6/hr after 15 mins
+King Soopers Denver,EVgo,10406 Martin Luther King Boulevard,Denver,CO,80238,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+"Regency Cherrywood SC (Centennial, CO)",Electrify America,7575 South University Boulevard,Centennial,CO,80122,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Stapp Interstate Toyota,EVConnect,8019 Raspberry Wy.,Frederick,CO,80504,"95 A, 50.1 kW",Cost: 0.45$ / kWh
+Clear Creek County Government - Annex Facility,ChargePoint,1198 Argentine Street,Georgetown,CO,80444,"62 A, 62 kW",Cost: Energy 0.39 USD per kWh Parking 0 USD per minute for first 35 mins Parking 0.2 USD per minute after 35 mins
+Hion Limon,ChargePoint,250 Main Street,Limon,CO,80828,"62 A, 62 kW",Cost: Energy 0.48 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins Flat Fee 1.99 USD
+"7-eleven, Inc.",ChargePoint,7382 Federal Boulevard,Westminster,CO,80030,"62 A, 62 kW",Cost: 0.49$ / kWh Time not charging: $60/hr after 15 mins
+Subway,ChargePoint,276 East 1st Street,Akron,CO,80720,"62 A, 62 kW",Cost: Energy 0.25 USD per kWh Flat Fee 10 USD
+Dave Solon Nissan,None,2525 West US Highway 50,Pueblo,CO,81008,"? A, ? kW",Cost: 0.00$ / Free
+South Colorado Springs Nissan,None,1333 South Academy Boulevard,Colorado Springs,CO,80916,"? A, ? kW",Cost: 0.00$ / Free
+City Administration Building - Parking Garage,ChargePoint,130 South Nevada Avenue,Colorado Springs,CO,80903,"62 A, 62 kW",Cost: Free
+Sam's Club - Fountain,Electrify America,4385 Venetucci Boulevard,Fountain,CO,80906,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart - Trinidad,Electrify America,2921 Toupal Drive,Trinidad,CO,81082,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Sam's Club - Pueblo,Electrify America,412 Eagleridge Boulevard,Pueblo,CO,81008,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Hion La Junta,ChargePoint,5 Walmart Way,La Junta,CO,81050,"62 A, 62 kW",Cost: Energy 0.48 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins Flat Fee 1.99 USD
+George's Drive Inn,Unknown (edit),564 US-85,Walsenburg,CO,81089,"125 A, 50 kW",Cost: 0.31$ / kWh Tax and fees added to price
+Phil Long Kia,evGateway,1338 Motor City Drive,Colorado Springs,CO,80905,"? A, ? kW",Cost: Unknown
+7-eleven,ChargePoint,3522 North Elizabeth Street,Pueblo,CO,81008,"62 A, 62 kW",Cost: 0.43$ / kWh Time not charging: $60/hr after 15 mins
+Pitkin County,None,76 Service Center Road,Aspen,CO,81611,"? A, ? kW",Cost: 0.00$ / Free
+Galena Street Parking,ChargePoint,501 South Galena Street,Aspen,CO,81611,"62 A, 62 kW",Cost: Free
+Stop N Save,ChargePoint,723 Horizon Drive,Grand Junction,CO,81506,"62 A, 62 kW",Cost: Energy 0.25 USD per kWh Parking 05:00 AM - 11:00 PM 0.1 USD per minute
+Sam's Club - Grand Junction,Electrify America,1040 Independent Avenue,Grand Junction,CO,81505,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Crested Butte Fire Hall,ChargePoint,306 Maroon Avenue,Crested Butte,CO,81224,"62 A, 62 kW",Cost: Energy 0.2 USD per kWh Parking 0.25 USD per minute
+Lake City Ice Park,ChargePoint,100 Bluff Street,Lake City,CO,81235,"62 A, 62 kW",Cost: Energy 0.2 USD per kWh Parking 0.25 USD per minute
+Creede Chamber of Commerce,ChargePoint,904 South Main Street,Creede,CO,81130,"62 A, 62 kW",Cost: Energy 0.2 USD per kWh Parking 0.25 USD per minute
+533 North 1st Street,ChargePoint,533 North 1st Street,Montrose,CO,81401,"62 A, 62 kW",Cost: 0.30$ / kWh Time not charging: $24/hr after 10 mins
+595 Columbia Avenue,ChargePoint,595 Columbia Avenue,Del Norte,CO,81132,"62 A, 62 kW",Cost: Energy 0.2 USD per kWh Parking 0.05 USD per minute
+111 West 3rd Street,EVConnect,111 West 3rd Street,Delta,CO,81416,"120 A, 50 kW","Cost: While charging: 7.00/hr for 0-180 mins + While charging: 25.00/hr after 180 mins + While parked, not charging: 25.00/hr"
+Wcsa Level 3 Esp250,ChargePoint,USFS-391,Pagosa Springs,CO,81147,"62 A, 62 kW",Cost: 1.20$ / kWh Time not charging: $2/hr after 5 mins
+Purgatory,ChargePoint,1 Skier Place,Durango,CO,81301,"62 A, 62 kW",Cost: 0.30$ / kWh Time not charging: $12/hr after 10 mins
+City Of Aspen City Hall,ChargePoint,415 Rio Grande Place,Aspen,CO,81611,"62 A, 62 kW",Cost: Free
+Town of Basalt - Midland Spur,ChargePoint,99 Midland Spur,Basalt,CO,81621,"62 A, 62 kW",Cost: Free
+Eagle County,None,500 Broadway Street,Eagle,CO,81631,"? A, ? kW",Cost: 0.00$ / Free
+Eagle Tourist Information Center,ChargePoint,112 Fairgrounds Road,Eagle,CO,81631,"62 A, 62 kW",Cost: 0.11$ / kWh
+504 Market St - WREA,ChargePoint,504 Market Street,Meeker,CO,81641,"62 A, 62 kW",Cost: 0.25$ / kWh
+Yampa Valley Electric Association,None,2211 Elk River Road,Steamboat Springs,CO,80487,"? A, ? kW",Cost: 0.25$ / kWh
+Target - Glenwood Springs,Electrify America,110 West Meadows Drive,Glenwood Springs,CO,81601,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+944 Cowen Drive,ChargePoint,944 Cowen Drive,Carbondale,CO,81623,"62 A, 62 kW",Cost: 0.14$ / kWh
+Dinosaur Colorado Welcome Center,ChargePoint,101 Stegosaurus Freeway,Dinosaur,CO,81610,"62 A, 62 kW",Cost: Energy 0.2 USD per kWh Parking 0 USD per minute for first 45 mins Parking 0.25 USD per minute after 45 mins
+EGE Airport Level 3,ChargePoint,216 Eldon Wilson Road,Gypsum,CO,81637,"62 A, 62 kW",Cost: 0.11$ / kWh
+Kum & Go,ChargePoint,80 Anglers Drive,Steamboat Springs,CO,80477,"62 A, 62 kW",Cost: Energy 0.35 USD per kWh Parking 0 USD per minute for first 35 mins Parking 0.2 USD per minute after 35 mins
+"Craig, CO Supercharger","ChargePoint, Tesla",700 East Victory Way,Craig,CO,81625,"62 A, 62 kW",Cost: Energy 0.35 USD per kWh Parking 0 USD per minute for first 35 mins Parking 0.2 USD per minute after 35 mins
+Gypsum Shop&hop,ChargePoint,800 Highway 6,Gypsum,CO,81637,"62 A, 62 kW",Cost: Energy 0.45 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.25 USD per minute after 30 mins
+Kum & Go Rifle,ChargePoint,705 Taugenbaugh Boulevard,Rifle,CO,81650,"62 A, 62 kW",Cost: Energy 0.35 USD per kWh Parking 0 USD per minute for first 35 mins Parking 0.2 USD per minute after 35 mins
+Glenwood Spring Fast Charger,ChargePoint,100 Riverine Road,Glenwood Springs,CO,81601,"26 A, 23.9 kW",Cost: Free
+Woodmen Nissan,None,6840 Vincent Drive,Colorado Springs,CO,80918,"? A, ? kW",Cost: 0.00$ / Free
+REI Colorado Springs,EVgo,1376 East Woodmen Road,Colorado Springs,CO,80920,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+912 South Main Street - SDCEA,ChargePoint,912 South Main Street,Buena Vista,CO,81211,"62 A, 62 kW",Cost: Energy 00:00 AM - 4:00 PM 0.546 USD per kWh 4:00 PM - 10:00 PM 1.329 USD per kWh 10:00 PM - 11:59 PM 0.546 USD per kWh Parking 0 USD per minute for first 60 mins Parking 2 USD per hour after 60 mins
+Harley Davisdon,ChargePoint,5867 North Nevada Avenue,Colorado Springs,CO,80918,"50 A, 24 kW",Cost: Free
+Two Rivers,ChargePoint,144A Co Road 105,Salida,CO,81201,"62 A, 62 kW",Cost: 0.46$ / kWh Time not charging: $15/hr after 10 mins
+Mike Maroone Volkswagen,ChargePoint,1580 Auto Mall Loop,Colorado Springs,CO,80920,"26 A, 23.9 kW",Cost: Free
+Fort Collins Museum of Discovery,EVgo,408 Mason Ct,Fort Collins,CO,80524,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Town of Paonia - Parking,None,236 Main Avenue,Paonia,CO,81428,"? A, ? kW",Cost: 4.00$/ Hour

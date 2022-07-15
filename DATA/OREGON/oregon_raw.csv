@@ -1,0 +1,140 @@
+STATION,NETWORK,ADDRESS,CITY,STATE,ZIP,CHARGE_SPEED,PRICE_RAW
+Lithia Nissan of Bend,None,1835 Northeast Highway 20,Bend,OR,97701,"? A, ? kW",Cost: 0.00$ / Free
+Canyonville - 7 Feathers Truck and Travel Center,Webasto,130 Creekside Road,Canyonville,OR,97417,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Roth's South Salem Oregon,OpConnect,3045 Commercial Street Southeast,Salem,OR,97302,"? A, ? kW",Cost: Unknown
+Sisters - Sisters Mainline Station,Webasto,1001 West Railway Avenue,Sisters,OR,97759,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Mill City - Mountain Edge Café,Webasto,320 Northwest Santiam Boulevard,Mill City,OR,97360,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Veneta - Veneta Park n' Ride,Webasto,88184 Territorial Road,Veneta,OR,97487,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Springfield - Gateway Marketplace,Webasto,840 Beltline Road,Springfield,OR,97477,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Cottage Grove - Vintage Inn Restaurant,Webasto,1570 Gateway Boulevard,Cottage Grove,OR,97424,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Lincoln City - Lincoln City Cultural Center,Webasto,540 U.S. 101,Lincoln City,OR,97367,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Yachats - Yachats City Hall,Webasto,441 Highway 101 North,Yachats,OR,97498,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+McKenzie Bridge - Blue Sky Market,Webasto,91808 Mill Creek Road,McKenzie Bridge,OR,97413,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Grants Pass - Grants Pass Chamber of Commerce,Webasto,1995 Northwest Vine Street,Grants Pass,OR,97528,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Florence - Three Rivers Casino,Webasto,5647 Highway 126,Florence,OR,97439,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Newport - City of Newport Public Parking Lot,Webasto,925 Southwest Hurbert Street,Newport,OR,97365,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Monmouth - Dairy Queen,Webasto,320 Pacific Avenue South,Monmouth,OR,97361,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Ashland - Shell,Webasto,2373 Ashland Street,Ashland,OR,97520,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Elkton - Brandborg Winery,Webasto,345 First Street,Elkton,OR,97436,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Roseburg - Wagon Wheel Restaurant,Webasto,188 Northwest Garden Valley Boulevard,Roseburg,OR,97470,"125 A, 50 kW",Cost: 0.49$ / kWh
+Wolf Creek - Wolf Creek Inn,Webasto,100 Front Street,Wolf Creek,OR,97497,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Central Point - Fairground Chevron,Webasto,1510 East Pine Street,Central Point,OR,97497,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Halsey - Pioneer Villa Truck Plaza,Webasto,33180 Highway 228,Halsey,OR,97348,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Oakland - Rodeway Inn,Webasto,621 John Long Road,Oakland,OR,97462,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Redmond - Fred Meyer,EVCS,944 Southwest Veterans Way,Redmond,OR,97756,"125 A, 50 kW",Cost: 0.49$ / Session $19.99 for monthly plan.
+Coos Bay -Fred Meyer,Webasto,1020 1st Street,Coos Bay,OR,97420,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Reedsport - Recreation Station,Webasto,1575 Highway 101 South,Reedsport,OR,97467,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Power Nissan - Salem,None,2755 Mission Street Southeast,Salem,OR,97302,"? A, ? kW",Cost: 0.00$ / Free
+Madras - Dairy Queen,Webasto,483 Southeast 5th street,Madras,OR,97741,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+3545 Gateway Street,Webasto,3545 Gateway Street,Springfield,OR,97477,"? A, ? kW",Cost: 7.50$ / Session
+Albany - Chevron,Webasto,33157 Highway 34 Southeast,Albany,OR,97322,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Spirit Mountain Casino Service Station,Webasto,26820 Salmon River Highway,Grand Ronde,OR,97347,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Brookings,Webasto,325 5th Street,Brookings,OR,97415,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Shari's,Blink,4998 River Road N,Keizer,OR,97303,"? A, ? kW",Cost: 0.49$ / kWh
+Fred Meyer,ChargePoint,1101 Grants Pass Parkway,Grants Pass,OR,97526,"50 A, 24 kW",Cost: 0.15$ / kWh
+Fred Meyer,ChargePoint,1307 Center Drive,Medford,OR,97501,"50 A, 24 kW",Cost: 0.15$ / kWh
+Fred Meyer,"ChargePoint, None",929 Northwest Garden Valley Boulevard,Roseburg,OR,97471,"50 A, 24 kW",Cost: 0.15$ / kWh
+Fred Meyer,ChargePoint,2500 Santiam Highway Southeast,Albany,OR,97322,"50 A, 24 kW",Cost: 0.15$ / kWh
+Warm Springs - Indian Head Casino,Webasto,3236 US 26,Warm Springs,OR,97761,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Port Orford - Seaside Plaza,Webasto,1320 Oregon Street,Port Orford,OR,97465,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Airport Rd SE Park n Ride,OpConnect,700 Airport Road,Salem,OR,97301,"? A, ? kW",Cost: Unknown
+Lassen Chevrolet Toyota,None,1205 Price Road Southeast,Albany,OR,97322,"? A, ? kW",Cost: 0.00$ / Free
+Power Chevrolet,None,1422 North Coast Highway,Newport,OR,97365,"? A, ? kW",Cost: 0.00$ / Free
+Guaranty Chevrolet,None,20 Highway 99 South,Junction City,OR,97448,"? A, ? kW",Cost: 0.00$ / Free
+Airport Chevrolet,None,3001 Biddle Road,Medford,OR,97504,"? A, ? kW",Cost: 0.00$ / Free
+Sutherlin Dairy Queen,Electrify America,1621 West Central Avenue,Sutherlin,OR,97479,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Detroit - Mountain High Grocery,Webasto,245 North Detroit Avenue,Detroit,OR,97342,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Walmart - Salem,Electrify America,3025 Lancaster Drive Northeast,Salem,OR,97305,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Madras Chamber of Commerce,ChargePoint,274 Southwest 4th Street,Madras,OR,97741,"62 A, 62 kW","Cost: Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 00:00 AM - 4:00 PM 0.18 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 4:00 PM - 8:00 PM 0.28 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 8:00 PM - 11:59 PM 0.18 USD per minute Parking SATURDAY,SUNDAY 0.18 USD per minute"
+Walmart - Albany,Electrify America,1330 Goldfish Farm Road Southeast,Albany,OR,97322,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart - Grants Pass,Electrify America,135 Northeast Terry Lane,Grants Pass,OR,97526,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Pacific Power,ChargePoint,70 Northwest Newport Avenue,Bend,OR,97703,"62 A, 62 kW","Cost: Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 00:00 AM - 4:00 PM 0.18 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 4:00 PM - 8:00 PM 0.28 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 8:00 PM - 11:59 PM 0.18 USD per minute Parking SATURDAY,SUNDAY 0.18 USD per minute"
+"Target T0612 - Springfield, OR",Electrify America,2750 Gateway Street,Springfield,OR,97477,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Mercedes Benz,ChargePoint,2200 Martin Luther King Jr Boulevard,Eugene,OR,97401,"62 A, 62 kW",Cost: 18.00$ / Hour
+Otis Fuel and Market,ChargePoint,1264 Salmon River Highway,Otis,OR,97368,"62 A, 62 kW","Cost: Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 00:00 AM - 4:00 PM 0.18 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 4:00 PM - 8:00 PM 0.28 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 8:00 PM - 11:59 PM 0.18 USD per minute Parking SATURDAY,SUNDAY 0.18 USD per minute"
+"Madras, OR City Hall",OpConnect,71 Southeast D Street,Madras,OR,97741,"? A, ? kW",Cost: Unknown
+Pin Square,ChargePoint,Pine Street North 6th Street,Klamath Falls,OR,97601,"62 A, 62 kW","Cost: Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 00:00 AM - 4:00 PM 0.18 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 4:00 PM - 8:00 PM 0.28 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 8:00 PM - 11:59 PM 0.18 USD per minute Parking SATURDAY,SUNDAY 0.18 USD per minute"
+Pacific Power Mill City,ChargePoint,143 Northeast Wall Street,Mill City,OR,97360,"62 A, 62 kW","Cost: Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 00:00 AM - 4:00 PM 0.18 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 4:00 PM - 8:00 PM 0.28 USD per minute Parking MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY 8:00 PM - 11:59 PM 0.18 USD per minute Parking SATURDAY,SUNDAY 0.18 USD per minute"
+Otec John Day,ChargePoint,240 South Canyon Boulevard,John Day,OR,97845,"62 A, 62 kW",Cost: Energy 0.29 USD per kWh Flat Fee 3 USD
+Walmart,Electrify America,160 Northwest 25th Street,Newport,OR,97365,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Dallas Aquatic Center,EVConnect,1005 Southeast Lacreole Drive,Dallas,OR,97338,"125 A, 50 kW",Cost: 6.00$ / Hour
+Walmart,Electrify America,20120 Southwest Pinebrook Boulevard,Bend,OR,97702,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+City of Albany Revitalization Agency,EVConnect,180 Ferry Street (parking lot across the street),Albany,OR,97321,"62 A, 25 kW",Cost: 0.35$ / kWh Time not charging: $15/hr after 30 mins
+Otec Harney Chamber,ChargePoint,484 North Broadway Avenue,Burns,OR,97720,"62 A, 62 kW",Cost: Energy 0.29 USD per kWh Flat Fee 3 USD
+Wolf Creek Inn,EVCS,100 Front Street,Wolf Creek,OR,97497,"? A, ? kW",Cost: Unknown
+Mill City - Moutain Ridge Café,EVCS,320 Northwest Santiam Boulevard,Mill City,OR,97360,"? A, ? kW",Cost: Unknown
+Mercedes Benz of Medford,ChargePoint,3240 Crater Lake Avenue,Medford,OR,97504,"62 A, 62 kW",Cost: 0.63$ / kWh Time not charging: $6/hr after 5 mins
+108 New Street,ChargePoint,108 New Street,Talent,OR,97540,"62 A, 62 kW",Cost: Energy 0.3 USD per kWh Parking 0 USD per minute for first 60 mins Parking 0.1 USD per minute after 60 mins
+WCEH - Brookings,EVCS,325 5th Street,Brookings,OR,97415,"? A, ? kW",Cost: Unknown
+Coos Bay - Fred Meyer,EVCS,1020 1st Street,Coos Bay,OR,97420,"? A, ? kW",Cost: Unknown
+Hyundai Service,ChargePoint,2020 Mission Street Southeast,Salem,OR,97302,"62 A, 62 kW",Cost: Energy 0.48 USD per kWh Parking 0 USD per hour for first 60 mins Parking 5 USD per hour after 60 mins
+1900 Hines Street Southeast,ChargePoint,1900 Hines Street Southeast,Salem,OR,97302,"62 A, 62 kW",Cost: Energy 0.48 USD per kWh Parking 0 USD per hour for first 60 mins Parking 5 USD per hour after 60 mins
+T & T Country Store - Huntington,Electrify America,40 WASHINGTON STREET West,Huntington,OR,97907,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Ray Schultens Nissan,None,2400 West 6th Street,The Dalles,OR,97058,"? A, ? kW",Cost: 0.00$ / Free
+Arlington Oregon City Hall,OpConnect,1310 Locust Avenue,Arlington,OR,97812,"? A, ? kW",Cost: Unknown
+Government Camp - Ski Bowl West,Webasto,87000 East Highway 26,Government Camp,OR,97028,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+The Dalles - Fred Meyer,Webasto,1215 West 6th Street,The Dalles,OR,97058,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+City of Cascade Locks Public Parking Lot,Webasto,95 N.E. Wa Na Pa,Cascade Locks,OR,97014,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Welches - Barlow Trail Roadhouse,Webasto,69580 East Highway 26,Welches,OR,97067,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Hood River - City of Hood River Public Parking Lot,Webasto,607 Columbia Street,Hood River,OR,97031,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Fred Meyer,Electrify America,16625 Southeast 362nd Drive,Sandy,OR,97055,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Fred Meyer - Portland,Blink,3030 Northeast Weidler Street,Portland,OR,97232,"? A, ? kW",Cost: Unknown
+Lloyd Center,ChargePoint,2252 Lloyd Center,Portland,OR,97232,"100 A, 50 kW",Cost: Energy 0.2 USD per kWh Parking 0.04 USD per minute
+Aloft Hotel,ChargePoint,9920 Northeast Cascades Parkway,Portland,OR,97220,"50 A, 24 kW",Cost: Energy 0.18 USD per kWh Parking 0 USD per minute for first 30 mins Parking 0.05 USD per minute after 30 mins
+New Seasons Market - Grant Park,EVgo,3210 Northeast Broadway Street,Portland,OR,97232,"125 A, 50 kW","Cost: Pay As You Go: $0.29/min, $3.00 for reservations; Evgo Member: $0.25/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.22/min, free for reservations, Membership fee: $6.99/month"
+7-Eleven,EVgo,Northeast 82nd Way & Northeast Air Cargo Road,Portland,OR,97218,"125 A, 50 kW","Cost: Pay As You Go: $0.29/min, $3.00 for reservations; Evgo Member: $0.25/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.22/min, free for reservations, Membership fee: $6.99/month"
+Space Age Fuel,Electrify America,77522 South Highway 207,Hermiston,OR,97838,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart - Island City,Electrify America,11619 Island Avenue,Island City,OR,97850,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart - Hood River,Electrify America,2700 Wasco Street,Hood River,OR,97031,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Harley Davisdon,ChargePoint,870 East Berkeley Street,Gladstone,OR,97027,"50 A, 24 kW",Cost: Energy 0.44 USD per kWh Parking 0 USD per minute for first 60 mins Parking 0.1 USD per minute after 60 mins
+Eastport Plaza,Shell Recharge,4000 Southeast 82nd Avenue,Portland,OR,97206,"100 A, 40 kW","Cost: Mon-Fri (5PM-8PM) $0.19 per kWh, Mon-Fri (3PM-5PM) $0.19 per kWh (Fee: $5.00 plus taxes)"
+Columbia Gorge Outlets,Electrify America,450 Northwest 257th Way,Troutdale,OR,97060,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Target,Electrify America,9000 Southeast Sunny-side Road,Clackamas,OR,97015,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+10880 Southeast McLoughlin Boulevard,Shell Recharge,10880 Southeast McLoughlin Boulevard,milwaukie,OR,97222,"125 A, 50 kW","Cost: Mon-Fri (5PM-8PM) $0.00 per kWh, Mon-Fri (3PM-5PM) $0.00 per kWh (Fee: $5.00 plus taxes)"
+Clackamas Town Center REI,Volta,12000 Southeast 82Nd Avenue,Happy Valley,OR,97086,"? A, ? kW",Cost: Free
+Pendleton Station Union Pacific,ChargePoint,268 Southwest Frazer Avenue,Pendleton,OR,97801,"62 A, 62 kW",Cost: Energy 0.35 USD per kWh Parking (While not charging) 0.25 USD per minute After 20 mins of grace Period Parking (While plugged in) For first 20 mins Free Flat Fee 2 USD
+McLoughlin Chevrolet,None,16700 Southeast McLoughlin Boulevard,Milwaukie,OR,97267,"? A, ? kW",Cost: Unknown
+EV4 Oregon LLC,ChargePoint,2727 Southeast Raymond Street,Portland,OR,97202,"52 A, 23.9 kW",Cost: 0.40$ / kWh
+Kroger Fred Meyer,Electrify America,6615 Northeast Glisan Street,Portland,OR,97213,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Kroger Fred Meyer,Electrify America,3805 Southeast Hawthorne Boulevard,Portalnd,OR,97214,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Courtyard by Marriott,OpConnect,15686 Southwest Sequoia Parkway,Tigard,OR,97224,"? A, ? kW",Cost: Unknown
+Lincoln Center - Gustav's Restaurant,OpConnect,10300 Southwest Greenburg Road,Tigard,OR,97223,"? A, ? kW",Cost: Unknown
+Banks - Jim's Thriftway,"Webasto, EVCS",660 Main Street,Banks,OR,97106,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Newberg - Chevron,Webasto,3745 East Portland Road,Newberg,OR,97132,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Scappoose - Fred Meyer,Webasto,51501 Columbia River Highway,Scappoose,OR,97056,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Westport - Berry Patch,Webasto,49289 US 30,WESTPORT,OR,97016,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+McMinnville - Oregon Mutual Insurance,Webasto,410 Northeast Baker Street,McMinnville,OR,97128,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Cannon Beach - Cannon Beach RV Resort,Webasto,340 Elk Creek Road,Cannon Beach,OR,97110,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Astoria - Sunset Empire Transit District,Webasto,900 Marine Drive,Astoria,OR,97103,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+"Simon Woodburn Premium Outlets (Woodburn, OR)",Electrify America,1001 North ARNEY Road,Woodburn,OR,97071,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Electric Avenue,Shell Recharge,121 Southwest Salmon Street,Portland,OR,97204,"125 A, 50 kW","Cost: Mon-Fri (3PM-5PM) $0.00 per kWh, Mon-Fri (5PM-8PM) $0.00 per kWh (Fee: $5.00 plus taxes)"
+Tillamook - Fred Meyer,Webasto,2500 North Main Street,Tillamook,OR,97141,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Washington Square,EVgo,9585 Southwest Washington Square Road,Portland,OR,97223,"125 A, 50 kW","Cost: Pay As You Go: $0.29/min, $3.00 for reservations; Evgo Member: $0.25/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.22/min, free for reservations, Membership fee: $6.99/month"
+New Seasons Market - Slabtown,EVgo,2170 Northwest Raleigh Street,Portland,OR,97210,"125 A, 50 kW","Cost: Pay As You Go: $0.29/min, $3.00 for reservations; Evgo Member: $0.25/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.22/min, free for reservations, Membership fee: $6.99/month"
+REI,EVgo,7410 Southwest Bridgeport Road,Portland,OR,97224,"125 A, 50 kW","Cost: Pay As You Go: $0.29/min, $3.00 for reservations; Evgo Member: $0.25/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.22/min, free for reservations, Membership fee: $6.99/month"
+Walmart - Sherwood,Electrify America,21320 Southwest Langer Farms Parkway,Sherwood,OR,97140,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Walmart - Cornelius,Electrify America,220 North Adair Street,Cornelius,OR,97113,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+CCRider Transit Center,Shell Recharge,205 West B Street,Rainier,OR,97048,"125 A, 50 kW",Cost: Mon-Sun (5PM-5PM) $5.90 for first 1 minutes then $0.05 per kWh (Fee: 10.00% plus taxes)
+Clatskanie PUD Office,Shell Recharge,495 East Columbia River Highway,Clatskanie,OR,97016,"125 A, 50 kW",Cost: Mon-Sun (5PM-5PM) $5.90 for first 1 minutes then $0.05 per kWh (Fee: 10.00% plus taxes)
+Harley Davidson,ChargePoint,10770 Southwest Cascade Avenue,Tigard,OR,97223,"50 A, 24 kW",Cost: 9.00$ / Hour $9/hr: after 15 mins; Time not charging: $12/hr after 15 mins
+Southwest Wilsonville Road & Memorial Drive,Shell Recharge,Southwest Wilsonville Road & Memorial Drive,Wilsonville,OR,97070,"100 A, 40 kW","Cost: Mon-Fri (5PM-8PM) $0.19 per kWh, Mon-Fri (3PM-5PM) $0.19 per kWh (Fee: $5.00 plus taxes)"
+11885 SouthWest Canyon Road,Shell Recharge,11885 SouthWest Canyon Road,Beaverton,OR,97005,"100 A, 40 kW","Cost: Mon-Fri (5PM-8PM) $0.19 per kWh, Mon-Fri (3PM-5PM) $0.19 per kWh (Fee: $5.00 plus taxes)"
+Walmart,Electrify America,7600 Southwest Dartmouth Street,Tigard,OR,97223,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Woodburn - Woodburn Transit Center,Webasto,2875 Newburg Highway,Woodburn,OR,97071,"? A, ? kW",Cost: 7.50$ / Session $19.99 for monthly plan.
+Fred Meyer 40,Electrify America,7555 Southwest BARBUR Boulevard,Portland,OR,97219,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Bank of America,Electrify America,400 4th Street,Lake Oswego,OR,97034,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+64001 Columbia River Highway,ChargePoint,64001 Columbia River Highway,Deer Island,OR,97054,"62 A, 62 kW",Cost: 0.13$ / kWh
+Clatsop Community College,EVConnect,1651 Lexington Avenue,Astoria,OR,97103,"125 A, 50 kW",Cost: Free
+Target,Electrify America,10775 Southwest Beaverton Hillsdale Highway,Beaverton,OR,97005,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Carr Chevrolet,None,15005 Southwest Tualatin Valley Highway,Beaverton,OR,97006,"? A, ? kW",Cost: Unknown
+Anna's Island Café,ChargePoint,4717 North Lagoon Avenue,Portland,OR,97217,"62 A, 62 kW",Cost: 0.15$ / kWh
+South Lot,ChargePoint,1115 Pacific Avenue,Tillamook,OR,97141,"62 A, 62 kW",Cost: Free
+Fred Meyer,Electrify America,695 South Highway 101,Warrenton,OR,97146,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Clatskanie Middle & High School,Shell Recharge,471 Bel Air Drive,Clatskanie,OR,97016,"125 A, 50 kW",Cost: Mon-Sun (5PM-5PM) $5.90 for first 1 minutes then $0.05 per kWh (Fee: 10.00% plus taxes)
+Electric Island,Shell Recharge,4717 North Lagoon Avenue,Portland,OR,97217,"190 A, 174.8 kW","Cost: 0.15$ / kWh $0.15/kWh: 16:00-16:00, Maximum power of 175 KW"
+Hillsboro Electric Avenue,Shell Recharge,2295 Southwest Tualatin Valley Highway,Hillsboro,OR,97123,"100 A, 40 kW","Cost: Mon-Fri (5PM-8PM) $0.19 per kWh, Mon-Fri (3PM-5PM) $0.19 per kWh (Fee: $5.00 plus taxes)"
+DTNA Corp,ChargePoint,3698 North Emerson Street,Portland,OR,97217,"? A, ? kW",Cost: Unknown
+DTNA Corp,ChargePoint,5400 North Basin Avenue,Portland,OR,97217,"? A, ? kW",Cost: Unknown
+Kroger-Fred Meyer,Electrify America,6850 North Lombard Street,Portland,OR,97203,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month
+Deer Island St Helens City,ChargePoint,260 South 2nd Street,St. Helens,OR,97051,"62 A, 62 kW",Cost: 0.13$ / kWh
+Kroger-Fred Meyer,Electrify America,15995 Southwest Walker Road,Beaverton,OR,97006,"875 A, 350 kW",Cost: 0.43$ / kWh Membership rate: $0.31/kWh. Membership fee: $4.00/month

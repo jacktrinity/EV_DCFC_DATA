@@ -1,0 +1,155 @@
+STATION,NETWORK,ADDRESS,CITY,STATE,ZIP,AMPS,KW,NON_PER_MIN,MEM_PER_MIN,MEM_FEE_PER_MONTH
+Baker Nissan North,None,19630 Northwest Freeway,Houston,TX,77065,NULL,NULL,0,NULL,NULL
+Central Houston Nissan,None,2901 South Loop West,Houston,TX,77054,NULL,NULL,0,NULL,NULL
+Mossy Nissan,None,12150 Katy Freeway,Houston,TX,77079,NULL,NULL,0,NULL,NULL
+Sterling McCall Nissan,None,12230 Southwest Freeway,Stafford,TX,77477,NULL,NULL,NULL,NULL,NULL
+Keating Nissan,None,333 Interstate 45 South,Conroe,TX,77301,NULL,NULL,0,NULL,NULL
+McDavid Nissan,None,11911 Gulf Freeway,Houston,TX,77034,NULL,NULL,0,NULL,NULL
+Cracker Barrel - Kingwood,EVgo,24400 Highway 59 North,Kingwood,TX,77339,125,50,0.3,0.27,6.99
+Walgreens - Blackhawk Boulevard,EVgo,9885 Blackhawk Boulevard,Houston,TX,77075,125,50,0.3,0.27,6.99
+Cracker Barrel - League City,EVgo,231 Gulf Freeway South,League City,TX,77573,125,50,0.3,0.27,6.99
+Walgreens - Holzworth,EVgo,19710 Holzwarth Road,Spring,TX,77388,125,50,0.3,0.27,6.99
+Cracker Barrel - Katy Fwy,EVgo,18151 Katy Freeway,Houston,TX,77094,125,50,0.3,0.27,6.99
+Walgreens - Baytown,EVgo,7216 Garth Road,Baytown,TX,77521,125,50,0.3,0.27,6.99
+H-E-B - W Alabama,EVgo,1701 West Alabama Street,Houston,TX,77098,125,50,0.3,0.27,6.99
+H-E-B - Spring,EVgo,130 Sawdust Road,Spring,TX,77380,125,50,0.3,0.27,6.99
+Walgreens,EVgo,8942 West Sam Houston Parkway North,Houston,TX,77040,125,50,0.3,0.27,6.99
+Cracker Barrel - Pearland,EVgo,11019 Shadow Creek Parkway,Pearland,TX,77584,125,50,0.3,0.27,6.99
+Walgreens,EVgo,12611 South Gessner Road,Houston,TX,77071,125,50,0.3,0.27,6.99
+Memorial City Mall,EVgo,303 Memorial City,Houston,TX,77024,125,50,0.3,0.27,6.99
+Whole Foods - Sugarland,EVgo,15900 Southwest Freeway,Sugar Land,TX,77478,125,50,0.3,0.27,6.99
+Walgreens,EVgo,13631 Tidwell Road,Houston,TX,77044,125,50,0.3,0.27,6.99
+H-E-B - Buffalo Speedway,EVgo,5225 Buffalo Speedway,Houston,TX,77005,125,50,0.3,0.27,6.99
+Walgreens - Eastex Freeway,EVgo,10660 Eastex Freeway,Houston,TX,77093,125,50,0.3,0.27,6.99
+Katy Mills - Entry 6,EVgo,5000 Katy Mills Circle,Katy,TX,77494,125,50,0.3,0.27,6.99
+Clay Cooley Nissan of Austin,None,4914 South IH-35,Austin,TX,78745,NULL,NULL,0,NULL,NULL
+Tom Peacock Nissan,None,15300 North Freeway,Houston,TX,77090,NULL,NULL,0,NULL,NULL
+Gables Park Plaza,ChargePoint,812 Electric Drive,Austin,TX,78703,62,62,0.21,NULL,NULL
+Round Rock Premium Outlets,EVgo,4401 North Interstate 35,Round Rock,TX,78664,125,50,0.3,0.27,6.99
+Barton Creek Square Mall,EVgo,2901 South Capital of Texas Highway,Austin,TX,78746,125,50,0.3,0.27,6.99
+Pie Ae Seaholm,ChargePoint,900 Electric Drive,Austin,TX,78703,62,62,0.21,NULL,NULL
+Jaguar Land Rover,ChargePoint,20415 Katy Freeway,Katy,TX,77450,50,24,0,NULL,NULL
+Walmart - Huntsville,Electrify America,141 I-45 South,Huntsville,TX,77340,875,350,0.32,0.24,4
+Round Rock Premium Outlets,Electrify America,4401 North I-35,Round Rock,TX,78664,875,350,0.32,0.24,4
+Snappy's Market - Columbus,Electrify America,2006 Alleyton Road South,Columbus,TX,78934,875,350,0.32,0.24,4
+Walmart - Stafford,Electrify America,11210 West Airport Boulevard,Stafford,TX,77477,875,350,0.32,0.24,4
+Walmart - Pearland,Electrify America,10505 Broadway Street,Pearland,TX,77584,875,350,0.32,0.24,4
+Walmart - League City,Electrify America,1701 West FM 646 Road,League City,TX,77573,875,350,0.32,0.24,4
+Walmart - San Antonio,Electrify America,4331 Thousand Oaks Drive,San Antonio,TX,78217,875,350,0.32,0.24,4
+Harley Davidson Woodlands,ChargePoint,25545 I-45,The Woodlands,TX,77380,50,24,0.33,NULL,NULL
+Alamo City Harley Davidson,ChargePoint,11005 North Interstate 35 Frontage Road,San Antonio,TX,78233,50,24,0,NULL,NULL
+Stubbs Harley Davidson,ChargePoint,4400 Telephone Road,Houston,TX,77087,50,24,0.1,NULL,NULL
+Walmart - Vidor,Electrify America,1360 North Main Street,Vidor,TX,77662,875,350,0.32,0.24,4
+10917 S IH 35 Frontage Road,ChargePoint,10917 South IH 35 Frontage Road,Austin,TX,78747,50,24,0,NULL,NULL
+Walmart - Houston,Electrify America,13750 East Freeway,Houston,TX,77015,875,350,0.32,0.24,4
+Walmart - Madisonville,Electrify America,1620 East Main Street,Madisonville,TX,77864,875,350,0.32,0.24,4
+Walmart - Houston,Electrify America,111 Yale Street,Houston,TX,77007,875,350,0.32,0.24,4
+GVEC Western Operations Center,ChargePoint,6400 I-10,Seguin,TX,78155,62,62,0.26,NULL,NULL
+Parking Garage 70 Rainey,ChargePoint,70 Rainey Street,Austin,TX,78701,62,62,0.21,NULL,NULL
+Guadelupe Valley Electric Coop,ChargePoint,927 TX-46,Seguin,TX,78155,62,62,0.26,NULL,NULL
+316 W 8th Street Parking,ChargePoint,316 West 8th Street,Austin,TX,78701,62,62,0.21,NULL,NULL
+Walmart - Bellmead,Electrify America,1521 North Interstate 35 Frontage Road,Bellmead,TX,76705,875,350,0.32,0.24,4
+Walmart - Spring,Electrify America,1025 Sawdust Road,Spring,TX,77380,875,350,0.32,0.24,4
+Village Plaza at Bunker Hill,EVgo,9710 Katy Freeway,Houston,TX,77055,125,50,0.3,0.27,6.99
+901 East 5th Street,ChargePoint,901 East 5th Street,Austin,TX,78702,62,62,0.21,NULL,NULL
+Austin High School,ChargePoint,2102 Veterans Drive,Austin,TX,78703,62,62,0.21,NULL,NULL
+Bartholomew Municipal Pool,ChargePoint,1800 East 51st Street,Austin,TX,78723,62,62,0.21,NULL,NULL
+2011 East 51st Street,ChargePoint,2005 ½ East 51st street,Austin,TX,78723,62,62,0.21,NULL,NULL
+Sonora Bank,ChargePoint,100 Stillwater Road,Wimberley,TX,78676,62,62,0,NULL,NULL
+The Woodlands Mall,Volta,1201 Lake Woodlands Drive,The Woodlands,TX,77380,NULL,NULL,0,NULL,NULL
+Katy Mills,Electrify America,5000 Katy Malls Circle,Katy,TX,77494,875,350,0.32,0.24,4
+Mueller Market,ChargePoint,1801 East 51st Street,Austin,TX,78723,62,62,0.21,NULL,NULL
+North Star Mall Kona Grill,Volta,7400 San Pedro Avenue,San Antonio,TX,78216,NULL,NULL,0,NULL,NULL
+San Jacinto Harley-Davidson,ChargePoint,3636 East Sam Houston Parkway South,Pasadena,TX,77505,50,24,0.1,NULL,NULL
+Midsouth Charge Pine Market,ChargePoint,791 Fish Creek Thoroughfare,Montgomery,TX,77316,62,62,0,NULL,NULL
+Baybrook Mall,Volta,500 Baybrook Mall,Friendswood,TX,77546,NULL,NULL,0,NULL,NULL
+Brookshire Bros #12,EVConnect,455 George Bush Drive West,College Station,TX,77840,125,50,0.35,NULL,NULL
+San Marcos Premium Outlets,EVgo,3939 South Interstate 35,San Marcos,TX,78666,125,50,0.3,0.27,6.99
+Campingworld Spring,ChargePoint,19302 I-45,Spring,TX,77373,62,62,0.3,NULL,NULL
+Gibbons Creek Store,ChargePoint,5015 Hwy30,Anderson,TX,77830,62,62,0,NULL,NULL
+Midsouth Charge Midsouth Office,ChargePoint,9409 North Highway 6 Loop,Navasota,TX,77868,62,62,0,NULL,NULL
+1403 Williams Drive,ChargePoint,1403 Williams Drive,Georgetown,TX,78628,62,62,0.35,NULL,NULL
+BMW,ChargePoint,5501 South IH 35 Frontage Road,Austin,TX,78744,50,24,0,NULL,NULL
+Land Rover Houston Central,ChargePoint,7025 Old Katy Road,Houston,TX,77024,50,24,0,NULL,NULL
+James Avery Plaza,ChargePoint,6300 183A Frontage Road,Cedar Park,TX,78613,62,62,0.17,NULL,NULL
+Mercedes-Benz of The Woodlands,ChargePoint,16917 I-45 South,The Woodlands,TX,77385,62,62,0.3,NULL,NULL
+Land Rover Clear Lake DC Wallbox,ChargePoint,17970 Gulf Freeway,Friendswood,TX,77546,26,23.9,0,NULL,NULL
+Mancuso Harley-Davidson Central,ChargePoint,535 North Loop West Freeway,Houston,TX,77018,50,24,0,NULL,NULL
+Walmart - Sweetwater,Electrify America,407 Northeast Georgia Avenue,Sweetwater,TX,79556,875,350,0.32,0.24,4
+Days Inn - Van Horn,Electrify America,600 East Broadway,Van Horn,TX,79855,875,350,0.32,0.24,4
+Walmart - Fort Stockton,Electrify America,2610 West Dickinson Boulevard,Fort Stockton,TX,79735,875,350,0.32,0.24,4
+Walmart - Midland,Electrify America,200 West I-20,Midland,TX,79701,875,350,0.32,0.24,4
+Hampton Inn - Ozona,Electrify America,816 14TH Street,Ozona,TX,76943,875,350,0.32,0.24,4
+Sonic - Pecos,Electrify America,5101 South Cedar Street,Pecos,TX,79772,875,350,0.32,0.24,4
+Sam's Club - Amarillo,Electrify America,8952 Westgate Parkway,Amarillo,TX,79124,875,350,0.32,0.24,4
+Walmart - Eastland,Electrify America,1410 East Main Street,Eastland,TX,76448,875,350,0.32,0.24,4
+5702 58th Street,ChargePoint,5702 58th Street,Lubbock,TX,79424,50,24,0,NULL,NULL
+AutoNation Chevrolet Amarillo,None,2200 East Interstate Drive,Amarillo,TX,79103,NULL,NULL,NULL,NULL,NULL
+Gunn Nissan of Denton,None,5650 South Interstate 35 East,Corinth,TX,76210,NULL,NULL,0,NULL,NULL
+AutoNation Nissan - Lewisville,None,1601 South Stemmons Freeway,Lewisville,TX,75067,NULL,NULL,0,NULL,NULL
+Courtesy Nissan,None,1777 North Central Expy,Richardson,TX,75080,NULL,NULL,0,NULL,NULL
+Nissan of McKinney,None,3800 South Central Expy,McKinney,TX,75069,NULL,NULL,0,NULL,NULL
+Walgreens,EVgo,5201 Belt Line Road,Dallas,TX,75254,125,50,0.3,0.27,6.99
+Texas Nissan of Grapevine,None,1401 West State Highway 114,Grapevine,TX,76051,NULL,NULL,0,NULL,NULL
+Walgreens,EVgo,26731 US Highway 380 East,Aubrey,TX,76227,125,50,0.3,0.27,6.99
+Walgreens,EVgo,313 North Denton Tap Road,Coppell,TX,75019,125,50,0.3,0.27,6.99
+Grapevine Mills Mall,EVgo,3000 Grapevine Mills Parkway,Grapevine,TX,76051,125,50,0.3,0.27,6.99
+Walmart - Denton,Electrify America,2750 West University,Denton,TX,76201,875,350,0.32,0.24,4
+Mav Harley,ChargePoint,1845 I-35E,Carrollton,TX,75006,50,24,0.1,NULL,NULL
+5920 I-35E Harley,ChargePoint,5920 I-35E,Corinth,TX,76210,50,24,0.12,NULL,NULL
+Walmart - Royse City,Electrify America,494 I-30,Royse City,TX,75189,875,350,0.32,0.24,4
+Mercedes-Benz of Plano,ChargePoint,6455 Dallas Parkway,Plano,TX,75024,62,62,0.3,NULL,NULL
+GM- Foundation Automotive of Wichita Falls,EVConnect,315 Central Freeway East,Wichita Falls,TX,76301,125,50,0.5,NULL,NULL
+Clay Cooley Nissan - Dallas,None,39690 Lyndon B Johnson Freeway,Dallas,TX,75237,NULL,NULL,0,NULL,NULL
+Nissan of Fort Worth,None,3451 West Loop 820 South,Fort Worth,TX,76116,NULL,NULL,0,NULL,NULL
+Walgreens - Hudson Oaks,EVgo,130 North Oakridge Drive,Hudson Oaks,TX,76087,125,50,0.3,0.27,6.99
+Shell - North Belt Line,EVgo,927 North Belt Line Road,Grand Prairie,TX,75050,125,50,0.3,0.27,6.99
+Victron at Shell,EVgo,102 South Belt Line Road,Dallas,TX,75253,125,50,0.3,0.27,6.99
+Walgreens - Arlington,EVgo,1020 North Collins Street,Arlington,TX,76011,125,50,0.3,0.27,6.99
+Walgreens,EVgo,8020 Denton Highway,Watauga,TX,76148,125,50,0.3,0.27,6.99
+Walgreens,EVgo,921 Henderson Street,Fort Worth,TX,76102,125,50,0.3,0.27,6.99
+Walgreens,EVgo,9937 Garland Road,Dallas,TX,75218,125,50,0.3,0.27,6.99
+Cracker Barrel - Arlington,EVgo,1251 North Watson Road,Arlington,TX,76006,125,50,0.3,0.27,6.99
+Walgreens,EVgo,2911 Ridge Road,Rockwall,TX,75032,125,50,0.3,0.27,6.99
+Walgreens,EVgo,3802 Cedar Springs Road,Dallas,TX,75219,125,50,0.3,0.27,6.99
+Whataburger-Exxon,EVgo,3799 North Houston School Road,Lancaster,TX,75134,125,50,0.3,0.27,6.99
+Walgreens,EVgo,5742 East Mockingbird Lane,Dallas,TX,75206,125,50,0.3,0.27,6.99
+Walgreens,EVgo,780 West Bedford Euless Road,Hurst,TX,76053,125,50,0.3,0.27,6.99
+Cracker Barrel Freedom Station,EVgo,13301 South Freeway,Burleson,TX,76028,125,50,0.3,0.27,6.99
+Grubbs Nissan Grapevine,None,310 Airport Freeway,Bedford,TX,76022,NULL,NULL,0,NULL,NULL
+Walgreens - Lake Worth,EVgo,6244 Lake Worth Boulevard,Fort Worth,TX,76135,125,50,0.3,0.27,6.99
+Cracker Barrel - Mesquite,EVgo,5304 North Galloway Avenue,Mesquite,TX,75150,125,50,0.3,0.27,6.99
+Walgreens,EVgo,4515 Camp Bowie Boulevard,Fort Worth,TX,76107,125,50,0.3,0.27,6.99
+Trophy Nissan,None,5031 North Galloway Avenue,Mesquite,TX,75150,NULL,NULL,0,NULL,NULL
+Walgreens - Mansfield,EVgo,750 North Walnut Creek Drive,Mansfield,TX,76063,125,50,0.3,0.27,6.99
+Walgreens - Haltom City,EVgo,4520 Western Center Boulevard,Haltom City,TX,76137,125,50,0.3,0.27,6.99
+Cracker Barrel - Desoto,EVgo,1421 North Interstate 35 East,Desoto,TX,75115,125,50,0.3,0.27,6.99
+Stampede Harley Davidson,ChargePoint,240 North Burleson Boulevard,Burleson,TX,76028,50,24,0.16,NULL,NULL
+Walmart - Ennis,Electrify America,700 East Ennis Avenue,Ennis,TX,75119,875,350,0.32,0.24,4
+Sam's Club - Westworth Village,Electrify America,6760 Westworth Boulevard,Westworth Village,TX,76114,875,350,0.32,0.24,4
+Harley Davisdon,ChargePoint,1 Texas Harley Way,Bedford,TX,76021,50,24,0.1,NULL,NULL
+Harley Davisdon,ChargePoint,3025 West Loop 820 South,FORT WORTH,TX,76116,50,24,0,NULL,NULL
+2415 Global Drive,ChargePoint,2415 Global Drive,Irving,TX,75062,60,24,0,NULL,NULL
+Autobahn BMW,ChargePoint,2810 White Settlement Road,Fort Worth,TX,76107,50,24,0,NULL,NULL
+Clay Cooley Nissan,None,1500 East Airport Freeway,Irving,TX,75062,NULL,NULL,0,NULL,NULL
+Longhorn Harley,ChargePoint,2830 I-20 Frontage Road,Grand Prairie,TX,75052,50,24,0.1,NULL,NULL
+Shops at Clearfork,EVgo,5188 Monahans Avenue,Fort Worth,TX,76109,125,50,0.3,0.27,6.99
+AutoNation Hyundai,ChargePoint,7724 Northeast Loop 820,North Richland Hills,TX,76180,62,62,0,NULL,NULL
+Bob Stallings Hyundai,ChargePoint,39444 Lyndon B Johnson Freeway,Dallas,TX,75232,62,62,0.02,NULL,NULL
+Jerry's Cadillac,EVConnect,3110 Fort Worth Highway,Weatherford,TX,76087,125,50,0.25,NULL,NULL
+Retail Shop Parking Lot,ChargePoint,1575 North,Kerrville,TX,78028,100,50,0.17,NULL,NULL
+Harley Davisdon,ChargePoint,7230 Northwest Loop 410,San Antonio,TX,78245,50,24,0,NULL,NULL
+Econo Lodge - Junction,Electrify America,111 Martinez Street,Junction,TX,76849,875,350,0.32,0.24,4
+Nissan - Boerne,None,31805 Interstate Highway 10 West,Boerne,TX,78006,NULL,NULL,0,NULL,NULL
+Kerrville Pub,ChargePoint,2108 Sidney Baker Street,Kerrville,TX,78028,62,62,0.16,NULL,NULL
+The Shops at La Cantera,Volta,15900 La Cantera Parkway,San Antonio,TX,78256,NULL,NULL,0,NULL,NULL
+North Park Volkswagen,Unknown,21819 Interstate 10,San Antonio,TX,78257,92,22,0,NULL,NULL
+Segovia Truck Stop,None,465 Old Segovia Road,Junction,TX,76849,NULL,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,502 South Padre Island Drive,Corpus Christi,TX,78405,50,24,0.5,NULL,NULL
+Mercedes-Benz of Laredo,ChargePoint,6912 Bob Bullock Loop,Laredo,TX,78041,62,62,0.25,NULL,NULL
+Fuel America 2,ChargePoint,I-35 Frontage Road,Encinal,TX,78019,62,62,0.26,NULL,NULL
+Faifield Inn & Suites Corpus Christi Central,"Tesla, Unknown",522 South Padre Island Drive,Corpus Christi,TX,78405,50,50,NULL,NULL,NULL
+Ed Hicks Imports,ChargePoint,3102 South Padre Island Drive,Corpus Christi,TX,78415,62,62,0.3,NULL,NULL
+AutoNation Hyundai Corpus Christi,ChargePoint,6686 South Padre Island Drive,Corpus Christi,TX,78412,62,62,0,NULL,NULL
+Village At Westlake,ChargePoint,701 South Capital of Texas Highway,Austin,TX,78746,62,62,0.21,NULL,NULL
+Abia Retail and Cell Phone Lot,ChargePoint,2901 Spirit of Texas Drive,Austin,TX,78719,62,62,0.21,NULL,NULL

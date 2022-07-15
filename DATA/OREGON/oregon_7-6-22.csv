@@ -1,0 +1,140 @@
+STATION,NETWORK,ADDRESS,CITY,STATE,ZIP,AMPS,KW,NON_KWH,MEM_KWH,MEM_FEE_PER_MONTH,RATE_PER_MIN,FLATE_FEE
+Lithia Nissan of Bend,None,1835 Northeast Highway 20,Bend,OR,97701,NULL,NULL,0,NULL,NULL,NULL,NULL
+Canyonville - 7 Feathers Truck and Travel Center,Webasto,130 Creekside Road,Canyonville,OR,97417,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Roth's South Salem Oregon,OpConnect,3045 Commercial Street Southeast,Salem,OR,97302,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Sisters - Sisters Mainline Station,Webasto,1001 West Railway Avenue,Sisters,OR,97759,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Mill City - Mountain Edge Café,Webasto,320 Northwest Santiam Boulevard,Mill City,OR,97360,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Veneta - Veneta Park n' Ride,Webasto,88184 Territorial Road,Veneta,OR,97487,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Springfield - Gateway Marketplace,Webasto,840 Beltline Road,Springfield,OR,97477,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Cottage Grove - Vintage Inn Restaurant,Webasto,1570 Gateway Boulevard,Cottage Grove,OR,97424,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Lincoln City - Lincoln City Cultural Center,Webasto,540 U.S. 101,Lincoln City,OR,97367,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Yachats - Yachats City Hall,Webasto,441 Highway 101 North,Yachats,OR,97498,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+McKenzie Bridge - Blue Sky Market,Webasto,91808 Mill Creek Road,McKenzie Bridge,OR,97413,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Grants Pass - Grants Pass Chamber of Commerce,Webasto,1995 Northwest Vine Street,Grants Pass,OR,97528,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Florence - Three Rivers Casino,Webasto,5647 Highway 126,Florence,OR,97439,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Newport - City of Newport Public Parking Lot,Webasto,925 Southwest Hurbert Street,Newport,OR,97365,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Monmouth - Dairy Queen,Webasto,320 Pacific Avenue South,Monmouth,OR,97361,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Ashland - Shell,Webasto,2373 Ashland Street,Ashland,OR,97520,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Elkton - Brandborg Winery,Webasto,345 First Street,Elkton,OR,97436,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Roseburg - Wagon Wheel Restaurant,Webasto,188 Northwest Garden Valley Boulevard,Roseburg,OR,97470,125,50,0.49,NULL,NULL,NULL,NULL
+Wolf Creek - Wolf Creek Inn,Webasto,100 Front Street,Wolf Creek,OR,97497,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Central Point - Fairground Chevron,Webasto,1510 East Pine Street,Central Point,OR,97497,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Halsey - Pioneer Villa Truck Plaza,Webasto,33180 Highway 228,Halsey,OR,97348,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Oakland - Rodeway Inn,Webasto,621 John Long Road,Oakland,OR,97462,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Redmond - Fred Meyer,EVCS,944 Southwest Veterans Way,Redmond,OR,97756,125,50,NULL,NULL,19.99,NULL,0.49
+Coos Bay -Fred Meyer,Webasto,1020 1st Street,Coos Bay,OR,97420,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Reedsport - Recreation Station,Webasto,1575 Highway 101 South,Reedsport,OR,97467,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Power Nissan - Salem,None,2755 Mission Street Southeast,Salem,OR,97302,NULL,NULL,0,NULL,NULL,NULL,NULL
+Madras - Dairy Queen,Webasto,483 Southeast 5th street,Madras,OR,97741,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+3545 Gateway Street,Webasto,3545 Gateway Street,Springfield,OR,97477,NULL,NULL,NULL,NULL,NULL,NULL,7.5
+Albany - Chevron,Webasto,33157 Highway 34 Southeast,Albany,OR,97322,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Spirit Mountain Casino Service Station,Webasto,26820 Salmon River Highway,Grand Ronde,OR,97347,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Brookings,Webasto,325 5th Street,Brookings,OR,97415,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Shari's,Blink,4998 River Road N,Keizer,OR,97303,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Fred Meyer,ChargePoint,1101 Grants Pass Parkway,Grants Pass,OR,97526,50,24,0.15,NULL,NULL,NULL,NULL
+Fred Meyer,ChargePoint,1307 Center Drive,Medford,OR,97501,50,24,0.15,NULL,NULL,NULL,NULL
+Fred Meyer,"ChargePoint, None",929 Northwest Garden Valley Boulevard,Roseburg,OR,97471,50,24,0.15,NULL,NULL,NULL,NULL
+Fred Meyer,ChargePoint,2500 Santiam Highway Southeast,Albany,OR,97322,50,24,0.15,NULL,NULL,NULL,NULL
+Warm Springs - Indian Head Casino,Webasto,3236 US 26,Warm Springs,OR,97761,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Port Orford - Seaside Plaza,Webasto,1320 Oregon Street,Port Orford,OR,97465,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Airport Rd SE Park n Ride,OpConnect,700 Airport Road,Salem,OR,97301,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lassen Chevrolet Toyota,None,1205 Price Road Southeast,Albany,OR,97322,NULL,NULL,0,NULL,NULL,NULL,NULL
+Power Chevrolet,None,1422 North Coast Highway,Newport,OR,97365,NULL,NULL,0,NULL,NULL,NULL,NULL
+Guaranty Chevrolet,None,20 Highway 99 South,Junction City,OR,97448,NULL,NULL,0,NULL,NULL,NULL,NULL
+Airport Chevrolet,None,3001 Biddle Road,Medford,OR,97504,NULL,NULL,0,NULL,NULL,NULL,NULL
+Sutherlin Dairy Queen,Electrify America,1621 West Central Avenue,Sutherlin,OR,97479,875,350,0.43,0.31,4,NULL,NULL
+Detroit - Mountain High Grocery,Webasto,245 North Detroit Avenue,Detroit,OR,97342,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Walmart - Salem,Electrify America,3025 Lancaster Drive Northeast,Salem,OR,97305,875,350,0.43,0.31,4,NULL,NULL
+Madras Chamber of Commerce,ChargePoint,274 Southwest 4th Street,Madras,OR,97741,62,62,0.28,NULL,NULL,NULL,NULL
+Walmart - Albany,Electrify America,1330 Goldfish Farm Road Southeast,Albany,OR,97322,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Grants Pass,Electrify America,135 Northeast Terry Lane,Grants Pass,OR,97526,875,350,0.43,0.31,4,NULL,NULL
+Pacific Power,ChargePoint,70 Northwest Newport Avenue,Bend,OR,97703,62,62,0.28,NULL,NULL,NULL,NULL
+"Target T0612 - Springfield, OR",Electrify America,2750 Gateway Street,Springfield,OR,97477,875,350,0.43,0.31,4,NULL,NULL
+Mercedes Benz,ChargePoint,2200 Martin Luther King Jr Boulevard,Eugene,OR,97401,62,62,NULL,NULL,NULL,0.3,NULL
+Otis Fuel and Market,ChargePoint,1264 Salmon River Highway,Otis,OR,97368,62,62,0.28,NULL,NULL,NULL,NULL
+"Madras, OR City Hall",OpConnect,71 Southeast D Street,Madras,OR,97741,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Pin Square,ChargePoint,Pine Street North 6th Street,Klamath Falls,OR,97601,62,62,0.28,NULL,NULL,NULL,NULL
+Pacific Power Mill City,ChargePoint,143 Northeast Wall Street,Mill City,OR,97360,62,62,0.28,NULL,NULL,NULL,NULL
+Otec John Day,ChargePoint,240 South Canyon Boulevard,John Day,OR,97845,62,62,0.29,NULL,NULL,NULL,3
+Walmart,Electrify America,160 Northwest 25th Street,Newport,OR,97365,875,350,0.43,0.31,4,NULL,NULL
+Dallas Aquatic Center,EVConnect,1005 Southeast Lacreole Drive,Dallas,OR,97338,125,50,NULL,NULL,NULL,0.1,NULL
+Walmart,Electrify America,20120 Southwest Pinebrook Boulevard,Bend,OR,97702,875,350,0.43,0.31,4,NULL,NULL
+City of Albany Revitalization Agency,EVConnect,180 Ferry Street (parking lot across the street),Albany,OR,97321,62,25,0.35,NULL,NULL,NULL,NULL
+Otec Harney Chamber,ChargePoint,484 North Broadway Avenue,Burns,OR,97720,62,62,0.29,NULL,NULL,NULL,3
+Wolf Creek Inn,EVCS,100 Front Street,Wolf Creek,OR,97497,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Mill City - Moutain Ridge Café,EVCS,320 Northwest Santiam Boulevard,Mill City,OR,97360,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Mercedes Benz of Medford,ChargePoint,3240 Crater Lake Avenue,Medford,OR,97504,62,62,0.63,NULL,NULL,NULL,NULL
+108 New Street,ChargePoint,108 New Street,Talent,OR,97540,62,62,0.3,NULL,NULL,NULL,NULL
+WCEH - Brookings,EVCS,325 5th Street,Brookings,OR,97415,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Coos Bay - Fred Meyer,EVCS,1020 1st Street,Coos Bay,OR,97420,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Hyundai Service,ChargePoint,2020 Mission Street Southeast,Salem,OR,97302,62,62,0.48,NULL,NULL,NULL,NULL
+1900 Hines Street Southeast,ChargePoint,1900 Hines Street Southeast,Salem,OR,97302,62,62,0.48,NULL,NULL,NULL,NULL
+T & T Country Store - Huntington,Electrify America,40 WASHINGTON STREET West,Huntington,OR,97907,875,350,0.43,0.31,4,NULL,NULL
+Ray Schultens Nissan,None,2400 West 6th Street,The Dalles,OR,97058,NULL,NULL,0,NULL,NULL,NULL,NULL
+Arlington Oregon City Hall,OpConnect,1310 Locust Avenue,Arlington,OR,97812,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Government Camp - Ski Bowl West,Webasto,87000 East Highway 26,Government Camp,OR,97028,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+The Dalles - Fred Meyer,Webasto,1215 West 6th Street,The Dalles,OR,97058,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+City of Cascade Locks Public Parking Lot,Webasto,95 N.E. Wa Na Pa,Cascade Locks,OR,97014,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Welches - Barlow Trail Roadhouse,Webasto,69580 East Highway 26,Welches,OR,97067,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Hood River - City of Hood River Public Parking Lot,Webasto,607 Columbia Street,Hood River,OR,97031,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Fred Meyer,Electrify America,16625 Southeast 362nd Drive,Sandy,OR,97055,875,350,0.43,0.31,4,NULL,NULL
+Fred Meyer - Portland,Blink,3030 Northeast Weidler Street,Portland,OR,97232,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lloyd Center,ChargePoint,2252 Lloyd Center,Portland,OR,97232,100,50,0.2,NULL,NULL,0.04,NULL
+Aloft Hotel,ChargePoint,9920 Northeast Cascades Parkway,Portland,OR,97220,50,24,0.18,NULL,NULL,NULL,NULL
+New Seasons Market - Grant Park,EVgo,3210 Northeast Broadway Street,Portland,OR,97232,125,50,0.29,0.25,4.99,NULL,NULL
+7-Eleven,EVgo,Northeast 82nd Way & Northeast Air Cargo Road,Portland,OR,97218,125,50,0.29,0.25,4.99,NULL,NULL
+Space Age Fuel,Electrify America,77522 South Highway 207,Hermiston,OR,97838,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Island City,Electrify America,11619 Island Avenue,Island City,OR,97850,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Hood River,Electrify America,2700 Wasco Street,Hood River,OR,97031,875,350,0.43,0.31,4,NULL,NULL
+Harley Davisdon,ChargePoint,870 East Berkeley Street,Gladstone,OR,97027,50,24,0.44,NULL,NULL,NULL,NULL
+Eastport Plaza,Shell Recharge,4000 Southeast 82nd Avenue,Portland,OR,97206,100,40,0.19,NULL,NULL,NULL,5
+Columbia Gorge Outlets,Electrify America,450 Northwest 257th Way,Troutdale,OR,97060,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,9000 Southeast Sunny-side Road,Clackamas,OR,97015,875,350,0.43,0.31,4,NULL,NULL
+10880 Southeast McLoughlin Boulevard,Shell Recharge,10880 Southeast McLoughlin Boulevard,milwaukie,OR,97222,125,50,0,NULL,NULL,NULL,5
+Clackamas Town Center REI,Volta,12000 Southeast 82Nd Avenue,Happy Valley,OR,97086,NULL,NULL,0,NULL,NULL,NULL,NULL
+Pendleton Station Union Pacific,ChargePoint,268 Southwest Frazer Avenue,Pendleton,OR,97801,62,62,0.35,NULL,NULL,NULL,NULL
+McLoughlin Chevrolet,None,16700 Southeast McLoughlin Boulevard,Milwaukie,OR,97267,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+EV4 Oregon LLC,ChargePoint,2727 Southeast Raymond Street,Portland,OR,97202,52,23.9,0.4,NULL,NULL,NULL,NULL
+Kroger Fred Meyer,Electrify America,6615 Northeast Glisan Street,Portland,OR,97213,875,350,0.43,0.31,4,NULL,NULL
+Kroger Fred Meyer,Electrify America,3805 Southeast Hawthorne Boulevard,Portalnd,OR,97214,875,350,0.43,0.31,4,NULL,NULL
+Courtyard by Marriott,OpConnect,15686 Southwest Sequoia Parkway,Tigard,OR,97224,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lincoln Center - Gustav's Restaurant,OpConnect,10300 Southwest Greenburg Road,Tigard,OR,97223,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Banks - Jim's Thriftway,"Webasto, EVCS",660 Main Street,Banks,OR,97106,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Newberg - Chevron,Webasto,3745 East Portland Road,Newberg,OR,97132,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Scappoose - Fred Meyer,Webasto,51501 Columbia River Highway,Scappoose,OR,97056,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Westport - Berry Patch,Webasto,49289 US 30,WESTPORT,OR,97016,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+McMinnville - Oregon Mutual Insurance,Webasto,410 Northeast Baker Street,McMinnville,OR,97128,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Cannon Beach - Cannon Beach RV Resort,Webasto,340 Elk Creek Road,Cannon Beach,OR,97110,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Astoria - Sunset Empire Transit District,Webasto,900 Marine Drive,Astoria,OR,97103,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+"Simon Woodburn Premium Outlets (Woodburn, OR)",Electrify America,1001 North ARNEY Road,Woodburn,OR,97071,875,350,0.43,0.31,4,NULL,NULL
+Electric Avenue,Shell Recharge,121 Southwest Salmon Street,Portland,OR,97204,125,50,0,NULL,NULL,NULL,5
+Tillamook - Fred Meyer,Webasto,2500 North Main Street,Tillamook,OR,97141,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Washington Square,EVgo,9585 Southwest Washington Square Road,Portland,OR,97223,125,50,0.29,0.25,4.99,NULL,NULL
+New Seasons Market - Slabtown,EVgo,2170 Northwest Raleigh Street,Portland,OR,97210,125,50,0.29,0.25,4.99,NULL,NULL
+REI,EVgo,7410 Southwest Bridgeport Road,Portland,OR,97224,125,50,0.29,0.25,4.99,NULL,NULL
+Walmart - Sherwood,Electrify America,21320 Southwest Langer Farms Parkway,Sherwood,OR,97140,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Cornelius,Electrify America,220 North Adair Street,Cornelius,OR,97113,875,350,0.43,0.31,4,NULL,NULL
+CCRider Transit Center,Shell Recharge,205 West B Street,Rainier,OR,97048,125,50,0.05,NULL,NULL,NULL,6
+Clatskanie PUD Office,Shell Recharge,495 East Columbia River Highway,Clatskanie,OR,97016,125,50,0.05,NULL,NULL,NULL,6
+Harley Davidson,ChargePoint,10770 Southwest Cascade Avenue,Tigard,OR,97223,50,24,NULL,NULL,NULL,0.15,NULL
+Southwest Wilsonville Road & Memorial Drive,Shell Recharge,Southwest Wilsonville Road & Memorial Drive,Wilsonville,OR,97070,100,40,0.19,NULL,NULL,NULL,5
+11885 SouthWest Canyon Road,Shell Recharge,11885 SouthWest Canyon Road,Beaverton,OR,97005,100,40,0.19,NULL,NULL,NULL,5
+Walmart,Electrify America,7600 Southwest Dartmouth Street,Tigard,OR,97223,875,350,0.43,0.31,4,NULL,NULL
+Woodburn - Woodburn Transit Center,Webasto,2875 Newburg Highway,Woodburn,OR,97071,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Fred Meyer 40,Electrify America,7555 Southwest BARBUR Boulevard,Portland,OR,97219,875,350,0.43,0.31,4,NULL,NULL
+Bank of America,Electrify America,400 4th Street,Lake Oswego,OR,97034,875,350,0.43,0.31,4,NULL,NULL
+64001 Columbia River Highway,ChargePoint,64001 Columbia River Highway,Deer Island,OR,97054,62,62,0.13,NULL,NULL,NULL,NULL
+Clatsop Community College,EVConnect,1651 Lexington Avenue,Astoria,OR,97103,125,50,0,NULL,NULL,NULL,NULL
+Target,Electrify America,10775 Southwest Beaverton Hillsdale Highway,Beaverton,OR,97005,875,350,0.43,0.31,4,NULL,NULL
+Carr Chevrolet,None,15005 Southwest Tualatin Valley Highway,Beaverton,OR,97006,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Anna's Island Café,ChargePoint,4717 North Lagoon Avenue,Portland,OR,97217,62,62,0.15,NULL,NULL,NULL,NULL
+South Lot,ChargePoint,1115 Pacific Avenue,Tillamook,OR,97141,62,62,0,NULL,NULL,NULL,NULL
+Fred Meyer,Electrify America,695 South Highway 101,Warrenton,OR,97146,875,350,0.43,0.31,4,NULL,NULL
+Clatskanie Middle & High School,Shell Recharge,471 Bel Air Drive,Clatskanie,OR,97016,125,50,0.05,NULL,NULL,NULL,6
+Electric Island,Shell Recharge,4717 North Lagoon Avenue,Portland,OR,97217,190,174.8,0.15,NULL,NULL,NULL,NULL
+Hillsboro Electric Avenue,Shell Recharge,2295 Southwest Tualatin Valley Highway,Hillsboro,OR,97123,100,40,0.19,NULL,NULL,NULL,5
+DTNA Corp,ChargePoint,3698 North Emerson Street,Portland,OR,97217,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+DTNA Corp,ChargePoint,5400 North Basin Avenue,Portland,OR,97217,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Kroger-Fred Meyer,Electrify America,6850 North Lombard Street,Portland,OR,97203,875,350,0.43,0.31,4,NULL,NULL
+Deer Island St Helens City,ChargePoint,260 South 2nd Street,St. Helens,OR,97051,62,62,0.13,NULL,NULL,NULL,NULL
+Kroger-Fred Meyer,Electrify America,15995 Southwest Walker Road,Beaverton,OR,97006,875,350,0.43,0.31,4,NULL,NULL

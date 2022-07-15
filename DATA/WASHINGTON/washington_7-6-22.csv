@@ -1,0 +1,173 @@
+STATION,NETWORK,ADDRESS,CITY,STATE,ZIP,AMPS,KW,NON_KWH,MEM_KWH,MEM_FEE_PER_MONTH,RATE_PER_MIN,FLATE_FEE
+Alan Webb Nissan,None,3608 Northeast Auto Mall Drive,Vancouver,WA,98662,NULL,NULL,0,NULL,NULL,NULL,NULL
+Tumwater - Shell Station & Deli Mart,Webasto,6131 Capital Boulevard Southwest,Tumwater,WA,98501,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Castle Rock - Cascade Select Market,Webasto,204 West Cowlitz Street,Castle Rock,WA,98611,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Ridgefield - Country Café,Webasto,6370 North 1st Circle,Ridgefield,WA,98642,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Centralia - Wendy's,Webasto,817 Harrison Avenue,Centralia,WA,98531,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Clark Public Utilities - Administration Building,ChargePoint,850 Officers Row,Vancouver,WA,98661,62,62,0.39,NULL,NULL,NULL,NULL
+Walmart Highway 99,Electrify America,9000 Northeast HIGHWAY 99,Vancouver,WA,98665,875,350,0.43,0.31,4,NULL,NULL
+Three Rivers Mall,Electrify America,351 Three Rivers Drive,Kelso,WA,98626,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Vancouver,Electrify America,430 Southeast 192nd Avenue,Vancouver,WA,98683,875,350,0.43,0.31,4,NULL,NULL
+Cafaro Vancouver Plaza,Electrify America,7809 Northeast Vancouver Plaza Drive,Vancouver,WA,98663,875,350,0.43,0.31,4,NULL,NULL
+Chehalis Commerce District,EVgo,700 Northwest Arkansas Way,Chehalis,WA,98532,125,50,0.29,0.25,6.99,NULL,NULL
+Twin Transit Mellen St.,ChargePoint,12 Airport Road,Centralia,WA,98531,62,62,0.35,NULL,NULL,NULL,NULL
+Walmart,Electrify America,909 East Wishkah Street,Aberdeen,WA,98520,875,350,0.43,0.31,4,NULL,NULL
+EZstop Kalama Waterfront,None,215 North Hendrickson Drive,Kalama,WA,98625,NULL,NULL,0,NULL,NULL,NULL,NULL
+Kroger QFC,Electrify America,4775 Whitman Lane Southeast,Lacey,WA,98512,875,350,0.43,0.31,4,NULL,NULL
+1920 Schurman Way,EVConnect,1920 Schurman Way,Woodland,WA,98674,300,120,0.35,NULL,NULL,NULL,NULL
+AAA parking lot,ChargePoint,4301 Northeast Fourth Plain Boulevard,Vancouver,WA,98661,62,62,0.35,NULL,NULL,NULL,NULL
+3rd and Main Public Parking Lot,Shell Recharge,269-299 North Main Street,Ellensburg,WA,98926,125,50,NULL,NULL,NULL,0.35,NULL
+Express Mart,Shell Recharge,51 Firing Center Road,Yakima,WA,98901,125,50,NULL,NULL,NULL,0.35,NULL
+Harvest Chevrolet,None,1600 East Yakima Avenue,Yakima,WA,98901,NULL,24,0,NULL,NULL,NULL,NULL
+Taco Bell - Ellensburg,Electrify America,1406 Canyon Road,Ellensburg,WA,98926,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Yakima,Electrify America,1600 East Chestnut Avenue,Yakima,WA,98901,875,350,0.43,0.31,4,NULL,NULL
+Electric Vehicle Infrastructure Transportation Alliance - Prosser,Shell Recharge,40 Merlot Drive,Prosser,WA,99350,125,50,NULL,NULL,NULL,0.35,NULL
+Wolf Den,ChargePoint,61 West Wapato Road,Wapato,WA,98951,62,62,0.11,NULL,NULL,0.1,NULL
+Benton Public Utility District - Southridge,Shell Recharge,2901 Southridge Boulevard,Kennewick,WA,99337,125,50,NULL,NULL,NULL,0.35,NULL
+Starbucks - West Court Street,Shell Recharge,2411 West Court Street,pasco,WA,99301,125,50,NULL,NULL,NULL,0.35,NULL
+Columbia Ave Parking-Charging,Shell Recharge,303 South Columbia Avenue,Connell,WA,99326,125,50,NULL,NULL,NULL,0.35,NULL
+Kennewick Recharge,Shell Recharge,10799 Ridgeline Drive,Kennewick,WA,99338,125,50,0,NULL,NULL,NULL,NULL
+2550 Duportail Street,"Shell Recharge, Unknown",2550 Duportail Street,Richland,WA,99352,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Electric Vehicle Infrastructure Transportation Alliance - Richland,Shell Recharge,2700 Duprotail Street,Richland,WA,99352,125,50,NULL,NULL,NULL,0.35,NULL
+Speck Buick GMC,EVConnect,9610 Sandifur Parkway,Pasco,WA,99301,125,50,0.45,NULL,NULL,NULL,NULL
+Standard Paint & Flooring LLC,ChargePoint,1457 Tapteal Drive,Richland,WA,99352,62,62,0,NULL,NULL,NULL,NULL
+Kohl's,ChargePoint,1457 Tapteal Drive,Richland,WA,99352,62,62,0,NULL,NULL,NULL,NULL
+Conoco,EVgo,1293 South Division Street,Ritzville,WA,99169,125,50,0.29,0.25,6.99,NULL,NULL
+Avista Pullman,Shell Recharge,150 East Spring Street,Pullman,WA,99163,125,50,0.35,NULL,NULL,NULL,NULL
+Cow Creek Mercantile,Electrify America,1611 Smittys Boulevard,Ritzville,WA,99169,875,350,0.43,0.31,4,NULL,NULL
+EN Moses Lake,Shell Recharge,312 West Third Avenue,Moses Lake,WA,98837,125,50,NULL,NULL,NULL,0.35,NULL
+120 North 1st Street,Shell Recharge,120 North 1st Street,Dayton,WA,99328,125,50,NULL,NULL,NULL,0.35,NULL
+Sprague,EVConnect,105 West 1st Street,Sprague,WA,99032,200,180,0.35,NULL,NULL,NULL,NULL
+Dave Smith Nissan,None,6901 East Sprague Avenue,Spokane Valley,WA,99212,50,20,0,NULL,NULL,NULL,NULL
+Kendall Yards - Bridge Lane Parking,Shell Recharge,500 North Cedar Street,Spokane,WA,99201,125,50,0.35,NULL,NULL,NULL,NULL
+STA Park & Ride,Shell Recharge,East Mission Avenue,Liberty Lake,WA,99019,125,50,0.35,NULL,NULL,NULL,NULL
+Washington Trust Bank - East Hastings Road,Shell Recharge,438 East Hasting Road,Spokane,WA,99218,125,50,0.35,NULL,NULL,NULL,NULL
+Walmart - Spokane Valley,Electrify America,15727 East Broadway Avenue,Spokane Valley,WA,99037,875,350,0.43,0.31,4,NULL,NULL
+West Plains Transit Center,Shell Recharge,10810 West Westbow Road,Spokane,WA,99201,125,50,0.35,NULL,NULL,NULL,NULL
+Gonzaga Fast,Shell Recharge,721 North Cincinnati,SPOKANE,WA,99201,125,50,0.35,NULL,NULL,NULL,NULL
+Lone Wolf Harley-Davidson,ChargePoint,19011 East Cataldo Avenue,Spokane Valley,WA,99016,50,24,0,NULL,NULL,NULL,NULL
+Town Nissan,None,555 3rd Street Southeast,East Wenatchee,WA,98802,NULL,NULL,0,NULL,NULL,NULL,NULL
+Suncadia Resort,"Webasto, Tesla",3600 Suncadia Trl,Cle Elum,WA,98922,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Wenatchee - Wenatchee Convention Center,Webasto,200 North Columbia Street,Wenatchee,WA,98801,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Leavenworth - City Hall,Webasto,700 US Highway 2,Leavenworth,WA,98826,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Gunnars Bistro - Cle Elum,"Tesla, Shell Recharge",811 WA-970,Cle Elum,WA,98922,125,50,NULL,NULL,NULL,0.35,NULL
+Cascade Chevrolet,None,148 Easy Street,Wenatchee,WA,98801,NULL,NULL,0,NULL,NULL,NULL,NULL
+Albertsons Safeway,Electrify America,116 River Bend Drive,Leavenworth,WA,98826,875,350,0.43,0.31,4,NULL,NULL
+Burien Nissan,None,16042 1st Avenue South,Burien,WA,98148,NULL,NULL,0,NULL,NULL,NULL,NULL
+Tacoma Nissan,None,4030 South Tacoma Way,Tacoma,WA,98409,NULL,NULL,0,NULL,NULL,NULL,NULL
+Puyallup Nissan,None,101 Valley Avenue Northwest,Puyallup,WA,98371,NULL,NULL,0,NULL,NULL,NULL,NULL
+Younker Nissan,None,3401 East Valley Road,Renton,WA,98058,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Fife,Unknown (edit),1700 Alexander Ave S,Fife,WA,98424,NULL,NULL,0,NULL,NULL,NULL,NULL
+Sultan - Sultan Visitor Information Center,Webasto,320 Main Street,Sultan,WA,98294,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Skykomish - Sky Deli,Webasto,148 5th Street North,Skykomish,WA,98288,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+East Madison Garage,Electrify America,1300 East MADISON Street,Seattle,WA,98122,875,350,0.43,0.31,4,NULL,NULL
+Fred Meyer Bellevue,EVgo,2041 148th Avenue Northeast,Bellevue,WA,98007,125,50,0.29,0.25,6.99,NULL,NULL
+North Seattle College,ChargePoint,9600 College Way North,Seattle,WA,98103,100,50,0.35,NULL,NULL,NULL,NULL
+The Landing Garage,EVgo,828 North 10th Place,Renton,WA,98057,125,50,0.29,0.25,6.99,NULL,NULL
+Century Link North Parking Lot,ChargePoint,338 Weller Street Bridge,Seattle,WA,98134,100,50,0.35,NULL,NULL,NULL,NULL
+Bellevue Nissan,None,14762 Southeast Eastgate Way,Bellevue,WA,98007,NULL,NULL,0,NULL,NULL,NULL,NULL
+Seattle Premium Outlets,EVgo,10600 Quil Ceda Boulevard,Quil Ceda Village,WA,98271,125,50,0.29,0.25,6.99,NULL,NULL
+Northgate Mall,EVgo,401 Northeast Northgate Way,Seattle,WA,98125,125,50,0.29,0.25,6.99,NULL,NULL
+North Bend Premium Outlets,EVgo,461 South Fork Avenue Southwest,North Bend,WA,98045,125,50,0.29,0.25,6.99,NULL,NULL
+Redmond Town Center,EVgo,7525 166th Avenue Northeast,Redmond,WA,98052,125,50,0.29,0.25,6.99,NULL,NULL
+Kia of Puyallup,Shell Recharge,111 Valley Avenue Northeast,Puyallup,WA,98372,125,50,NULL,NULL,NULL,0.16,3
+Tacoma Mall,EVgo,4502 South Steele Street,Tacoma,WA,98409,125,50,0.29,0.25,6.99,NULL,NULL
+15135 4th Avenue Southwest,ChargePoint,15135 4th Avenue Southwest,Burien,WA,98166,62,62,0.21,NULL,NULL,NULL,NULL
+Car Pros Kia Tacoma,Shell Recharge,7230 South Tacoma Way,Tacoma,WA,98409,125,50,NULL,NULL,NULL,0.12,NULL
+AAA Alderwood,EVgo,3000 196th Street Southwest,Lynnwood,WA,98036,125,50,0.29,0.25,6.99,NULL,NULL
+BMW Seattle,ChargePoint,1002 Airport Way South,Seattle,WA,98134,52,23.9,NULL,NULL,NULL,NULL,5
+New Seasons Market - Mercer Island,EVgo,2755 77th Avenue Southeast,Mercer Island,WA,98040,125,50,0.29,0.25,6.99,NULL,NULL
+REI,EVgo,222 Yale Avenue North,Seattle,WA,98109,125,50,0.29,0.25,6.99,NULL,NULL
+Edmonds Nissan,"ChargePoint, None",24325 WA-99,Edmonds,WA,98026,62,62,NULL,NULL,NULL,NULL,8
+Beacon Hill Light Rail,Shell Recharge,2535 16th Avenue South,Seattle,WA,98144,125,50,0.33,NULL,NULL,NULL,NULL
+Eluminocity,ChargePoint,1609 Harvard Avenue,Seattle,WA,98122,100,50,0.35,NULL,NULL,NULL,NULL
+Edmonds Nissan,ChargePoint,24015 84th Avenue West,Edmonds,WA,98026,100,50,NULL,NULL,NULL,NULL,8
+Eluminocity,ChargePoint,6701 Corson Avenue South,Seattle,WA,98108,100,50,0.35,NULL,NULL,NULL,NULL
+Volkswagen of Kirkland,None,12612 NE 124th St,Kirkland,WA,98034,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Kaiser Northgate,ChargePoint,9800 4th Avenue Northeast,Seattle,WA,98115,100,50,0.35,NULL,NULL,NULL,NULL
+Seattle Mini,ChargePoint,11536 Lake City Way Northeast,Seattle,WA,98125,100,50,0.25,NULL,NULL,NULL,2.95
+Performance Kia,None,229 Southwest Everett Mall Way,Everett,WA,98204,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Kroger Fred Meyer 691 (Gig Harbor, WA)",Electrify America,5502 Point Fosdick Drive Northwest,Gig Harbor,WA,98335,875,350,0.43,0.31,4,NULL,NULL
+Jaguar Land Rover Bellevue,ChargePoint,13817 Northeast 20th Street,Bellevue,WA,98005,50,24,0,NULL,NULL,NULL,NULL
+North Bend Premium Outlets,Electrify America,461 South Fork Avenue,North Bend,WA,98045,875,350,0.43,0.31,4,NULL,NULL
+Woodland Zoo,ChargePoint,750 North 50th Street,Seattle,WA,98103,100,50,0.35,NULL,NULL,NULL,NULL
+Walmart - Everett,Electrify America,11400 Highway 99,Everett,WA,98204,875,350,0.43,0.31,4,NULL,NULL
+Target - Renton,Electrify America,1215 North Landing Way,Renton,WA,98057,875,350,0.43,0.31,4,NULL,NULL
+Target - Lynnwood,Electrify America,18305 Alderwood Mall Parkway,Lynnwood,WA,98037,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Lacey,Electrify America,1401 Galaxy Drive Northeast,Lacey,WA,98516,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Covington,Electrify America,17432 Southeast 270th Place,Covington,WA,98042,875,350,0.43,0.31,4,NULL,NULL
+Seattle Premium Outlets,Electrify America,10600 Quil Ceda Boulevard,Tulalip,WA,98271,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Tacoma,Electrify America,1965 South Union Avenue,Tacoma,WA,98405,875,350,0.43,0.31,4,NULL,NULL
+Harley Davisdon,ChargePoint,5711 188th Street Southwest,Lynnwood,WA,98037,50,24,0.16,NULL,NULL,NULL,1
+Harley Davisdon,ChargePoint,2302 Pacific Highway East,Fife,WA,98424,50,24,NULL,NULL,NULL,0.1,NULL
+Harley Davisdon,ChargePoint,2350 136th Place Northeast,Bellevue,WA,98005,50,24,0.16,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,8000 Freedom Lane Northeast,Lacey,WA,98516,50,24,0.55,NULL,NULL,NULL,NULL
+Walmart - Everett,Electrify America,1605 Southeast Everett Mall Way,Everett,WA,98208,875,350,0.43,0.31,4,NULL,NULL
+Target - Lake Stevens,Electrify America,9601 Market Place,Lake Stevens,WA,98258,875,350,0.43,0.31,4,NULL,NULL
+Jet City Harley-Davidson,ChargePoint,3715 East Valley Road,Renton,WA,98057,50,24,0.1,NULL,NULL,NULL,NULL
+Simon Northgate Mall,Electrify America,401 Northeast Northgate Way,Seattle,WA,98125,875,350,0.43,0.31,4,NULL,NULL
+Target - Tukwila,Electrify America,301 Strander Boulevard,Tukwila,WA,98188,875,350,0.43,0.31,4,NULL,NULL
+Target - Issaquah,Electrify America,755 Northwest Gillman Boulevard,Issaquah,WA,98027,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Monroe,Electrify America,19191 North Kelsey Street,Monroe,WA,98272,875,350,0.43,0.31,4,NULL,NULL
+Fred Meyer - Bothell,Electrify America,21045 Bothell Everett Highway,Bothell,WA,98021,875,350,0.43,0.31,4,NULL,NULL
+DuPont Ace Hardware,EVgo,1585 McNeil Street,DuPont,WA,98327,125,50,0.29,0.25,6.99,NULL,NULL
+Sea-Tac Airport Cell Phone Lot,EVgo,2623 South 170th Street,Seattle,WA,98188,125,50,0.29,0.25,6.99,NULL,NULL
+Seattle City Light S Service,Shell Recharge,409 South Spokane Street,Seattle,WA,98134,125,50,0.33,NULL,NULL,NULL,NULL
+Whole Foods Lynwood,EVgo,2808 196th Street Southwest,Lynnwood,WA,98036,125,50,0.29,0.25,6.99,NULL,NULL
+Lee Johnson Nissan,EVConnect,11930 124th Avenue Northeast,Kirkland,WA,98034,120,50,0.3,NULL,NULL,NULL,NULL
+LeMay-America's Car Museum,EVgo,2702 East D Street,Tacoma,WA,98421,125,50,0.29,0.25,6.99,NULL,NULL
+Magnuson Park,Shell Recharge,Sportsfield Drive Northeast,Seattle,WA,98115,125,50,0.33,NULL,NULL,NULL,NULL
+Harvard Market,EVgo,1406 Harvard Avenue,Seattle,WA,98122,125,50,0.29,0.25,6.99,NULL,NULL
+South Seattle College,ChargePoint,6000 16th Avenue Southwest,Seattle,WA,98106,100,50,0.25,NULL,NULL,NULL,2.95
+Target,Electrify America,17700 Northeast 76th Street,Redmond,WA,98052,875,350,0.43,0.31,4,NULL,NULL
+Cafaro South Hill Mall,Electrify America,3700 South MERIDIAN,PUYALLUP,WA,98373,875,350,0.43,0.31,4,NULL,NULL
+Bank of America,Electrify America,14003 Northeast Woodinville Duvall Road,Woodinville,WA,98072,875,350,0.43,0.31,4,NULL,NULL
+Madison Miller,Shell Recharge,2113 East Olive Street,Seattle,WA,98122,125,50,0.33,NULL,NULL,NULL,NULL
+Alaska Junction SCL,Shell Recharge,4535 39th Avenue Southwest,Seattle,WA,98116,125,50,0.33,NULL,NULL,NULL,NULL
+Rainier Beach,Electrify America,9019 Rainier Avenue South,Seattle,WA,98118,875,350,0.43,0.31,4,NULL,NULL
+13050 Interurban Avenue So.,Shell Recharge,13050 Interurban Avenue So.,Tukwila,WA,98168,100,40,0.36,NULL,NULL,NULL,NULL
+Pacific Science Center,ChargePoint,200 2nd Avenue North,Seattle,WA,98109,100,50,0.35,NULL,NULL,NULL,NULL
+Safeway,Electrify America,300 Bellevue Wayne,Bellevue,WA,98004,875,350,0.43,0.31,4,NULL,NULL
+Whole Foods Madison Broadway,EVgo,1001 Broadway,Seattle,WA,98122,125,50,0.29,0.25,6.99,NULL,NULL
+Walmart,Electrify America,34520 16TH Avenue South,Federal Way,WA,98003,875,350,0.43,0.31,4,NULL,NULL
+"QFC 828 (Kirkland, WA)",Electrify America,11224 Northeast 124th Street,Kirkland,WA,98034,875,350,0.43,0.31,4,NULL,NULL
+Ballard Blocks,EVgo,1451 Northwest 46th Street,Seattle,WA,98107,125,50,0.29,0.25,6.99,NULL,NULL
+Whole Foods Seattle,EVgo,2210 Westlake Avenue,Seattle,WA,98121,125,50,0.29,0.25,6.99,NULL,NULL
+Bank of America,Electrify America,1112 South BAILEY Street,Seattle,WA,98108,875,350,0.43,0.31,4,NULL,NULL
+Nissan - Everett,ChargePoint,10500 Highway 99,Everett,WA,98204,62,62,NULL,NULL,NULL,0.01,8
+"The Outlet Collection ( Auburn, WA)",Electrify America,1101 Outlet Collection Way,Auburn,WA,98001,875,350,0.43,0.31,4,NULL,NULL
+Whole Foods Bellevue,EVgo,888 116th Avenue Northeast,Bellevue,WA,98004,125,50,0.29,0.25,6.99,NULL,NULL
+100 West Mercer Street,Electrify America,100 West MERCER Street,Seattle,WA,98119,875,350,0.43,0.31,4,NULL,NULL
+Pierce Tran Car Bus,ChargePoint,3701 96th Street Southwest,Lakewood,WA,98499,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+700 5th Ave Seattle- DC Fast Charger,OpConnect,700 5th Avenue,Seattle,WA,98104,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Kroger Fred Meyer 655 (Port Orchard, WA)",Electrify America,1900 Southeast Sedgwick Road,Port Orchard,WA,98366,875,350,0.43,0.31,4,NULL,NULL
+Plaza by the Green,Shell Recharge,24437 Russell Road,Kent,WA,98032,100,40,NULL,NULL,NULL,NULL,NULL
+"QFC 807 (Seattle, WA)",Electrify America,2746 Northeast 45th Street,Seattle,WA,98105,875,350,0.43,0.31,4,NULL,NULL
+Snoqualmie Pass Chevron,Webasto,519 SR 906,Snoqualmie Pass,WA,98068,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Fred Meyer,Electrify America,915 Northwest 45th Street,Seattle,WA,98107,875,350,0.43,0.31,4,NULL,NULL
+King Plaza,EVgo,7101 Martin Luther King Jr Way South,Seattle,WA,98118,125,50,0.29,0.25,6.99,NULL,NULL
+"BofA Overlake Park WA3-152 (Redmond, WA)",Electrify America,2400 148th Avenue Northeast,Redmond,WA,98502,875,350,0.43,0.31,4,NULL,NULL
+Walmart,Electrify America,21200 Olhava Way Northwest,Poulsbo,WA,98370,875,350,0.43,0.31,4,NULL,NULL
+Fred Meyer,Electrify America,13000 Lake City Way Northeast,Seattle,WA,98125,875,350,0.43,0.31,4,NULL,NULL
+Interbay Business Center,EVgo,1600 West Armory Way,Seattle,WA,98119,125,50,0.29,0.25,6.99,NULL,NULL
+Safeway Tacoma,EVgo,1112 South M Street,Tacoma,WA,98405,125,50,0.29,0.25,6.99,NULL,NULL
+Korum Hyundai,ChargePoint,111 River Road,Puyallup,WA,98371,62,62,0.3,NULL,NULL,NULL,NULL
+Northgate QFC,EVgo,11100 Roosevelt Way Northeast,Seattle,WA,98125,125,50,0.29,0.25,6.99,NULL,NULL
+Carkeek Plaza,EVgo,9999 Holman Road Northwest,Seattle,WA,98117,125,50,0.29,0.25,6.99,NULL,NULL
+1111 Washington Street Southeast,Shell Recharge,1111 Washington Street Southeast,Olympia,WA,98501,125,50,0.39,NULL,NULL,NULL,NULL
+The Hub at Lacey,Shell Recharge,676 Woodland Square Loop Southeast,Lacey,WA,98509,100,40,0.42,NULL,NULL,NULL,NULL
+Fast Fuel Station 1,ChargePoint,501 Lilly Road Southeast,Olympia,WA,98501,62,62,0.42,NULL,NULL,0.1,NULL
+Olympia Nissan,None,2220 Carriage Drive Southwest,Olympia,WA,98502,NULL,NULL,0,NULL,NULL,NULL,NULL
+Cafaro Target Place Plaza,Electrify America,2925 Harrison Avenue Northwest,Olympia,WA,98502,875,350,0.43,0.31,4,NULL,NULL
+Dan Wilder Nissan,None,53 Jetta Way,Port Angeles,WA,98362,NULL,NULL,0,NULL,NULL,NULL,NULL
+Gateway Transit Center,Shell Recharge,123 Front Street,Port Angeles,WA,98362,125,50,NULL,NULL,NULL,0.3,NULL
+Walmart ),Electrify America,3411 East KOLONELS WAY,Port Angeles,WA,98362,875,350,0.43,0.31,4,NULL,NULL
+Burlington - The Outlet Shoppes,Webasto,448 Fashion Way,Burlington,WA,98233,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Walmart - Mount Vernon,Electrify America,2301 Freeway Drive,Mount Vernon,WA,98273,875,350,0.43,0.31,4,NULL,NULL
+Bellingham - Sehome Village,Webasto,222 36th Street,Bellingham,WA,98325,NULL,NULL,NULL,NULL,19.99,NULL,7.5
+Bellingham Nissan,None,1516 Iowa Street,Bellingham,WA,98229,NULL,NULL,0,NULL,NULL,NULL,NULL
+Whole Foods Bellingham,EVgo,1030 Lakeway Drive,Bellingham,WA,98229,125,50,0.29,0.25,6.99,NULL,NULL
+Fred Meyer,Electrify America,1225 West Bakerview Road,Bellingham,WA,98226,875,350,0.43,0.31,4,NULL,NULL
+Community Food Co-op,Shell Recharge,315 Weterly Road,Bellingham,WA,98226,100,40,0.42,NULL,NULL,NULL,NULL
+Haggen's Bellingham,EVgo,210 36th Street,Bellingham,WA,98225,125,50,0.29,0.25,6.99,NULL,NULL
+Eluminocity,ChargePoint,18613 International Boulevard,SeaTac,WA,98188,100,50,0.35,NULL,NULL,NULL,NULL

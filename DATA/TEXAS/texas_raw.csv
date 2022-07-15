@@ -1,0 +1,155 @@
+STATION,NETWORK,ADDRESS,CITY,STATE,ZIP,CHARGE_SPEED,PRICE_RAW
+Baker Nissan North,None,19630 Northwest Freeway,Houston,TX,77065.0,"? A, ? kW",Cost: 0.00$ / Free
+Central Houston Nissan,None,2901 South Loop West,Houston,TX,77054.0,"? A, ? kW",Cost: 0.00$ / Free
+Mossy Nissan,None,12150 Katy Freeway,Houston,TX,77079.0,"? A, ? kW",Cost: 0.00$ / Free
+Sterling McCall Nissan,None,12230 Southwest Freeway,Stafford,TX,77477.0,"? A, ? kW",Cost: 0.00$ / Free
+Keating Nissan,None,333 Interstate 45 South,Conroe,TX,77301.0,"? A, ? kW",Cost: Unknown
+McDavid Nissan,None,11911 Gulf Freeway,Houston,TX,77034.0,"? A, ? kW",Cost: 0.00$ / Free
+Cracker Barrel - Kingwood,EVgo,24400 Highway 59 North,Kingwood,TX,77339.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens - Blackhawk Boulevard,EVgo,9885 Blackhawk Boulevard,Houston,TX,77075.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Cracker Barrel - League City,EVgo,231 Gulf Freeway South,League City,TX,77573.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens - Holzworth,EVgo,19710 Holzwarth Road,Spring,TX,77388.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Cracker Barrel - Katy Fwy,EVgo,18151 Katy Freeway,Houston,TX,77094.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens - Baytown,EVgo,7216 Garth Road,Baytown,TX,77521.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+H-E-B - W Alabama,EVgo,1701 West Alabama Street,Houston,TX,77098.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+H-E-B - Spring,EVgo,130 Sawdust Road,Spring,TX,77380.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,8942 West Sam Houston Parkway North,Houston,TX,77040.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Cracker Barrel - Pearland,EVgo,11019 Shadow Creek Parkway,Pearland,TX,77584.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,12611 South Gessner Road,Houston,TX,77071.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Memorial City Mall,EVgo,303 Memorial City,Houston,TX,77024.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Whole Foods - Sugarland,EVgo,15900 Southwest Freeway,Sugar Land,TX,77478.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,13631 Tidwell Road,Houston,TX,77044.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+H-E-B - Buffalo Speedway,EVgo,5225 Buffalo Speedway,Houston,TX,77005.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens - Eastex Freeway,EVgo,10660 Eastex Freeway,Houston,TX,77093.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Katy Mills - Entry 6,EVgo,5000 Katy Mills Circle,Katy,TX,77494.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Clay Cooley Nissan of Austin,None,4914 South IH-35,Austin,TX,78745.0,"? A, ? kW",Cost: 0.00$ / Free
+Tom Peacock Nissan,None,15300 North Freeway,Houston,TX,77090.0,"? A, ? kW",Cost: 0.00$ / Free
+Gables Park Plaza,ChargePoint,812 Electric Drive,Austin,TX,78703.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+Round Rock Premium Outlets,EVgo,4401 North Interstate 35,Round Rock,TX,78664.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Barton Creek Square Mall,EVgo,2901 South Capital of Texas Highway,Austin,TX,78746.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Pie Ae Seaholm,ChargePoint,900 Electric Drive,Austin,TX,78703.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+Jaguar Land Rover,ChargePoint,20415 Katy Freeway,Katy,TX,77450.0,"50 A, 24 kW",Cost: Free
+Walmart - Huntsville,Electrify America,141 I-45 South,Huntsville,TX,77340.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Round Rock Premium Outlets,Electrify America,4401 North I-35,Round Rock,TX,78664.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Snappy's Market - Columbus,Electrify America,2006 Alleyton Road South,Columbus,TX,78934.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - Stafford,Electrify America,11210 West Airport Boulevard,Stafford,TX,77477.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - Pearland,Electrify America,10505 Broadway Street,Pearland,TX,77584.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - League City,Electrify America,1701 West FM 646 Road,League City,TX,77573.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - San Antonio,Electrify America,4331 Thousand Oaks Drive,San Antonio,TX,78217.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Harley Davidson Woodlands,ChargePoint,25545 I-45,The Woodlands,TX,77380.0,"50 A, 24 kW",Cost: Parking TUESDAY 00:00 AM - 09:00 AM 20 USD per hour Parking WEDNESDAY 00:00 AM - 09:00 AM 20 USD per hour Parking THURSDAY 00:00 AM - 09:00 AM 20 USD per hour Parking FRIDAY 00:00 AM - 09:00 AM 20 USD per hour Parking SATURDAY 00:00 AM - 09:00 AM 20 USD per hour Parking TUESDAY 6:00 PM - 11:59 PM 20 USD per hour Parking WEDNESDAY 6:00 PM - 11:59 PM 20 USD per hour Parking THURSDAY 6:00 PM - 11:59 PM 20 USD per hour Parking FRIDAY 6:00 PM - 11:59 PM 20 USD per hour Parking SATURDAY 6:00 PM - 11:59 PM 20 USD per hour Parking SUNDAY 20 USD per hour Parking MONDAY 20 USD per hour
+Alamo City Harley Davidson,ChargePoint,11005 North Interstate 35 Frontage Road,San Antonio,TX,78233.0,"50 A, 24 kW",Cost: Free
+Stubbs Harley Davidson,ChargePoint,4400 Telephone Road,Houston,TX,77087.0,"50 A, 24 kW",Cost: 6.20$ / Hour
+Walmart - Vidor,Electrify America,1360 North Main Street,Vidor,TX,77662.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+10917 S IH 35 Frontage Road,ChargePoint,10917 South IH 35 Frontage Road,Austin,TX,78747.0,"50 A, 24 kW",Cost: Free
+Walmart - Houston,Electrify America,13750 East Freeway,Houston,TX,77015.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - Madisonville,Electrify America,1620 East Main Street,Madisonville,TX,77864.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - Houston,Electrify America,111 Yale Street,Houston,TX,77007.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+GVEC Western Operations Center,ChargePoint,6400 I-10,Seguin,TX,78155.0,"62 A, 62 kW",Cost: 15.60$ / Hour
+Parking Garage 70 Rainey,ChargePoint,70 Rainey Street,Austin,TX,78701.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+Guadelupe Valley Electric Coop,ChargePoint,927 TX-46,Seguin,TX,78155.0,"62 A, 62 kW",Cost: 15.60$ / Hour
+316 W 8th Street Parking,ChargePoint,316 West 8th Street,Austin,TX,78701.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+Walmart - Bellmead,Electrify America,1521 North Interstate 35 Frontage Road,Bellmead,TX,76705.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - Spring,Electrify America,1025 Sawdust Road,Spring,TX,77380.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Village Plaza at Bunker Hill,EVgo,9710 Katy Freeway,Houston,TX,77055.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+901 East 5th Street,ChargePoint,901 East 5th Street,Austin,TX,78702.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+Austin High School,ChargePoint,2102 Veterans Drive,Austin,TX,78703.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+Bartholomew Municipal Pool,ChargePoint,1800 East 51st Street,Austin,TX,78723.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+2011 East 51st Street,ChargePoint,2005 ½ East 51st street,Austin,TX,78723.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+Sonora Bank,ChargePoint,100 Stillwater Road,Wimberley,TX,78676.0,"62 A, 62 kW",Cost: Free
+The Woodlands Mall,Volta,1201 Lake Woodlands Drive,The Woodlands,TX,77380.0,"? A, ? kW",Cost: Free
+Katy Mills,Electrify America,5000 Katy Malls Circle,Katy,TX,77494.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Mueller Market,ChargePoint,1801 East 51st Street,Austin,TX,78723.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+North Star Mall Kona Grill,Volta,7400 San Pedro Avenue,San Antonio,TX,78216.0,"? A, ? kW",Cost: Free
+San Jacinto Harley-Davidson,ChargePoint,3636 East Sam Houston Parkway South,Pasadena,TX,77505.0,"50 A, 24 kW",Cost: 6.20$ / Hour
+Midsouth Charge Pine Market,ChargePoint,791 Fish Creek Thoroughfare,Montgomery,TX,77316.0,"62 A, 62 kW",Cost: Free
+Baybrook Mall,Volta,500 Baybrook Mall,Friendswood,TX,77546.0,"? A, ? kW",Cost: Free
+Brookshire Bros #12,EVConnect,455 George Bush Drive West,College Station,TX,77840.0,"125 A, 50 kW",Cost: 0.35$ / kWh Time not charging: $5/hr after 15 mins
+San Marcos Premium Outlets,EVgo,3939 South Interstate 35,San Marcos,TX,78666.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Campingworld Spring,ChargePoint,19302 I-45,Spring,TX,77373.0,"62 A, 62 kW",Cost: Time 0.3 USD per minute Parking 0 USD per minute for first 75 mins Parking 0.1 USD per minute after 75 mins
+Gibbons Creek Store,ChargePoint,5015 Hwy30,Anderson,TX,77830.0,"62 A, 62 kW",Cost: Free
+Midsouth Charge Midsouth Office,ChargePoint,9409 North Highway 6 Loop,Navasota,TX,77868.0,"62 A, 62 kW",Cost: Free
+1403 Williams Drive,ChargePoint,1403 Williams Drive,Georgetown,TX,78628.0,"62 A, 62 kW",Cost: 21.00$ / Hour Time not charging: $21/hr
+BMW,ChargePoint,5501 South IH 35 Frontage Road,Austin,TX,78744.0,"50 A, 24 kW",Cost: Free
+Land Rover Houston Central,ChargePoint,7025 Old Katy Road,Houston,TX,77024.0,"50 A, 24 kW",Cost: Free
+James Avery Plaza,ChargePoint,6300 183A Frontage Road,Cedar Park,TX,78613.0,"62 A, 62 kW",Cost: Energy 0.17 USD per kWh Parking 0 USD per minute
+Mercedes-Benz of The Woodlands,ChargePoint,16917 I-45 South,The Woodlands,TX,77385.0,"62 A, 62 kW",Cost: 18.00$ / Hour $18/hr: after 30 mins; Time not charging: $10/hr after 30 mins
+Land Rover Clear Lake DC Wallbox,ChargePoint,17970 Gulf Freeway,Friendswood,TX,77546.0,"26 A, 23.9 kW",Cost: Free
+Mancuso Harley-Davidson Central,ChargePoint,535 North Loop West Freeway,Houston,TX,77018.0,"50 A, 24 kW",Cost: Free
+Walmart - Sweetwater,Electrify America,407 Northeast Georgia Avenue,Sweetwater,TX,79556.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Days Inn - Van Horn,Electrify America,600 East Broadway,Van Horn,TX,79855.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - Fort Stockton,Electrify America,2610 West Dickinson Boulevard,Fort Stockton,TX,79735.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - Midland,Electrify America,200 West I-20,Midland,TX,79701.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Hampton Inn - Ozona,Electrify America,816 14TH Street,Ozona,TX,76943.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Sonic - Pecos,Electrify America,5101 South Cedar Street,Pecos,TX,79772.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Sam's Club - Amarillo,Electrify America,8952 Westgate Parkway,Amarillo,TX,79124.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Walmart - Eastland,Electrify America,1410 East Main Street,Eastland,TX,76448.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+5702 58th Street,ChargePoint,5702 58th Street,Lubbock,TX,79424.0,"50 A, 24 kW",Cost: Parking (While not charging) 1 USD per hour After 30 mins of grace Period Parking (While plugged in) For first 30 mins Free Max Fee 24 USD
+AutoNation Chevrolet Amarillo,None,2200 East Interstate Drive,Amarillo,TX,79103.0,"? A, ? kW",Cost: Unknown
+Gunn Nissan of Denton,None,5650 South Interstate 35 East,Corinth,TX,76210.0,"? A, ? kW",Cost: 0.00$ / Free
+AutoNation Nissan - Lewisville,None,1601 South Stemmons Freeway,Lewisville,TX,75067.0,"? A, ? kW",Cost: 0.00$ / Free
+Courtesy Nissan,None,1777 North Central Expy,Richardson,TX,75080.0,"? A, ? kW",Cost: 0.00$ / Free
+Nissan of McKinney,None,3800 South Central Expy,McKinney,TX,75069.0,"? A, ? kW",Cost: 0.00$ / Free
+Walgreens,EVgo,5201 Belt Line Road,Dallas,TX,75254.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Texas Nissan of Grapevine,None,1401 West State Highway 114,Grapevine,TX,76051.0,"? A, ? kW",Cost: 0.00$ / Free
+Walgreens,EVgo,26731 US Highway 380 East,Aubrey,TX,76227.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,313 North Denton Tap Road,Coppell,TX,75019.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Grapevine Mills Mall,EVgo,3000 Grapevine Mills Parkway,Grapevine,TX,76051.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walmart - Denton,Electrify America,2750 West University,Denton,TX,76201.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Mav Harley,ChargePoint,1845 I-35E,Carrollton,TX,75006.0,"50 A, 24 kW",Cost: Parking 0.1 USD per minute for first 60 mins Parking 0.2 USD per minute after 60 mins
+5920 I-35E Harley,ChargePoint,5920 I-35E,Corinth,TX,76210.0,"50 A, 24 kW",Cost: 0.12$ / kWh
+Walmart - Royse City,Electrify America,494 I-30,Royse City,TX,75189.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Mercedes-Benz of Plano,ChargePoint,6455 Dallas Parkway,Plano,TX,75024.0,"62 A, 62 kW",Cost: 0.30$ / kWh Time not charging: $10/hr after 15 mins
+GM- Foundation Automotive of Wichita Falls,EVConnect,315 Central Freeway East,Wichita Falls,TX,76301.0,"125 A, 50 kW",Cost: 0.50/kWh + Flat fee: 5.00
+Clay Cooley Nissan - Dallas,None,39690 Lyndon B Johnson Freeway,Dallas,TX,75237.0,"? A, ? kW",Cost: 0.00$ / Free
+Nissan of Fort Worth,None,3451 West Loop 820 South,Fort Worth,TX,76116.0,"? A, ? kW",Cost: 0.00$ / Free
+Walgreens - Hudson Oaks,EVgo,130 North Oakridge Drive,Hudson Oaks,TX,76087.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Shell - North Belt Line,EVgo,927 North Belt Line Road,Grand Prairie,TX,75050.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Victron at Shell,EVgo,102 South Belt Line Road,Dallas,TX,75253.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens - Arlington,EVgo,1020 North Collins Street,Arlington,TX,76011.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,8020 Denton Highway,Watauga,TX,76148.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,921 Henderson Street,Fort Worth,TX,76102.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,9937 Garland Road,Dallas,TX,75218.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Cracker Barrel - Arlington,EVgo,1251 North Watson Road,Arlington,TX,76006.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,2911 Ridge Road,Rockwall,TX,75032.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,3802 Cedar Springs Road,Dallas,TX,75219.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Whataburger-Exxon,EVgo,3799 North Houston School Road,Lancaster,TX,75134.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,5742 East Mockingbird Lane,Dallas,TX,75206.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,780 West Bedford Euless Road,Hurst,TX,76053.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Cracker Barrel Freedom Station,EVgo,13301 South Freeway,Burleson,TX,76028.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Grubbs Nissan Grapevine,None,310 Airport Freeway,Bedford,TX,76022.0,"? A, ? kW",Cost: 0.00$ / Free
+Walgreens - Lake Worth,EVgo,6244 Lake Worth Boulevard,Fort Worth,TX,76135.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Cracker Barrel - Mesquite,EVgo,5304 North Galloway Avenue,Mesquite,TX,75150.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens,EVgo,4515 Camp Bowie Boulevard,Fort Worth,TX,76107.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Trophy Nissan,None,5031 North Galloway Avenue,Mesquite,TX,75150.0,"? A, ? kW",Cost: 0.00$ / Free
+Walgreens - Mansfield,EVgo,750 North Walnut Creek Drive,Mansfield,TX,76063.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Walgreens - Haltom City,EVgo,4520 Western Center Boulevard,Haltom City,TX,76137.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Cracker Barrel - Desoto,EVgo,1421 North Interstate 35 East,Desoto,TX,75115.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus™: $0.24/min, free for reservations, Membership fee: $6.99/month"
+Stampede Harley Davidson,ChargePoint,240 North Burleson Boulevard,Burleson,TX,76028.0,"50 A, 24 kW",Cost: Parking 10 USD per hour Flat Fee 0 USD Min Fee 0 USD Max Fee 100 USD
+Walmart - Ennis,Electrify America,700 East Ennis Avenue,Ennis,TX,75119.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Sam's Club - Westworth Village,Electrify America,6760 Westworth Boulevard,Westworth Village,TX,76114.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Harley Davisdon,ChargePoint,1 Texas Harley Way,Bedford,TX,76021.0,"50 A, 24 kW",Cost: Parking 0.1 USD per minute for first 60 mins Parking 0.2 USD per minute after 60 mins
+Harley Davisdon,ChargePoint,3025 West Loop 820 South,FORT WORTH,TX,76116.0,"50 A, 24 kW",Cost: Free
+2415 Global Drive,ChargePoint,2415 Global Drive,Irving,TX,75062.0,"60 A, 24 kW",Cost: Free
+Autobahn BMW,ChargePoint,2810 White Settlement Road,Fort Worth,TX,76107.0,"50 A, 24 kW",Cost: Free
+Clay Cooley Nissan,None,1500 East Airport Freeway,Irving,TX,75062.0,"? A, ? kW",Cost: 0.00$ / Free
+Longhorn Harley,ChargePoint,2830 I-20 Frontage Road,Grand Prairie,TX,75052.0,"50 A, 24 kW",Cost: Parking 0.1 USD per minute for first 60 mins Parking 0.2 USD per minute after 60 mins
+Shops at Clearfork,EVgo,5188 Monahans Avenue,Fort Worth,TX,76109.0,"125 A, 50 kW","Cost: Pay As You Go: $0.30/min, $3.00 for reservations; Evgo Member: $0.27/min, $3.00 for reservations, prepaid charging credit: $4.99; EVgo Plus"": $0.24/min, free for reservations, Membership fee: $6.99/month"
+AutoNation Hyundai,ChargePoint,7724 Northeast Loop 820,North Richland Hills,TX,76180.0,"62 A, 62 kW",Cost: Free
+Bob Stallings Hyundai,ChargePoint,39444 Lyndon B Johnson Freeway,Dallas,TX,75232.0,"62 A, 62 kW",Cost: Time 1.25 USD per hour Parking 0 USD per hour for first 60 mins Parking 3 USD per hour after 60 mins
+Jerry's Cadillac,EVConnect,3110 Fort Worth Highway,Weatherford,TX,76087.0,"125 A, 50 kW",Cost: 0.25$ / kWh Time not charging: $5/hr after 15 mins
+Retail Shop Parking Lot,ChargePoint,1575 North,Kerrville,TX,78028.0,"100 A, 50 kW",Cost: Energy 0.17 USD per kWh Parking 0 USD per minute
+Harley Davisdon,ChargePoint,7230 Northwest Loop 410,San Antonio,TX,78245.0,"50 A, 24 kW",Cost: Free
+Econo Lodge - Junction,Electrify America,111 Martinez Street,Junction,TX,76849.0,"875 A, 350 kW","Cost: 90 kW: $0.16/min, 350 kW: $0.32/min. Membership rate: 90 kW: $0.12/min, 350 kW: $0.24/min. Membership fee: $4.00/month."
+Nissan - Boerne,None,31805 Interstate Highway 10 West,Boerne,TX,78006.0,"? A, ? kW",Cost: 0.00$ / Free
+Kerrville Pub,ChargePoint,2108 Sidney Baker Street,Kerrville,TX,78028.0,"62 A, 62 kW",Cost: 9.60$ / Hour $9.6/hr: after 30 mins; Time not charging: $5/hr after 30 mins
+The Shops at La Cantera,Volta,15900 La Cantera Parkway,San Antonio,TX,78256.0,"? A, ? kW",Cost: Free
+North Park Volkswagen,Unknown,21819 Interstate 10,San Antonio,TX,78257.0,"92 A, 22 kW",Cost: Free
+Segovia Truck Stop,None,465 Old Segovia Road,Junction,TX,76849.0,"? A, ? kW",Cost: Unknown
+Harley Davisdon,ChargePoint,502 South Padre Island Drive,Corpus Christi,TX,78405.0,"50 A, 24 kW",Cost: 30.00$ / Hour Time not charging: $30/hr
+Mercedes-Benz of Laredo,ChargePoint,6912 Bob Bullock Loop,Laredo,TX,78041.0,"62 A, 62 kW",Cost: 15.00$ / Hour
+Fuel America 2,ChargePoint,I-35 Frontage Road,Encinal,TX,78019.0,"62 A, 62 kW",Cost: 15.60$ / Hour Time not charging: $15.6/hr
+Faifield Inn & Suites Corpus Christi Central,"Tesla, Unknown",522 South Padre Island Drive,Corpus Christi,TX,78405.0,"50 A, 50 kW",Cost: Unknown
+Ed Hicks Imports,ChargePoint,3102 South Padre Island Drive,Corpus Christi,TX,78415.0,"62 A, 62 kW",Cost: 0.30$ / kWh
+AutoNation Hyundai Corpus Christi,ChargePoint,6686 South Padre Island Drive,Corpus Christi,TX,78412.0,"62 A, 62 kW",Cost: Free
+Village At Westlake,ChargePoint,701 South Capital of Texas Highway,Austin,TX,78746.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr
+Abia Retail and Cell Phone Lot,ChargePoint,2901 Spirit of Texas Drive,Austin,TX,78719.0,"62 A, 62 kW",Cost: 12.60$ / Hour Time not charging: $12.6/hr

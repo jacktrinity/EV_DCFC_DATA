@@ -1,0 +1,1130 @@
+STATION,NETWORK,ADDRESS,CITY,STATE,ZIP,AMPS,KW,NON_KWH,MEM_KWH,MEM_FEE_PER_MONTH,RATE_PER_MIN,FLATE_FEE
+E.A.T Marketplace,EVgo,41952 6th Street,Temecula,CA,92590,125,50,0.35,0.3,6.99,NULL,NULL
+Palm Springs Nissan,None,68177 Kyle Road,Cathedral City,CA,92234,NULL,NULL,0,NULL,NULL,NULL,NULL
+Larry H. Miller Nissan Corona Parts Department,None,2575 Wardlow Road,Corona,CA,92882,NULL,NULL,0,NULL,NULL,NULL,NULL
+Mossy Nissan - Poway,None,14100 Poway Road,Poway,CA,92064,NULL,NULL,0,NULL,NULL,NULL,NULL
+Larry H Miller Nissan - San Bernardino,None,735 Showcase Drive South,San Bernardino,CA,92408,NULL,NULL,0,NULL,NULL,NULL,NULL
+Pacific Nissan,None,4433 Mission Bay Drive,San Diego,CA,92109,NULL,NULL,0,NULL,NULL,NULL,NULL
+Empire Nissan,None,1377 Kettering Loop,Ontario,CA,91761,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan - San Juan Capistrano,None,33633 Camino Capistrano,San Juan Capistrano,CA,92675,NULL,NULL,0,NULL,NULL,NULL,NULL
+Palm Springs Visitors Center,EVgo,2901 North Palm Canyon Drive,Palm Springs,CA,92262,125,50,0.35,0.3,6.99,NULL,NULL
+Metro Nissan Of Redlands,None,1665 Industrial Park Avenue,Redlands,CA,92374,NULL,NULL,0,NULL,NULL,NULL,NULL
+Riverside Nissan,None,8330 Indiana Avenue,Riverside,CA,92504,NULL,NULL,0,NULL,NULL,NULL,NULL
+Torre Nissan,None,79125 Highway 111,La Quinta,CA,92253,NULL,NULL,0,NULL,NULL,NULL,NULL
+City of Palm Springs - City Hall,ChargePoint,3200 East Tahquitz Canyon Way,Palm Springs,CA,92262,62,62,0.35,NULL,NULL,NULL,NULL
+Metro Nissan of Montclair Parts Center,None,9440 Autoplex Drive,Montclair,CA,91763,NULL,NULL,0,NULL,NULL,NULL,NULL
+Las Americas Premium Outlets,EVgo,4211 Camino de la Plz,San Ysidro,CA,92173,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods - Flower Hill Promenade,EVgo,2600 Via de la Valle,Del Mar,CA,92014,125,50,0.35,0.3,6.99,NULL,NULL
+Mossy Nissan Kearny Mesa,None,8118 Clairemont Mesa Boulevard,San Diego,CA,92111,NULL,NULL,0,NULL,NULL,NULL,NULL
+SDGE Innovation Center,EVgo,4760 Clairemont Mesa Boulevard,San Diego,CA,92117,125,50,0.39,0.29,6.99,NULL,NULL
+555 Shops Boulevard,Electrify America,555 Shops Boulevard,Mission Viejo,CA,92691,875,350,0.43,0.31,4,NULL,NULL
+Del Norte Plaza,EVgo,330 West El Norte Parkway,Escondido,CA,92026,125,50,0.35,0.3,6.99,NULL,NULL
+Country Fair Shopping Center,EVgo,11995 Central Avenue,Chino,CA,91710,125,50,0.35,0.3,6.99,NULL,NULL
+Broadway Plaza,EVgo,1142 Broadway,Chula Vista,CA,91911,125,50,0.35,0.3,6.99,NULL,NULL
+Mossy Nissan - Oceanside,None,3535 College Boulevard,Oceanside,CA,92056,NULL,NULL,0,NULL,NULL,NULL,NULL
+Vons Rancho Penasquitos Center,EVgo,13289 Black Mountain Road,San Diego,CA,92129,125,50,0.39,0.29,6.99,NULL,NULL
+Carlsbad Premium Outlets,EVgo,5620 Paseo del Norte,Carlsbad,CA,92008,125,50,0.35,0.3,6.99,NULL,NULL
+7-Eleven,EVgo,901 Palomar Airport Road,Carlsbad,CA,92011,125,50,0.35,0.3,6.99,NULL,NULL
+"7-Eleven - Convoy Street, San Diego",EVgo,4080 Convoy Street,San Diego,CA,92111,125,50,0.39,0.29,6.99,NULL,NULL
+Chase Bank - Corona,EVgo,360 North McKinley Street,Corona,CA,92879,125,50,0.35,0.3,6.99,NULL,NULL
+"7-Eleven - Garnet Avenue,San Diego",EVgo,2805 Garnet Avenue,San Diego,CA,92109,125,50,0.39,0.29,6.99,NULL,NULL
+"Walmart Supercenter - East Highland Avenue, Highland",EVgo,4210 Highland Avenue,Highland,CA,92346,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart - Redlands Boulevard,EVgo,2050 West Redlands Boulevard,Redlands,CA,92373,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,Electrify America,479 McKinley Street,Corona,CA,92879,875,350,0.43,0.31,4,NULL,NULL
+BMW,ChargePoint,1175 South Dupont Avenue,Ontario,CA,91761,52,23.9,0,NULL,NULL,NULL,NULL
+Riverside City Hall,GreenLots,3900 North Main Street,Riverside,CA,92522,75,30,0.15,NULL,NULL,NULL,NULL
+CPEX,ChargePoint,1600 Pacific Highway,San Diego,CA,92101,52,23.9,0.2,NULL,NULL,0.08,NULL
+Quality Nissan - Temecula,None,41895 Motor Car Parkway,Temecula,CA,92591,NULL,NULL,0,NULL,NULL,NULL,NULL
+Plaza Rio Vista,EVgo,67800 Vista Chino,Cathedral City,CA,92234,125,50,0.35,0.3,6.99,NULL,NULL
+Dollar Tree,EVgo,1126 Calimesa Boulevard,Calimesa,CA,92320,125,50,0.35,0.3,6.99,NULL,NULL
+Morongo Casino Resort and Spa,EVgo,49500 Seminole Drive,Cabazon,CA,92230,125,50,0.35,0.3,6.99,NULL,NULL
+Kohl's - Mira Mesa Mall,EVgo,8110 Mira Mesa Boulevard,San Diego,CA,92126,125,50,0.39,0.29,6.99,NULL,NULL
+Albertson's,EVgo,1601 South Melrose Drive,Vista,CA,92081,125,50,0.35,0.3,6.99,NULL,NULL
+Ontario Mills - Skechers,EVgo,1 Mills Circle,Ontario,CA,91764,125,50,0.29,0.25,6.99,NULL,NULL
+Fenton Market Place,EVgo,2149 Fenton Parkway,San Diego,CA,92108,125,50,0.39,0.29,6.99,NULL,NULL
+The Colonies Marketplace,EVgo,2275 South Euclid Avenue,Ontario,CA,91762,125,50,0.29,0.25,6.99,NULL,NULL
+Encinitas City Hall,None,505 South Vulcan Avenue,Encinitas,CA,92024,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+UCSD - Voigt Campus Point Drive Parking,ChargePoint,3683 Voigt Drive,San Diego,CA,92037,62,62,0.35,NULL,NULL,NULL,NULL
+Ontario 76,ChargePoint,1850 East Holt Boulevard,Ontario,CA,91761,100,50,NULL,NULL,NULL,0.5,NULL
+Banning,Shell Recharge,2140 West Ramsey Street,Banning,CA,92220,125,50,0.29,NULL,NULL,NULL,NULL
+Ocean View Plaza,EVgo,638 Camino de los Mares,San Clemente,CA,92673,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart Super Center,Shell Recharge,12721 Moreno Beach Drive,Moreno,CA,92555,75,30,0.35,NULL,NULL,NULL,NULL
+ARCO,EVgo,800 Serfas Club Drive,Corona,CA,92882,125,50,0.35,0.3,6.99,NULL,NULL
+Holiday Inn - Oceanside,None,1401 Carmelo Drive,Oceanside,CA,92054,NULL,NULL,NULL,NULL,NULL,0.25,NULL
+Lake Elsinore Outlet Mall,EVgo,17600 Collier Avenue,Lake Elsinore,CA,92530,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,41200 Murrieta Hot Springs Road,Murrieta,CA,92562,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,3412 College Avenue,San Diego,CA,92115,125,50,0.39,0.29,6.99,NULL,NULL
+Walmart - San Diego,Electrify America,3382 Murphy Canyon Road,San Diego,CA,92123,875,350,0.43,0.31,4,NULL,NULL
+Walmart,EVgo,1540 West Foothill Boulevard,Upland,CA,91786,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,1290 East Ontario Avenue,Corona,CA,92881,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,1360 Eastlake Parkway,Chula Vista,CA,91915,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,1333 North Mountain Avenue,Ontario,CA,91762,125,50,0.29,0.25,6.99,NULL,NULL
+Temecula Brixmor - Vail Ranch Center,EVgo,31685 Temecula Parkway,Temecula,CA,92592,125,50,0.35,0.3,6.99,NULL,NULL
+Lazy Acres,EVgo,150 Encinitas Boulevard,Encinitas,CA,92024,125,50,0.35,0.3,6.99,NULL,NULL
+Town Center Gateway - Menifee,EVgo,30007 Haun Road,Menifee,CA,92584,125,50,0.35,0.3,6.99,NULL,NULL
+Krispy Kreme,EVgo,30099 Haun Rd,Menifee,CA,92584,NULL,50,NULL,NULL,NULL,0.2,4.95
+Moreno Valley City Hall,EVgo,14177 Frederick Street,Moreno Valley,CA,92553,125,50,0.35,0.3,6.99,NULL,NULL
+Winco Foods,EVgo,12882 Day Street,Moreno Valley,CA,92553,125,50,0.35,0.3,6.99,NULL,NULL
+Santee Trolley,EVgo,9846 Mission Gorge Road,Santee,CA,92071,125,50,0.35,0.3,6.99,NULL,NULL
+Depot Sbcta East Lot #3,ChargePoint,1170 West 3rd Street,San Bernardino,CA,92410,100,50,0.3,NULL,NULL,NULL,NULL
+BMW Ontario,ChargePoint,1356 Auto Center Drive,Ontario,CA,91761,52,23.9,0,NULL,NULL,NULL,NULL
+44199 Monroe Street,ChargePoint,44199 Monroe Street,Indio,CA,92201,50,24,0.35,NULL,NULL,NULL,NULL
+Temecula Public Library,ChargePoint,41002 County Center Drive,Temecula,CA,92591,50,24,0.35,NULL,NULL,NULL,NULL
+4060 County Circle Drive,ChargePoint,4060 County Circle Drive,Riverside,CA,92503,50,24,0.35,NULL,NULL,NULL,NULL
+City Hall,ChargePoint,735 Public Safety Way,Corona,CA,92880,100,50,0.29,NULL,NULL,NULL,NULL
+Corona Corporate Yard,ChargePoint,324-374 South Vicentia Avenue,Corona,CA,92882,100,50,0.29,NULL,NULL,NULL,NULL
+Town Center North Walmart,EVgo,705 College Boulevard,Oceanside,CA,92057,125,50,0.35,0.3,6.99,NULL,NULL
+Pala Road Park & Ride,None,3346 Old Highway 395,Fallbrook,CA,92028,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+UCSD - East Campus Utility Plant,ChargePoint,UCSD Health La Jolla Station,San Diego,CA,92037,62,62,0.35,NULL,NULL,NULL,NULL
+Walmart,EVgo,1861 South San Jacinto Avenue,San Jacinto,CA,92583,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,1800 North Perris Boulevard,Perris,CA,92571,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,5200 Van Buren Boulevard,Riverside,CA,92503,125,50,0.29,0.25,6.99,NULL,NULL
+Walmart,EVgo,17251 Foothill Boulevard,Fontana,CA,92335,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,4001 Hallmark Parkway,San Bernardino,CA,92407,125,50,0.29,0.25,6.99,NULL,NULL
+Metro Honda,ChargePoint,9399 Autoplex Street,Montclair,CA,91763,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Jessup Auto Plaza,None,68-111 East Palm Canyon Drive,Cathedral City,CA,92234,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Hampton Inn & Suites,EVConnect,2011 East Donlan Street,Blythe,CA,92225,100,20,0.5,NULL,NULLNULL,NULL,NULL
+11138 Elm Avenue,ChargePoint,11138 Elm Avenue,Rancho Cucamonga,CA,91730,100,50,0.19,NULL,NULL,NULL,NULL
+San Diego Tech Center - The Park,EVgo,9725 Scranton Road,San Diego,CA,92121,125,50,0.39,0.29,6.99,NULL,NULL
+Indigo Auto Group,ChargePoint,71377 CA-111,Rancho Mirage,CA,92270,50,24,0,NULL,NULL,NULL,NULL
+Hampton Inn & Suites,EVConnect,74900 Gerald Ford Drive,Palm Desert,CA,92211,120,50,0.5,NULL,NULLNULL,NULL,NULL
+Walmart - Poway,Electrify America,13425 Community Road,Poway,CA,92064,875,350,0.43,0.31,4,NULL,NULL
+Harley Davisdon,ChargePoint,3201 Hoover Avenue,National City,CA,91950,50,24,0.23,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,4645 Morena Boulevard,San Diego,CA,92117,50,24,0.23,NULL,NULL,NULL,NULL
+Fashion Valley,Electrify America,7007 Friars Road,San Diego,CA,92108,875,350,0.43,0.31,4,NULL,NULL
+Carlsbad Premium Outlets,Electrify America,5620 Paseo Del Norte,Carlsbad,CA,92008,875,350,0.43,0.31,4,NULL,NULL
+Ontario Mills,Electrify America,950 Ontario Mills Drive,Ontario,CA,91764,875,350,0.43,0.31,4,NULL,NULL
+Felicita Plaza,Electrify America,329 West Felicita Avenue,Escondido,CA,92025,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Indio,Electrify America,82-491 Avenue 42,Indio,CA,92203,875,350,0.43,0.31,4,NULL,NULL
+San Clemente City Hall,ChargePoint,910 Calle Negocio,San Clemente,CA,92673,62,62,0.2,NULL,NULL,NULL,NULL
+Akwaaba Food Market,ChargePoint,1380 West 6th Street,Corona,CA,92882,62,62,0,NULL,NULL,NULL,NULL
+62450 Chiriaco Road,ChargePoint,62450 Chiriaco Road,Indio,CA,92201,62,62,0.5,NULL,NULL,NULL,NULL
+Walmart - Riverside,Electrify America,6250 Valley Springs Parkway,Riverside,CA,92507,875,350,0.43,0.31,4,NULL,NULL
+Chevron Parking Lot,ChargePoint,6600 North Indian Canyon Drive,Palm Springs,CA,92262,62,62,0.15,NULL,NULL,NULL,NULL
+G&m Oil Chevron,ChargePoint,20731 Lake Forest Drive,Lake Forest,CA,92630,100,50,0.15,NULL,NULL,NULL,NULL
+Sam's Club 4822 - Murrieta,Electrify America,40500 MURRIETA HOT SPRINGS Road,Murrieta,CA,92563,875,350,0.43,0.31,4,NULL,NULL
+Riverside Harley-Davidson,ChargePoint,7688 Indiana Avenue,Riverside,CA,92504,50,24,0.13,NULL,NULL,NULL,NULL
+Walmart - Foothill Ranch,Electrify America,26502 Towne Centre Drive,Foothill Ranch,CA,92610,875,350,0.43,0.31,4,NULL,NULL
+Chevron,ChargePoint,79513 CA-111,La Quinta,CA,92253,62,62,0.15,NULL,NULL,NULL,NULL
+5 Town Square Murrieta Senior Center,ChargePoint,5 Town Square Murrieta Senior Center,Murrieta,CA,92562,62,62,0,NULL,NULL,NULL,NULL
+Osler Parking Structure Osler Lane,ChargePoint,Osler Parking Structure Osler Lane,San Diego,CA,92092,62,62,0.35,NULL,NULL,NULL,NULL
+Walmart - National City,Electrify America,1200 Highland Avenue,National City,CA,91950,875,350,0.43,0.31,4,NULL,NULL
+Civic Center DCFC,ChargePoint,10510 Civic Center Drive,Rancho Cucamonga,CA,91730,62,62,0.35,NULL,NULL,NULL,NULL
+Walmart - San Clemente,Electrify America,951 Avenida Pico,San Clemente,CA,92673,875,350,0.43,0.31,4,NULL,NULL
+Walmart - San Diego,Electrify America,710 Dennery Road,San Diego,CA,92154,875,350,0.43,0.31,4,NULL,NULL
+Bank Of America - El Centro,Electrify America,1414 West MAIN Street,El Centro,CA,92243,875,350,0.43,0.31,4,NULL,NULL
+Highland City Administration,ChargePoint,27215 Base Line Street,Highland,CA,92346,62,62,0.35,NULL,NULL,NULL,NULL
+Target - Rancho Santa Margarita,Electrify America,30602 Santa Margarita Parkway,Rancho Santa Margarita,CA,92688,875,350,0.43,0.31,4,NULL,NULL
+Encinitas City Hall â€“ Lower Lot,EVgo,561 South Vulcan Avenue,Encinitas,CA,92024,125,50,0.35,0.3,6.99,NULL,NULL
+Sheraton Mission Valley,EVgo,1433 Camino del Rio South,San Diego,CA,92108,125,50,0.39,0.29,6.99,NULL,NULL
+Sierra Way Plaza,EVgo,3993 North Sierra Way,San Bernardino,CA,92405,125,50,0.29,0.25,6.99,NULL,NULL
+Northgate Market,EVgo,1410 South 43rd Street,San Diego,CA,92113,125,50,0.39,0.29,6.99,NULL,NULL
+Residence Inn Ontario,EVgo,2025 East Convention Center Way,Ontario,CA,91764,125,50,0.29,0.25,6.99,NULL,NULL
+Fashion Valley Mall,EVgo,7007 Friars Road,San Diego,CA,92108,125,50,0.39,0.29,6.99,NULL,NULL
+Walmart,EVgo,1231 South Sanderson Avenue,Hemet,CA,92545,125,50,0.35,0.3,6.99,NULL,NULL
+Lazy Acres,EVgo,422 West Washington Street,San Diego,CA,92103,125,50,0.39,0.29,6.99,NULL,NULL
+Rialto Marketplace,EVgo,1310 South Riverside Avenue,Rialto,CA,92376,125,50,0.35,0.3,6.99,NULL,NULL
+Victoria Gardens,EVgo,12505 North Mainstreet,Rancho Cucamonga,CA,91739,125,50,0.35,0.3,6.99,NULL,NULL
+Camino Town and Country,EVgo,2227 South El Camino Real,Oceanside,CA,92054,125,50,0.35,0.3,6.99,NULL,NULL
+Kohl's,ChargePoint,1479 East 2nd Street,Beaumont,CA,92223,62,62,0.58,NULL,NULL,NULL,NULL
+Beyond Mart,None,12970 Day Street,Moreno Valley,CA,92507,NULL,NULL,NULL,NULL,NULL,0.33,NULL
+1928 South Moreno Street,ChargePoint,1928 South Moreno Street,Oceanside,CA,92054,62,62,0.66,NULL,NULL,NULL,NULL
+Walmart,Electrify America,1120 South Mount Vernon Avenue,Colton,CA,92324,875,350,0.43,0.31,4,NULL,NULL
+2300 Sweetwater Road,ChargePoint,2300 Sweetwater Road,National City,CA,91950,62,62,0.66,NULL,NULL,NULL,NULL
+101 West Avenida Vista Hermosa,ChargePoint,101 West Avenida Vista Hermosa,San Clemente,CA,92672,62,62,0.25,NULL,NULL,NULL,NULL
+2350 Fleetwood Drive,ChargePoint,2350 Fleetwood Drive,Riverside,CA,92509,100,50,0,NULL,NULL,NULL,NULL
+Aladdin Airport Parking - W. Laurel Street,EVgo,1040 West Laurel Street,San Diego,CA,92101,125,50,0.39,0.29,6.99,NULL,NULL
+Las Americas Premium Outlets,Electrify America,4211 Camino De La Plaza,San Diego,CA,92173,875,350,0.43,0.31,4,NULL,NULL
+MSTC Cahuilla Casino,ChargePoint,52701 CA-371,Anza,CA,92539,62,62,0.3,NULL,NULL,NULL,NULL
+Denny's,ChargePoint,876 West Donlon Street,Blythe,CA,92225,62,62,0.58,NULL,NULL,NULL,NULL
+Walmart,Electrify America,13487 Camino Canada,El Cajon,CA,92021,875,350,0.43,0.31,4,NULL,NULL
+Bank of America North Park,Electrify America,3101 UNIVERSITY Avenue,San Diego,CA,92104,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,3150 Business Park Drive,Vista,CA,92081,875,350,0.43,0.31,4,NULL,NULL
+600 East 6th Street,ChargePoint,600 East 6th Street,Beaumont,CA,92223,62,62,0.55,NULL,NULL,NULL,NULL
+14290 Frederick Street,ChargePoint,14290 Frederick Street,Moreno Valley,CA,92553,62,62,0.27,NULL,NULL,NULL,NULL
+Murrieta Common,ChargePoint,24761 Hospitality Place,Murrieta,CA,92562,62,62,0.24,NULL,NULL,NULL,NULL
+"BOA Redlands Main CA6-130 (Redlands, CA)",Electrify America,305 East STATE Street,Redlands,CA,92373,875,350,0.43,0.31,4,NULL,NULL
+Kohlâ€™s Corona,ChargePoint,470 Hidden Valley Parkway,Corona,CA,92879,62,62,0.58,NULL,NULL,NULL,NULL
+Murrieta City Hall,ChargePoint,1 Town Square Murrieta City Hall,Murrieta,CA,92562,62,62,0,NULL,NULL,NULL,NULL
+Bank of America,Electrify America,588 South Palm Canyon Drive,Palm Springs,CA,92264,875,350,0.43,0.31,4,NULL,NULL
+Circle K - Green River,None,4350 Green River Road,Corona,CA,92880,NULL,NULL,0.21,NULL,NULL,NULL,NULL
+Tower Market,None,84417 Indio Boulevard,Indio,CA,92201,NULL,NULL,NULL,NULL,NULL,0.33,NULL
+Target,Electrify America,72549 Highway 111,Palm Desert,CA,92260,875,350,0.43,0.31,4,NULL,NULL
+Upland Town Center,Electrify America,913 West Foothill Boulevard,Upland,CA,91786,875,350,0.43,0.31,4,NULL,NULL
+Grand Terrace City Council,ChargePoint,22795 Barton Road,Grand Terrace,CA,92313,62,62,0.25,NULL,NULL,NULL,NULL
+Kohls,ChargePoint,34940 Monterey Avenue,Palm Desert,CA,92211,62,62,0.58,NULL,NULL,NULL,NULL
+Park N Ride,ChargePoint,13516 Camino Canada,El Cajon,CA,92021,62,62,0.66,NULL,NULL,NULL,NULL
+Norco City Hall,ChargePoint,2870 Clark Avenue,Norco,CA,92860,62,62,0.2,NULL,NULL,NULL,NULL
+G&M Oil Chevron,ChargePoint,4095 University Parkway,San Bernardino,CA,92407,100,50,0.15,NULL,NULL,NULL,NULL
+Ampm Arco,ChargePoint,501 East Alessandro Boulevard,Riverside,CA,92508,62,62,0.29,NULL,NULL,NULL,NULL
+Ampm Arco,ChargePoint,3659 Central Avenue,Riverside,CA,92506,62,62,0.29,NULL,NULL,NULL,NULL
+Vista Medical Center,Electrify America,780 SHADOWRIDGE DRIVE,Vista,CA,92083,875,350,0.43,0.31,4,NULL,NULL
+Bank of America,Electrify America,512 Fletcher Parkway,El Cajon,CA,92020,875,350,0.43,0.31,4,NULL,NULL
+Bank of America,Electrify America,16849 Bernardo Ctr Drive,San Diego,CA,92128,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,9846 Mission Gorge Road,Santee,CA,92071,875,350,0.43,0.31,4,NULL,NULL
+Hyatt Place - Riverside Downtown,EVCS,3500 Market Street,Riverside,CA,92501,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+76 - Norco,evGateway,3198 Hamner Avenue,Norco,CA,92860,NULL,NULL,0.21,NULL,NULL,NULL,NULL
+The Shops at Mission Viejo,EVgo,555 The Shops At Mission Viejo,Mission Viejo,CA,92691,125,50,0.35,0.3,6.99,NULL,NULL
+Desert Hills Premium Outlets,EVgo,48750 Seminole Drive,Cabazon,CA,92230,125,50,0.35,0.3,6.99,NULL,NULL
+G&M Oil Chevron,ChargePoint,4304 Highland Avenue,Highland,CA,92346,100,50,0.15,NULL,NULL,NULL,NULL
+Banning City Hall,EVConnect,128 North San Gorgonio Avenue,Banning,CA,92220,120,50,0.28,NULL,NULL,NULL,NULL
+San Diego Community College District,EVgo,4343 Ocean View Boulevard,San Diego,CA,92113,125,50,0.39,0.29,6.99,NULL,NULL
+Inland Center Mall,EVgo,400 Inland Center Drive,San Bernardino,CA,92408,125,50,0.29,0.25,6.99,NULL,NULL
+Palm Desert City Hall,EVgo,73510 Fred Waring Drive,Palm Desert,CA,92260,125,50,0.35,0.3,6.99,NULL,NULL
+Target,Electrify America,24500 Alicia Parkway,Mission Viejo,CA,92691,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,3424 College Avenue,San Diego,CA,92115,875,350,0.43,0.31,4,NULL,NULL
+Horizon Fuel Center,EVConnect,31267 Valley Center Road,Valley Center,CA,92082,300,120,0.35,NULL,NULL,NULL,NULL
+Banning Farmhouse,EVConnect,6261 Joshua Palmer Way,Banning,CA,92220,120,50,0,NULL,NULL,NULL,NULL
+Rosecrans Plaza,EVgo,3156 Sports Arena Boulevard,San Diego,CA,92110,125,50,0.39,0.29,6.99,NULL,NULL
+University of California San Diego DCFC,ChargePoint,9423 Health Sciences Drive,San Diego,CA,92037,62,62,0.35,NULL,NULL,NULL,NULL
+City Hall Annex,Shell Recharge,14331 Frederick Street,Moreno Valley,CA,92553,125,50,0.35,NULL,NULL,NULL,NULL
+15714 Mountain Avenue,ChargePoint,15714 Mountain Avenue,Chino,CA,91708,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Stoney'S Park,ChargePoint,195 East Douglas Avenue,El Cajon,CA,92020,62,62,0.66,NULL,NULL,NULL,NULL
+Murrieta Senior Center,ChargePoint,5 Town Square,Murrieta,CA,92562,62,62,0,NULL,NULL,NULL,NULL
+City of Murrieta City Hall,ChargePoint,1 Town Square,Murrieta,CA,92562,62,62,0,NULL,NULL,NULL,NULL
+Highland City Hall,ChargePoint,27216 Base Line Street,Highland,CA,92346,62,62,0.35,NULL,NULL,NULL,NULL
+Palm Desert City Hall,ChargePoint,73510 Fred Waring Drive,Palm Desert,CA,92260,62,62,0,NULL,NULL,NULL,NULL
+Chula Vista A01,ChargePoint,1244 Oleander Avenue,Chula Vista,CA,91911,62,62,0.66,NULL,NULL,NULL,NULL
+Walmart,Electrify America,29260 Central Avenue,Lake Elsinore,CA,92532,875,350,0.43,0.31,4,NULL,NULL
+Walmart,Electrify America,2100 Vista Way,Oceanside,CA,92054,875,350,0.43,0.31,4,NULL,NULL
+Moreno Valley Mall,EVgo,22500 Town Circle,Moreno Valley,CA,92553,125,50,0.35,0.3,6.99,NULL,NULL
+Mercedes-Benz of Ontario,ChargePoint,3787 East Guasti Road,Ontario,CA,91761,62,62,0.5,NULL,NULLNULL,NULL,NULL
+UCSD Nuevo West,ChargePoint,9205 Athena circle,La Jolla,CA,92037,62,62,0.35,NULL,NULL,NULL,NULL
+Community Center Fast Charge 1,ChargePoint,6554 Smoketree Avenue,Twentynine Palms,CA,92277,62,62,0.3,NULL,NULL,NULL,NULL
+6163 Rotary Way,SWTCH,6162 Rotary Way,Joshua Tree,CA,92252,63,25.2,0,NULL,NULL,NULL,NULL
+Palm Springs Art Museum,ChargePoint,222 North Museum Drive,Palm Springs,CA,92262,62,62,0.35,NULL,NULL,NULL,NULL
+Camacho Recreation Center,ChargePoint,1810 East 22nd Street,National City,CA,91950,62,62,0.66,NULL,NULL,NULL,NULL
+Rancho Las Palmas Shopping Center,EVgo,42370 Bob Hope Drive,Rancho Mirage,CA,92270,125,50,0.35,0.3,6.99,NULL,NULL
+Sunset Park,ChargePoint,909 Puesta Del Sol,San Marcos,CA,92078,62,62,0.66,NULL,NULL,NULL,NULL
+TA Ontario,Shell Recharge,4265 East Guasti Road,Ontario,CA,91761,200,100,0.5,NULL,NULL,NULL,NULL
+Pacifica Foothill Center,Electrify America,1223 East Vista Way,Vista,CA,92084,875,350,0.43,0.31,4,NULL,NULL
+Tower Market,ChargePoint,61980 Tyler Street,Thermal,CA,92274,100,50,0.4,NULL,NULL,NULL,NULL
+Montclair East Shopping Center,EVgo,9197 Central Avenue,Montclair,CA,91763,125,50,0.35,0.3,6.99,NULL,NULL
+Redlands Packing House Parking Structure,EVConnect,101 West Stuart Avenue,Redlands,CA,92374,125,50,0.45,NULL,NULL,NULL,NULL
+City of Santa Monica - Civic Parking Garage,None,333 Civic Center Drive,Santa Monica,CA,90401,NULL,NULL,0,NULL,NULL,NULL,NULL
+Buena Park Nissan,None,6501 Auto Center Drive,Buena Park,CA,90621,NULL,NULL,0,NULL,NULL,NULL,NULL
+Ross Nissan Of El Monte,None,3428 North Peck Road,El Monte,CA,91731,NULL,NULL,0,NULL,NULL,NULL,NULL
+Garden Grove Nissan,None,9222 Trask Avenue,Garden Grove,CA,92844,NULL,NULL,0,NULL,NULL,NULL,NULL
+Glendale Nissan,None,727 South Brand Boulevard,Glendale,CA,91204,NULL,NULL,0,NULL,NULL,NULL,NULL
+Surf City Nissan,None,17331 Beach Boulevard,Huntington Beach,CA,92647,NULL,NULL,0,NULL,NULL,NULL,NULL
+Stadium Nissan,None,1140 West Katella Avenue,Orange,CA,92867,NULL,NULL,0,NULL,NULL,NULL,NULL
+Antelope Valley Nissan,None,451 Auto Center Drive,Palmdale,CA,93551,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Tustin,None,30 Auto Center Drive,Tustin,CA,92782,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Puente Hills Nissan,None,17320 East Gale Avenue,City of Industry,CA,91748,NULL,NULL,0,NULL,NULL,NULL,NULL
+West Covina Nissan,None,205 North Citrus Street,West Covina,CA,91791,NULL,NULL,0,NULL,NULL,NULL,NULL
+University of California Los Angeles - Parking Structure 4,None,221 Westwood Plaza,Los Angeles,CA,90077,NULL,NULL,0,NULL,NULL,NULL,NULL
+The Market Place,ChargePoint,13762 Jamboree Road,Irvine,CA,92602,62,62,0.41,NULL,NULL,NULL,NULL
+Nissan Van Nuys,None,5425 Van Nuys Boulevard,Van Nuys,CA,91401,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Downtown LA,None,635 West Washington Boulevard,Los Angeles,CA,90015,NULL,NULL,0,NULL,NULL,NULL,NULL
+Carson Nissan,None,1505 East 223rd Street,Carson,CA,90745,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Irvine,None,32 Auto Center Drive,Irvine,CA,92618,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Stonewood Mall - Downey,EVgo,306 Stonewood Street,Downey,CA,90241,125,50,0.35,0.3,6.99,NULL,NULL
+Los Cerritos Center,EVgo,200 Los Cerritos Mall,Cerritos,CA,90703,125,50,0.35,0.3,6.99,NULL,NULL
+Hines Warner Center,EVgo,5700 Canoga Avenue,Woodland Hills,CA,91367,125,50,0.35,0.3,6.99,NULL,NULL
+Walgreens - Ventura Boulevard,EVgo,18568 Ventura Boulevard,Tarzana,CA,91356,125,50,0.35,0.3,6.99,NULL,NULL
+Hermosa Beach Parking Garage,EVgo,1301 Hermosa Avenue,Hermosa Beach,CA,90254,125,50,0.35,0.3,6.99,NULL,NULL
+Larwin Square - Tustin,EVgo,654 East 1st Street,Tustin,CA,92780,125,50,0.35,0.3,6.99,NULL,NULL
+Brea Mall,EVgo,1065 Brea Mall,Brea,CA,92821,125,50,0.35,0.3,6.99,NULL,NULL
+Outlets at Orange,EVgo,20 City Boulevard West,Orange,CA,92868,125,50,0.29,0.25,6.99,NULL,NULL
+Universal City Nissan,None,3550 Cahuenga Boulevard West,Los Angeles,CA,90068,NULL,NULL,0,NULL,NULL,NULL,NULL
+LADWP - West LA District Office,Shell Recharge,1394 South Sepulveda Boulevard,Los Angeles,CA,90025,125,50,0,NULL,NULL,NULL,NULL
+Walgreens,EVgo,19501 Beach Boulevard,Huntington Beach,CA,92648,125,50,0.35,0.3,6.99,NULL,NULL
+The Pike at Long Beach - Rainbow Bridge Parking Center,ChargePoint,17 Cedar Avenue,Long Beach,CA,90802,62,62,0.24,NULL,NULL,NULL,NULL
+Angel Stadium of Anaheim,Blink,2000 Gene Autry Way,Anaheim,CA,92806,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+SCPPA - Auto Centre Drive,ChargePoint,1160 Nicole Ct,Glendora,CA,91740,100,50,0.31,NULL,NULL,NULL,NULL
+New Century BMW,ChargePoint,16 North Olive Avenue,Alhambra,CA,91801,52,23.9,0.69,NULL,NULL,NULL,NULL
+Santa Monica VW,ChargePoint,2440 Santa Monica Boulevard,Santa Monica,CA,90404,52,23.9,NULL,NULL,NULL,0.5,NULL
+Courtyard by Marriott â€“ Irvine Spectrum,EVgo,7955 Irvine Center Drive,Irvine,CA,92618,125,50,0.35,0.3,6.99,NULL,NULL
+Crevier BMW,ChargePoint,1500 Auto Mall Dr,Santa Ana,CA,92705,NULL,24,NULL,NULL,NULL,NULL,NULL
+Ralph's - Tarragona Plaza,EVgo,1000 North Western Avenue,San Pedro,CA,90732,125,50,0.35,0.3,6.99,NULL,NULL
+Urban Radish,"ChargePoint, EVCS",661 Imperial Street,Los Angeles,CA,90021,27,6.5,0.3,NULL,NULL,0.02,NULL
+Lincoln Place,EVgo,1050 Frederick Street,Venice,CA,90291,125,50,0.35,0.3,6.99,NULL,NULL
+Shore Hotel,EVgo,1515 Ocean Avenue,Santa Monica,CA,90401,125,50,0.35,0.3,6.99,NULL,NULL
+Gelson's Village,EVgo,22277 Mulholland Highway,Calabasas,CA,91302,125,50,0.35,0.3,6.99,NULL,NULL
+The Mall of Victor Valley,EVgo,14370 Bear Valley Road,Victorville,CA,92392,125,50,0.35,0.3,6.99,NULL,NULL
+Mother's Market,EVgo,2475 Cherry Avenue,Signal Hill,CA,90755,125,50,0.35,0.3,6.99,NULL,NULL
+Savi Ranch Center,EVgo,23036 Eastpark Drive,Yorba Linda,CA,92887,125,50,0.35,0.3,6.99,NULL,NULL
+Family Dollar - Norwalk,EVgo,10930 Rosecrans Avenue,Norwalk,CA,90650,125,50,0.35,0.3,6.99,NULL,NULL
+Island Pacific Seafood Market,EVgo,3300 Atlantic Avenue,Long Beach,CA,90807,125,50,0.35,0.3,6.99,NULL,NULL
+BevMo!,EVgo,1700 Rosecrans Avenue,Manhattan Beach,CA,90266,125,50,0.35,0.3,6.99,NULL,NULL
+Gelson's - Serman Oaks,EVgo,4520 Van Nuys Boulevard,Sherman Oaks,CA,91403,125,50,0.35,0.3,6.99,NULL,NULL
+Playa Vista Community Center,EVgo,12855 Runway Road,Playa Vista,CA,90094,125,50,0.35,0.3,6.99,NULL,NULL
+Grocery Outlet,EVgo,9026 Valley Boulevard,Rosemead,CA,91770,125,50,0.35,0.3,6.99,NULL,NULL
+Torrance Civic Center 1,ChargePoint,3301 Torrance Boulevard,Torrance,CA,90503,100,50,NULL,NULL,NULL,0.49,NULL
+Ince Parking Garage Culver City - Trader Joe's,EVgo,9290 Culver Boulevard,Culver City,CA,90232,125,50,0.35,0.3,6.99,NULL,NULL
+Hollywood and Highland,EVCS,6801 Hollywood Boulevard,Los Angeles,CA,90028,NULL,NULL,0.3,NULL,NULL,NULL,NULL
+Castaic Lake RV Park,None,31540 Ridge Route Road,Castaic,CA,91384,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ralph's,Electrify America,14049 Ventura Boulevard,Sherman Oaks,CA,91423,875,350,0.43,0.31,4,NULL,NULL
+CA Lottery,ChargePoint,9807 Bell Ranch Drive,Santa Fe Springs,CA,90670,100,50,0.2,NULL,NULL,NULL,NULL
+Walmart Neighborhood Market - Huntington Beach,EVgo,21190 Beach Boulevard,Huntington Beach,CA,92648,125,50,0.35,0.3,6.99,NULL,NULL
+The Outlets at Orange,None,20 City Boulevard West,Orange,CA,92868,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Canyon Country Plaza,EVgo,19242 Soledad Canyon Road,Canyon Country,CA,91351,125,50,0.35,0.3,6.99,NULL,NULL
+McMaster Park,ChargePoint,17537 Yukon Avenue,Torrance,CA,90504,100,50,NULL,NULL,NULL,0.49,NULL
+Whole Foods Plaza,EVgo,216 Central Ct,Renondo Beach,CA,90277,NULL,50,NULL,NULL,NULL,0.2,4.95
+City Creek Center East,EVgo,10621 Carmenita Road,Santa Fe Springs,CA,90670,125,50,0.35,0.3,6.99,NULL,NULL
+Los Angeles Zoo,Shell Recharge,5333 Zoo Drive,Los Angeles,CA,90027,125,50,0,NULL,NULL,NULL,NULL
+Lakeside Shopping Center,"ChargePoint, Shell Recharge",327 North Pass Avenue,Burbank,CA,91505,27,6.5,0.3,NULL,NULL,NULL,NULL
+Santa Fe Trail Plaza,EVgo,10601 Valley Boulevard,El Monte,CA,91731,125,50,0.35,0.3,6.99,NULL,NULL
+Puente Hills Town Center,EVgo,17342 Colima Road,Rowland Heights,CA,91748,125,50,0.35,0.3,6.99,NULL,NULL
+5555 Sylvia Avenue,Shell Recharge,5555 Sylvia Avenue,Los Angeles,CA,91356,125,50,0,NULL,NULL,NULL,NULL
+Los Angeles Department of Water & Power Substation,Shell Recharge,4261 Arch Drive,Studio City,CA,91604,125,50,0,NULL,NULL,NULL,NULL
+University of Southern California,None,357 West 35th Street,Los Angeles,CA,90007,NULL,NULL,0,NULL,NULL,NULL,NULL
+Joint Service Center,Shell Recharge,1230 West 3rd Street,Los Angeles,CA,90017,125,50,0,NULL,NULL,NULL,NULL
+LADWP - Van Nuys Payment Center,None,6550 Van Nuys Boulevard,Los Angeles,CA,91405,NULL,NULL,0,NULL,NULL,NULL,NULL
+City of Los Angeles Lot 639,EVCS,116 South Avenue 56,Los Angeles,CA,90042,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Calabasas Civic Center,EVgo,100 Civic Center Way,Calabasas,CA,91302,125,50,0.35,0.3,6.99,NULL,NULL
+Car Pros Kia of Carson,Unknown (edit),22020 Recreation Rd,Carson,CA,90745,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Los Angeles Department of Water & Power Substation DS-73,Shell Recharge,14061 Riverside Drive,Sherman Oaks,CA,91423,125,50,0,NULL,NULL,NULL,NULL
+Walmart,EVgo,11822 Gilbert Street,Garden Grove,CA,92841,125,50,0.35,0.3,6.99,NULL,NULL
+Real Life Church,EVgo,23889 Bouquet Canyon Trail,Valencia,CA,91355,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Walmart,EVgo,1950 Auto Centre Drive,Glendora,CA,91740,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,3250 Big Dalton Avenue,Baldwin Park,CA,91706,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,1600 Mountain Avenue,Duarte,CA,91010,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,17150 Gale Avenue,City of Industry,CA,91745,125,50,0.35,0.3,6.99,NULL,NULL
+Bunnin Chevrolet of Fillmore,None,1024 Ventura Street,Fillmore,CA,93015,NULL,NULL,0,NULL,NULL,NULL,NULL
+Sycamore Square - Simi Valley,EVgo,2801 Cochran Street,Simi Valley,CA,93065,125,50,0.35,0.3,6.99,NULL,NULL
+Promenade On The Peninsula,EVgo,550 Deep Valley Drive,Rolling Hills Estates,CA,90274,125,50,0.35,0.3,6.99,NULL,NULL
+AT&T,ChargePoint,3600 South La Brea Avenue,Los Angeles,CA,90016,100,50,0.15,NULL,NULL,NULL,NULL
+2600 Michelson,EVgo,2600 Michelson Drive,Irvine,CA,92612,125,50,0.35,0.3,6.99,NULL,NULL
+The Oaks Mall - Forever 21,EVgo,350 West Hillcrest Drive,Thousand Oaks,CA,91360,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,1340 South Beach Boulevard,La Habra,CA,90631,125,50,0.35,0.3,6.99,NULL,NULL
+San Dimas Plaza,EVgo,877 West Arrow Highway,San Dimas,CA,91773,125,50,0.35,0.3,6.99,NULL,NULL
+Long Beach City Place Garage - Lot C,ChargePoint,50 East 5th Street,Long Beach,CA,90802,62,62,0.24,NULL,NULL,NULL,NULL
+Laguna Woods Village,ChargePoint,24351 El Toro Road,Laguna Woods,CA,92637,62,62,0.4,NULL,NULL,NULL,NULL
+Monterey Park,EVgo,320 West Newmark Avenue,Monterey Park,CA,91754,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,8230 Talbert Avenue,Huntington Beach,CA,92646,125,50,0.35,0.3,6.99,NULL,NULL
+Nissan of South Bay,None,20550 Hawthorne Boulevard,Torrance,CA,90503,NULL,NULL,0,NULL,NULL,NULL,NULL
+Norm Reeves Honda,ChargePoint,16 Auto Center Drive,Irvine,CA,92618,100,50,NULL,NULL,NULL,NULL,5.99
+Walmart,EVgo,3943 Grand Avenue,Chino,CA,91710,125,50,0.35,0.3,6.99,NULL,NULL
+City of Los Angeles Lot 702,"EVCS, Shell Recharge",1627 Vine Street,Los Angeles,CA,90028,30,7.2,0,NULL,NULL,NULL,NULL
+Caltech,Unknown,327 South Holliston Avenue,Pasadena,CA,91106,NULL,NULL,0,NULL,NULL,NULL,NULL
+Whole Foods,ChargePoint,8505 Irvine Center Drive,Irvine,CA,92618,62,62,0.41,NULL,NULL,NULL,NULL
+Bridgeport Marketplace,EVgo,23841 Newhall Ranch Road,Valencia,CA,91355,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,80 Rio Rancho Road,Pomona,CA,91766,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,13331 Beach Boulevard,Westminster,CA,92683,125,50,0.35,0.3,6.99,NULL,NULL
+Bristol Farms,EVgo,9039 Beverly Boulevard,Los Angeles,CA,90048,125,50,0.32,0.28,6.99,NULL,NULL
+Chevrolet of Montebello,ChargePoint,310 West Whittier Blvd,Montebello,CA,90640,NULL,24,NULL,NULL,NULL,NULL,NULL
+Development Services Parking,EVConnect,38250 Sierra Highway,Palmdale,CA,93550,120,50,NULL,NULL,NULL,0.03,NULL
+WCH Power,ChargePoint,8323 East La Palma Avenue,Yorba Linda,CA,92887,100,50,0,NULL,NULL,NULL,NULL
+LADWP John Ferraro Building,GreenLots,111 North Hope Street,Los Angeles,CA,90012,125,50,0,NULL,NULL,NULL,NULL
+California Institute of Technology - California Parking Structure,None,1248 East California Boulevard,Pasadena,CA,91125,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Soledad MetroLink Train Station,EVConnect,22122 Soledad Canyon Road,Santa Clarita,CA,91351,120,50,0.25,NULL,NULL,NULL,NULL
+Pasadena Honda,ChargePoint,1965 East foothill Boulevard,Pasadena,CA,91107,100,50,0.25,NULL,NULL,NULL,NULL
+Garage 680 - Broxton Westwood,EVgo,1036 Broxton Avenue,Los Angeles,CA,90024,125,50,0.32,0.28,6.99,NULL,NULL
+Crystal Cove Shopping Center,ChargePoint,7972 Pacific Coast Highway,Newport Beach,CA,92657,62,62,0.41,NULL,NULL,NULL,NULL
+Simi Chevrolet,None,1001 Cochran Street,Simi Valley,CA,93065,NULL,NULL,0,NULL,NULL,NULL,NULL
+Peterson Automotive Museum,"SemaConnect, EVgo",6060 Wilshire Boulevard,Los Angeles,CA,90036,30,7.2,NULL,NULL,NULL,0.03,NULL
+Lazy Acres - Hermosa Beach,EVgo,2510 Pacific Coast Highway,Hermosa Beach,CA,90254,125,50,0.35,0.3,6.99,NULL,NULL
+"Irvine Spectrum (Irvine, CA)",Electrify America,670 Spectrum Center Drive,Irvine,CA,92618,875,350,0.43,0.31,4,NULL,NULL
+Hollywood Burbank Airport,GreenLots,2627 North Hollywood Way,Burbank,CA,91505,125,50,0.28,NULL,NULL,NULL,NULL
+Country Hills Shopping Plaza,Electrify America,2965 Rolling Hills Road,Torrance,CA,90505,875,350,0.43,0.31,4,NULL,NULL
+Premier Chevrolet,None,6261 Western Avenue,Buena Park,CA,90621,NULL,NULL,0,NULL,NULL,NULL,NULL
+Woodbury Town Center,ChargePoint,6428 Irvine Boulevard,Irvine,CA,92620,62,62,0.41,NULL,NULL,NULL,NULL
+Fashion Island,ChargePoint,545 Newport Center Drive,Newport Beach,CA,92660,62,62,0.41,NULL,NULL,NULL,NULL
+Newport Coast Shopping Center,ChargePoint,21101-21185 Newport Coast Drive,Newport Beach,CA,92657,62,62,0.41,NULL,NULL,NULL,NULL
+Brookhurst Community Center,EVgo,2271 West Crescent Avenue,Anaheim,CA,92801,125,50,0.35,0.3,6.99,NULL,NULL
+Marengo Garage,"Tesla, Shell Recharge",155 East Green Street,Pasadena,CA,91105,125,50,0,NULL,NULL,NULL,NULL
+AutoNation Chevrolet Valencia,ChargePoint,23649 Valencia Boulevard,Santa Clarita,CA,91355,50,24,0,NULL,NULL,NULL,NULL
+Montebello Plaza,Electrify America,2401 West Via Campo,Montebello,CA,90640,875,350,0.43,0.31,4,NULL,NULL
+Harley,ChargePoint,1919 Puente Avenue,Baldwin Park,CA,91706,50,24,0,NULL,NULL,NULL,20
+4435 E Ocean Blvd Long Beach Granada,ChargePoint,4435 East Ocean Boulevard,Long Beach,CA,90803,62,62,0.26,NULL,NULL,NULL,NULL
+14900 La Mirada Boulevard,Electrify America,14900 La Mirada Boulevard,La Mirada,CA,90638,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Burbank,Electrify America,1301 North Victory Place,Burbank,CA,91502,875,350,0.43,0.31,4,NULL,NULL
+Chevron Station - Venice,EVgo,2400 Lincoln Boulevard,Venice,CA,90291,125,50,0.35,0.3,6.99,NULL,NULL
+Del Amo Fashion Center,Electrify America,3525 West Carson Street,Torrance,CA,90503,875,350,0.43,0.31,4,NULL,NULL
+LADWP Lincoln Heights,Shell Recharge,2605 Artesian Street,Los Angeles,CA,90031,125,50,0,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,15080 Goldenwest Circle,Westminster,CA,92683,50,24,0,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,2635 West Orangethorpe Avenue,Fullerton,CA,92833,50,24,0.24,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,1517 CA-1,Los Angeles,CA,90710,50,24,0,NULL,NULL,NULL,NULL
+CA Lottery,ChargePoint,9710 Topanga Canyon Boulevard,Chatsworth,CA,91311,100,50,0.21,NULL,NULL,NULL,NULL
+City Hall - Senior Center,ChargePoint,8152 Knott Avenue,Buena Park,CA,90620,100,50,0.25,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,1759 West Avenue J 12,Lancaster,CA,93534,50,24,0.19,NULL,NULL,NULL,NULL
+121 Fortune Drive,ChargePoint,950 Spectrum Center Drive,Irvine,CA,92618,62,62,0.41,NULL,NULL,NULL,NULL
+California State University LA Structure E,ChargePoint,5151 State University Drive,Los Angeles,CA,90032,100,50,0,NULL,NULL,NULL,NULL
+Chevron,ChargePoint,3085 East La Palma Avenue,Anaheim,CA,92806,62,62,0.47,NULL,NULL,NULL,NULL
+Chevron,ChargePoint,1105 Santa Anita Avenue,South El Monte,CA,91733,62,62,0.47,NULL,NULL,NULL,NULL
+Vons - La Crescenta,Electrify America,3233 Foothill Boulevard,La Crescenta,CA,91214,875,350,0.43,0.31,4,NULL,NULL
+Texaco,ChargePoint,700 North Brookhurst Street,Anaheim,CA,92801,62,62,0.47,NULL,NULL,NULL,NULL
+8901 Garden Grove Boulevard,ChargePoint,8901 Garden Grove Boulevard,Garden Grove,CA,92841,62,62,0.35,NULL,NULL,NULL,NULL
+8897 Garden Grove Boulevard,ChargePoint,8897 Garden Grove Boulevard,Garden Grove,CA,92844,62,62,0.35,NULL,NULL,NULL,NULL
+Walmart - Santa Ana,Electrify America,3600 West McFadden Avenue,Santa Ana,CA,92704,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Downey,Electrify America,9001 Apollo Way,Downey,CA,90242,875,350,0.43,0.31,4,NULL,NULL
+7-Eleven - Pomona,ChargePoint,808 North Indian Hill Boulevard,Pomona,CA,91767,62,62,0.55,NULL,NULL,NULL,NULL
+Albertsons - Arcadia,Electrify America,298 East Live Oak Avenue,Arcadia,CA,91006,875,350,0.43,0.31,4,NULL,NULL
+Westminster Mall,Electrify America,75 Westminster Mall,Westminster,CA,92683,875,350,0.43,0.31,4,NULL,NULL
+Outlets at Orange,Electrify America,20 City Boulevard West,Orange,CA,92868,875,350,0.43,0.31,4,NULL,NULL
+Chevron ExtraMile,ChargePoint,6972 Warner Avenue,Huntington Beach,CA,92647,62,62,0.15,NULL,NULL,NULL,NULL
+Chevron,ChargePoint,17055 Lakewood Boulevard,Bellflower,CA,90706,100,50,0.15,NULL,NULL,NULL,NULL
+Chevron,ChargePoint,4991 Long Beach Boulevard,Long Beach,CA,90805,62,62,0.15,NULL,NULL,NULL,NULL
+Chevron ExtraMileDowney,ChargePoint,12555 Paramount Boulevard,Downey,CA,90242,62,62,0.15,NULL,NULL,NULL,NULL
+Chevron,ChargePoint,500 South Azusa Avenue,Azusa,CA,91702,62,62,0.15,NULL,NULL,NULL,NULL
+Target - Diamond Bar,Electrify America,747 Grand Avenue,Diamond Bar,CA,91765,875,350,0.43,0.31,4,NULL,NULL
+Target - Van Nuys,Electrify America,14920 Raymer Street,Van Nuys,CA,91405,875,350,0.43,0.31,4,NULL,NULL
+Chevron,ChargePoint,18501 Beach Boulevard,Huntington Beach,CA,92648,62,62,0.15,NULL,NULL,NULL,NULL
+Target - Huntington Beach,Electrify America,9882 Adams Avenue,Huntington Beach,CA,92646,875,350,0.43,0.31,4,NULL,NULL
+Mall Chevron,ChargePoint,14250 Bear Valley Road,Victorville,CA,92392,62,62,0.15,NULL,NULL,NULL,NULL
+Marina Village,Electrify America,5922 Edinger Avenue,Huntington Beach,CA,92649,875,350,0.43,0.31,4,NULL,NULL
+1002 W Santa Ana Boulevard,ChargePoint,1002 West Santa Ana Boulevard P7 TWIN TOWERS,Santa Ana,CA,92703,62,62,0.25,NULL,NULL,NULL,NULL
+BOA Washington-Centinela,Electrify America,12316 West Washington Boulevard,Los Angeles,CA,90066,875,350,0.43,0.31,4,NULL,NULL
+Target - Carson,Electrify America,651 West Sepulveda Boulevard,Carson,CA,90745,875,350,0.43,0.31,4,NULL,NULL
+Ralphs - Glendale,Electrify America,1416 East Colorado Street,Glendale,CA,91205,875,350,0.43,0.31,4,NULL,NULL
+Chevron,ChargePoint,3190 West Temple Avenue,Pomona,CA,91768,62,62,0.47,NULL,NULL,NULL,NULL
+BoA 17th-Tustin,Electrify America,2127 East 17th Street,Santa Ana,CA,92705,875,350,0.43,0.31,4,NULL,NULL
+Inglewood City Hall,EVgo,105 South La Brea Avenue,Inglewood,CA,90301,125,50,0.35,0.3,6.99,NULL,NULL
+1500 Paramount Boulevard,ChargePoint,1500 Paramount Boulevard,Montebello,CA,90640,62,62,0.47,NULL,NULL,NULL,NULL
+Walmart - Hesperia,Electrify America,13401 Main Street,Hesperia,CA,92345,875,350,0.43,0.31,4,NULL,NULL
+Target - Buena Park,Electrify America,7530 Orangethorpe Avenue,Buena Park,CA,90621,875,350,0.43,0.31,4,NULL,NULL
+Plaza Del Sol - Burbank,Electrify America,10950 Sherman Way,Burbank,CA,91505,875,350,0.43,0.31,4,NULL,NULL
+Venice Crossroads,EVgo,8985 Venice Boulevard,Los Angeles,CA,90034,125,50,0.32,0.28,6.99,NULL,NULL
+Denny's,ChargePoint,5521 Dennis McCarthy Drive,Lebec,CA,93243,62,62,0.58,NULL,NULL,NULL,NULL
+Chevron,EVgo,10867 Santa Monica Boulevard,Los Angeles,CA,90025,125,50,0.32,0.28,6.99,NULL,NULL
+hampton inn lancaster,EVgo,2300 Double Play Way,Lancaster,CA,93536,125,50,0.35,0.3,6.99,NULL,NULL
+601 North Ross Street,ChargePoint,601 North Ross Street CAS,Santa Ana,CA,92701,62,62,0.25,NULL,NULL,NULL,NULL
+2950 Westminster Boulevard,ChargePoint,2950 Westminster Boulevard,Seal Beach,CA,90740,62,62,0.47,NULL,NULL,NULL,NULL
+Comfort Inn & Suites - Mojave,Electrify America,1385 CA-58 BUS,Mojave,CA,93501,875,350,0.43,0.31,4,NULL,NULL
+72 Frazier Mountain Park Road,ChargePoint,73 Frazier Mountain Park Road,Lebec,CA,93243,62,62,0.58,NULL,NULL,NULL,NULL
+Joint Administration Office,Shell Recharge,1955 Workman Mill Road,Whittier,CA,90601,125,50,0.3,NULL,NULL,NULL,NULL
+Walmart - South Gate,Electrify America,4651 Firestone Boulevard,South Gate,CA,90280,875,350,0.43,0.31,4,NULL,NULL
+Target - Gardena,Electrify America,2169 West Redondo Beach Boulevard,Gardena,CA,90247,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Santa Clarita,Electrify America,27931 KELLY JOHNSON Parkway,Santa Clarita,CA,91355,875,350,0.43,0.31,4,NULL,NULL
+GE Properties,EVCS,1411 South Garfield Avenue,Alhambra,CA,91801,NULL,NULL,0.3,NULL,NULL,NULL,NULL
+Hilton Plaza - San Gabriel,EVCS,227 West Valley Boulevard,San Gabriel,CA,91776,120,50,0.3,NULL,NULL,NULL,NULL
+Pacoima Center,EVgo,9727 Laurel Canyon Boulevard,Arleta,CA,91331,125,50,0.35,0.3,6.99,NULL,NULL
+76 - Valley Village,EVgo,4654 Laurel Canyon Boulevard,Valley Village,CA,91607,125,50,0.35,0.3,6.99,NULL,NULL
+Chevron,EVgo,23022 Aliso Creek Road,Aliso Viejo,CA,92656,125,50,0.35,0.3,6.99,NULL,NULL
+Chevron,EVgo,2301 North Aviation Boulevard,Manhattan Beach,CA,90266,125,50,0.35,0.3,6.99,NULL,NULL
+Soledad Center,EVgo,909 South Central Avenue,Compton,CA,90220,125,50,0.35,0.3,6.99,NULL,NULL
+Veteran's Memorial Park,EVgo,4117 Overland Avenue,Culver City,CA,90230,125,50,0.35,0.3,6.99,NULL,NULL
+Culver City Senior Center,EVgo,4095 Overland Avenue,Culver City,CA,90232,125,50,0.35,0.3,6.99,NULL,NULL
+Sprouts San Vicente,EVgo,4918 San Vicente Boulevard,Los Angeles,CA,90019,125,50,0.32,0.28,6.99,NULL,NULL
+UCLA_Lot 36 Kinross,EVgo,11100 Kinross Avenue,Los Angeles,CA,90095,125,50,0.32,0.28,6.99,NULL,NULL
+Hyatt House El Segundo,EVgo,810 South Douglas Street,El Segundo,CA,90245,125,50,0.35,0.3,6.99,NULL,NULL
+City of Calabasas - De Anza Park,EVgo,3701 Lost Hills Road,Agoura Hills,CA,91301,125,50,0.35,0.3,6.99,NULL,NULL
+Courtyard Anaheim Buena Park,EVgo,7621 Beach Boulevard,Buena Park,CA,90620,125,50,0.35,0.3,6.99,NULL,NULL
+Yorba Linda Town Center,EVgo,18421 Yorba Linda Boulevard,Yorba Linda,CA,92886,125,50,0.35,0.3,6.99,NULL,NULL
+UCLA Parking Structure 4,EVgo,Structure 4 221 Westwood Plaza,Los Angeles,CA,90095,125,50,0.32,0.28,6.99,NULL,NULL
+Huntington Harbor Mall,EVgo,16847 Algonquin Street,Huntington Beach,CA,92649,125,50,0.35,0.3,6.99,NULL,NULL
+Bristol Plaza,EVgo,3361 South Bristol Street,Santa Ana,CA,92704,125,50,0.35,0.3,6.99,NULL,NULL
+Camarillo Premium Outlets,EVgo,990 Camarillo Center Drive,Camarillo,CA,93010,125,50,0.35,0.3,6.99,NULL,NULL
+The Americana at Brand,EVgo,889 Americana Way,Glendale,CA,91210,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,19503 Normandie Avenue,Torrance,CA,90501,125,50,0.35,0.3,6.99,NULL,NULL
+Aiso Street Parking Garage,EVgo,101 Judge John Aiso Street,Los Angeles,CA,90012,125,50,0.32,0.28,6.99,NULL,NULL
+Newport Beach Civic Center,EVgo,100 Civic Center Drive,Newport Beach,CA,92660,125,50,0.35,0.3,6.99,NULL,NULL
+Downey Nissan,None,7321 Firestone Boulevard,Downey,CA,90241,NULL,NULL,0,NULL,NULL,NULL,NULL
+Csu Fullerton Sgmh Lot 001,ChargePoint,Unnamed Road,Fullerton,CA,92831,62,62,0.4,NULL,NULL,NULL,NULL
+Motel 6,ChargePoint,16868 Stoddard Wells Road,Victorville,CA,92394,62,62,0.58,NULL,NULL,NULL,NULL
+"Parking Concepts, Inc",ChargePoint,313 The City Drive South MANCHESTER,Orange,CA,92868,62,62,0.25,NULL,NULL,NULL,NULL
+Walmart,Electrify America,301 Montara Road,Barstow,CA,92311,875,350,0.43,0.31,4,NULL,NULL
+Calabasas Tennis and Swim Club,EVgo,23400 Park Sorrento,Calabasas,CA,91302,125,50,0.35,0.3,6.99,NULL,NULL
+39440 10th Street West,ChargePoint,39440 10th Street West,Palmdale,CA,93551,62,62,0.58,NULL,NULL,NULL,NULL
+Walmart,Electrify America,440 North Euclid Street,Anaheim,CA,92801,875,350,0.43,0.31,4,NULL,NULL
+Quail Hill Shopping Center,ChargePoint,6501-6875 Quail Hill Parkway,Irvine,CA,92603,62,62,0.41,NULL,NULL,NULL,NULL
+CIty of Palmdale - Park and Ride,EVConnect,210 East Avenue South,Palmdale,CA,93550,NULL,NULL,0.3,NULL,NULL,NULL,NULL
+Colby Ave Lot,EVCS,1615 Colby Avenue,Los Angeles,CA,90025,NULL,NULL,0.3,NULL,NULL,NULL,NULL
+Gardner Lot,EVCS,1451 North Gardner Street,Hollywood,CA,90046,NULL,NULL,0.3,NULL,NULL,NULL,NULL
+Russell Lot,EVCS,4642 Russell Avenue,Los Angeles,CA,90027,NULL,NULL,0.3,NULL,NULL,NULL,NULL
+3812 San Fernando Road,Electrify America,3812 San Fernando Road,Glendale,CA,91204,875,350,0.43,0.31,4,NULL,NULL
+2974 Lenwood Road,ChargePoint,2974 Lenwood Road,Barstow,CA,92311,62,62,0.35,NULL,NULL,NULL,NULL
+2993 El Camino Real,ChargePoint,2993 El Camino Real,Tustin,CA,92782,62,62,0.41,NULL,NULL,NULL,NULL
+9000 Magellan Drive,ChargePoint,9000 Magellan Drive,Tehachapi,CA,93561,62,62,0.58,NULL,NULL,NULL,NULL
+Buena Park Downtown,None,8191-8371 La Palma Avenue,Buena Park,CA,90620,NULL,NULL,0,NULL,NULL,NULL,NULL
+Barlow Respiratory Hospital,EVCS,2000 Stadium Way,Los Angeles,CA,90026,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+La Habra City Hall,ChargePoint,110 East La Habra Boulevard,La Habra,CA,90631,62,62,0.24,NULL,NULL,NULL,NULL
+Yorba Canyon Center,Electrify America,21480 Yorba Linda Boulevard,Yorba Linda,CA,92887,875,350,0.43,0.31,4,NULL,NULL
+LADWP - Distributing Station 28,Shell Recharge,11107 Nebraska Avenue,Los Angeles,CA,90025,125,50,0,NULL,NULL,NULL,NULL
+Brea Mall,Electrify America,1065 Brea Mall Drive,Brea,CA,92821,875,350,0.43,0.31,4,NULL,NULL
+Hilton Hotel,EVCS,225 West Valley Boulevard,San Gabriel,CA,91776,120,50,0,NULL,NULL,NULL,NULL
+Valley Hi Kia,ChargePoint,14644 Valley Center Drive,Victorville,CA,92395,50,24,0.4,NULL,NULL,NULL,NULL
+Westfield Century City,Electrify America,10250 Santa Monica Boulevard,Los Angeles,CA,90067,875,350,0.43,0.31,4,NULL,NULL
+Mojave Airport & Spaceport,EVConnect,1434 Flight Line,Mojave,CA,93501,120,50,0,NULL,NULL,NULL,NULL
+California Institute of Technology - North Wilson Parking Structure,None,341 South Wilson Avenue,Pasadena,CA,91125,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Sgt. Steve Owen Memorial Park,"ChargePoint, EVConnect",43063 10TH Street West,Lancaster,CA,93534,27,6.5,0.26,NULL,NULL,NULL,NULL
+Walmart,Electrify America,1827 Walnut Grove Avenue,Rosemead,CA,91770,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,3300 South Bristol Street,Santa Ana,CA,92704,875,350,0.43,0.31,4,NULL,NULL
+Bank of America,Electrify America,850 North Broadway,Los Angeles,CA,90012,875,350,0.43,0.31,4,NULL,NULL
+Bank of America,Electrify America,941 North Tustin Street,Orange,CA,92867,875,350,0.43,0.31,4,NULL,NULL
+Ralphs 71,Electrify America,12075 EUCLID Street,GARDEN GROVE,CA,92840,875,350,0.43,0.31,4,NULL,NULL
+76 - City of Industry,None,1010 Fairway Drive,City of Industry,CA,91789,NULL,NULL,NULL,NULL,NULL,0.33,NULL
+Ralphs,Electrify America,330 North ATLANTIC Boulevard EV,Monterey Park,CA,91754,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,888 West Arrow Highway,San Dimas,CA,91773,875,350,0.43,0.31,4,NULL,NULL
+Cypress Village - Irvine Company,Electrify America,14001 Jeffrey Road,Irvine,CA,92620,875,350,0.43,0.31,4,NULL,NULL
+Tejon Pass Rest Area - I5 South,None,Interstate 5 Mile Marker 206,Lebec,CA,93243,NULL,NULL,0,NULL,NULL,NULL,NULL
+2728 Lenwood Road,ChargePoint,2728 Lenwood Road,Barstow,CA,92311,62,62,0,NULL,NULL,NULL,NULL
+Las Rocas Bar & Grill,ChargePoint,27923 Sloan Canyon Road,Castaic,CA,91384,62,62,0.58,NULL,NULL,NULL,NULL
+4550 West Pico Boulevard,ChargePoint,4550 West Pico Boulevard,Los Angeles,CA,90019,100,50,0.2,NULL,NULL,0.35,NULL
+Robertson's Palmdale Honda,ChargePoint,455 Auto Vista Drive,Palmdale,CA,93551,100,50,0,NULL,NULL,NULL,NULL
+Torrance Columbia,ChargePoint,4045 190th Street,Torrance,CA,90504,100,50,NULL,NULL,NULL,0.49,NULL
+Kohl's,ChargePoint,19307 Golden Valley Road,Santa Clarita,CA,91321,62,62,0.58,NULL,NULL,NULL,NULL
+G&m Oil,ChargePoint,6101 West Manchester Avenue,Los Angeles,CA,90045,100,50,0.15,NULL,NULL,NULL,NULL
+G&M Oil Chevron,ChargePoint,101 East Lambert Road,La Habra,CA,90631,100,50,0.15,NULL,NULL,NULL,NULL
+G&M Oil Chevron #115,ChargePoint,313 Orangethorpe,Placentia,CA,92870,62,62,0.15,NULL,NULL,NULL,NULL
+G&M Oil,ChargePoint,7501 Katella Avenue,Stanton,CA,90680,100,50,0.15,NULL,NULL,NULL,NULL
+A&A Protective Services Inc.,ChargePoint,1 Civic Center Plaza,Irvine,CA,92606,62,62,0.35,NULL,NULL,NULL,NULL
+Denny's,ChargePoint,16262 Sierra Highway,Mojave,CA,93501,62,62,0.58,NULL,NULL,NULL,NULL
+Walmart,Electrify America,8500 WASHINGTON Boulevard,Pico Rivera,CA,90660,875,350,0.43,0.31,4,NULL,NULL
+Bank of America,Electrify America,11525 CRENSHAW Boulevard,Inglewood,CA,90303,875,350,0.43,0.31,4,NULL,NULL
+185 Nieto Ave Parking,ChargePoint,180 Granada Avenue,Long Beach,CA,90803,62,62,0.26,NULL,NULL,NULL,NULL
+"Target T0229 - Cypress, CA",Electrify America,6835 Katella Avenue,Cypress,CA,90630,875,350,0.43,0.31,4,NULL,NULL
+The Coffee Bean and Tea Leaf,EVgo,5865 East Spring Street,Long Beach,CA,90808,125,50,0.35,0.3,6.99,NULL,NULL
+17430 Brookhurst Street,Electrify America,17430 Brookhurst Street,Fountain Valley,CA,92708,875,350,0.43,0.31,4,NULL,NULL
+LADOT Lot 670,EVCS,1710 North Cherokee Avenue,Los Angeles,CA,90028,NULL,NULL,0.3,NULL,NULL,NULL,NULL
+Westminster Mall,EVgo,1025 Westminster Mall,Westminster,CA,92683,125,50,0.35,0.3,6.99,NULL,NULL
+Bartels' Harley-Davidson,ChargePoint,4141 Lincoln Boulevard,Marina del Rey,CA,90292,50,24,0,NULL,NULL,NULL,NULL
+First Nissan,None,2325 1st Street,Simi Valley,CA,93065,NULL,NULL,0,NULL,NULL,NULL,NULL
+HollyWest Promenade,EVgo,5455 Hollywood Boulevard,Los Angeles,CA,90027,125,50,0.32,0.28,6.99,NULL,NULL
+G&M Oil Chevron,ChargePoint,8032 Garden Grove Boulevard,Garden Grove,CA,92844,100,50,0.15,NULL,NULL,NULL,NULL
+SCAQMD Offices,EVgo,21865 Copley Drive,Diamond Bar,CA,91765,125,50,0.35,0.3,6.99,NULL,NULL
+Palos Verdes Library District,Electrify America,701 Silver Spur Road,Rolling Hills Estates,CA,90274,875,350,0.43,0.31,4,NULL,NULL
+Test Parking Lot,EVConnect,20000 Vermont Avenue,torrance,CA,90502,125,50,0,NULL,NULL,NULL,NULL
+Los Angeles Fine Arts & Wine Storage,EVConnect,2290 South Centinela Avenue,Los Angeles,CA,90064,125,50,0.4,NULL,NULL,NULL,1
+The SW by CLG,EVConnect,11311 La Grange,Los Angeles,CA,90025,125,50,0.37,NULL,NULL,NULL,1
+6404 Wilshire Boulevard,EVConnect,6404 Wilshire Boulevard,Los Angeles,CA,90048,125,50,0.35,NULL,NULL,NULL,1
+Franklin Towers,EVConnect,7250 Franklin Avenue,West Hollywood,CA,90046,125,50,0.3,NULL,NULL,NULL,1
+Garage 745 - Hollywood and Highland,EVgo,6801 Hollywood Boulevard,Los Angeles,CA,90028,125,50,0.32,0.28,6.99,NULL,NULL
+IQAir,EVgo,14351 Firestone Boulevard,La Mirada,CA,90638,125,50,0.35,0.3,6.99,NULL,NULL
+Hsi Lai Center,"SemaConnect, EVgo",3130 Colima Road,Hacienda Heights,CA,91745,30,7.2,0.28,NULL,NULL,NULL,NULL
+Malibu Village,Electrify America,3822 Cross Creek Road,Malibu,CA,90265,875,350,0.43,0.31,4,NULL,NULL
+Thailand Plaza,EVConnect,5321 Hollywood Boulevard,Los Angeles,CA,90027,125,50,0.35,NULL,NULL,NULL,1
+1200 Wilshire Boulevard Public Parking Structure,EVConnect,1200 Wilshire Boulevard,Los Angeles,CA,90017,125,50,0.35,NULL,NULL,NULL,1
+Lot 29,EVgo,1636 5th Street,Santa Monica,CA,90401,125,50,0.35,0.3,6.99,NULL,NULL
+Figueroa Plaza,Shell Recharge,201 North Figueroa Street,Los Angeles,CA,90012,125,50,0,NULL,NULL,NULL,NULL
+Shell,Shell Recharge,1518 North Garey Avenue,Pomona,CA,91767,125,50,0.39,NULL,NULL,NULL,NULL
+Target,Electrify America,3100 Baldwin Park Boulevard,Baldwin Park,CA,91706,875,350,0.43,0.31,4,NULL,NULL
+232 Bennett Avenue,Unknown (edit),232 Bennett Avenue,Long Beach,CA,90803,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Irvine Lanes,EVgo,3415 Michelson Drive,Irvine,CA,92612,125,50,0.35,0.3,6.99,NULL,NULL
+Calabasas Rondell Smart Park,EVgo,26300 Rondell Street,Calabasas,CA,91301,125,50,0.35,0.3,6.99,NULL,NULL
+Mercedes-Benz of Valencia,ChargePoint,23355 Valencia Boulevard,Santa Clarita,CA,91355,62,62,2,NULL,NULL,0.33,NULL
+Westfield Culver City,Electrify America,6000 Sepulveda Boulevard,Culver City,CA,90230,875,350,0.43,0.31,4,NULL,NULL
+Westfield Santa Anita,Electrify America,400 South Baldwin Avenue,Arcadia,CA,91007,875,350,0.43,0.31,4,NULL,NULL
+City of Los Angeles Lot 687,EVCS,7141 Remmet Avenue,Canoga Park,CA,91303,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+City of Los Angeles Lot 657,EVCS,221 South Avenue 22,Los Angeles,CA,90031,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+City of Los Angeles Lot 653,EVCS,1547 Corinth Avenue,Los Angeles,CA,90025,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+City of Los Angeles Lot 652,EVCS,1530 Butler Avenue,Los Angeles,CA,90025,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Civic Center,ChargePoint,14101-14147 13th Street,Westminster,CA,92683,100,50,0.28,NULL,NULL,NULL,3
+BP City Hall,ChargePoint,7871 Pinchot Ct,Buena Park,CA,90621,100,50,0.25,NULL,NULL,NULL,NULL
+Hilton,ChargePoint,27710 The Old Road,Valencia,CA,91355,62,62,0.58,NULL,NULL,NULL,NULL
+Eddies Y,ChargePoint,36017 Calico Boulevard,Yermo,CA,92398,62,62,0.58,NULL,NULL,NULL,NULL
+Long Beach Nieto Avenue,ChargePoint,185 Nieto Avenue,Long Beach,CA,90803,62,62,0.26,NULL,NULL,NULL,NULL
+Trophy Mercedes-Benz Of Encino,ChargePoint,16721 Ventura Boulevard,Los Angeles,CA,91436,62,62,2,NULL,NULL,3,NULL
+Target,Electrify America,1893 West MALVERN Avenue,FULLERTON,CA,92833,875,350,0.43,0.31,4,NULL,NULL
+Pacific Place Shopping Center,EVgo,506 Workman Mill Road,La Puente,CA,91746,125,50,0.35,0.3,6.99,NULL,NULL
+Newport Coast Community Center,EVgo,6401 San Joaquin Hills Road,Newport Coast,CA,92657,125,50,0.35,0.3,6.99,NULL,NULL
+Gardena Plaza,EVgo,1420 West Redondo Beach Boulevard,Gardena,CA,90247,125,50,0.35,0.3,6.99,NULL,NULL
+Fairfield Inn & Suites Tustin,EVgo,15011 Newport Avenue,Tustin,CA,92780,125,50,0.35,0.3,6.99,NULL,NULL
+City of Palmdale - Park and Ride,EVCS,210 East Avenue South,Palmdale,CA,93550,NULL,NULL,0.3,NULL,NULL,NULL,NULL
+Vestar Shops at Rossmoor,Electrify America,12201 Seal Beach Boulevard,Seal Beach,CA,90740,875,350,0.43,0.31,4,NULL,NULL
+Spring Plaza,EVgo,5900 East Spring Street,Long Beach,CA,90815,125,50,0.35,0.3,6.99,NULL,NULL
+Westfield Topanga,Electrify America,6600 Topanga Canyon Boulevard,Canoga Park,CA,91303,875,350,0.43,0.31,4,NULL,NULL
+Propel Fuels - Shell,evGateway,1124 East Chapman Avenue,Fullerton,CA,92831,NULL,NULL,0.45,NULL,NULL,NULL,NULL
+Pearson Fuels - 76,evGateway,19851 Esperanza Road,Yorba Linda,CA,92886,NULL,NULL,0.45,NULL,NULL,NULL,NULL
+Nr Hyundai Station,ChargePoint,10901 183rd Street,Cerritos,CA,90703,62,62,0,NULL,NULL,NULL,NULL
+Shopcore One Colorado,Electrify America,30 Union Street,Pasadena,CA,91103,875,350,0.43,0.31,4,NULL,NULL
+Shopcore Northwood Town Center,Electrify America,4800 Irvine Blv,Irvine,CA,92620,875,350,0.43,0.31,4,NULL,NULL
+Department of Health Services Administration,Powerflex,313 North Figueroa,Los Angeles,CA,90012,NULL,NULL,0.45,NULL,NULL,NULL,NULL
+Best Western Plus - Meridian Inn & Suites,evGateway,720 The City Drive South,Orange,CA,92868,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Arroyo EV Charging Depot,Shell Recharge,64 East Glenarm Street,Pasadena,CA,91106,125,50,0,NULL,NULL,NULL,NULL
+Claremont Star,EVgo,415 West Foothill Boulevard,Claremont,CA,91711,125,50,0.35,0.3,6.99,NULL,NULL
+Anaheim La Palma Mall,None,5624 East La Palma Avenue,Anaheim,CA,92807,NULL,NULL,0.45,NULL,NULL,NULL,NULL
+Tustin Mall 17th,None,17612 17th Street,Tustin,CA,92780,NULL,NULL,0.45,NULL,NULL,NULL,NULL
+Anaheim La Palma Mall,None,5638 East La Palma Avenue,Anaheim,CA,92807,NULL,NULL,0.45,NULL,NULL,NULL,NULL
+"Fashion Island (Newport Beach, CA)",Electrify America,401 Newport Center Drive,Newport Beach,CA,92660,875,350,0.43,0.31,4,NULL,NULL
+Audi West Covina,None,2016 East Garvey Avenue South,West Covina,CA,91791,NULL,NULL,0,NULL,NULL,NULL,NULL
+Cal State LA Structure B 01,ChargePoint,1968-1982 Paseo Rancho Castilla,Los Angeles,CA,90032,100,50,0,NULL,NULL,NULL,NULL
+Hampton Inn Los Angeles-Orange County-Cypress,EVgo,10900 Yamaha Way,Cypress,CA,90630,125,50,0.35,0.3,6.99,NULL,NULL
+"Pavilions 2229 (Los Angeles, CA)",Electrify America,727 NORTH VINE STREET,Los Angeles,CA,90038,875,350,0.43,0.31,4,NULL,NULL
+1100 North Main Street,EVConnect,1100 North Main Street,Los Angeles,CA,90012,95,50.1,0.3,NULL,NULL,NULL,1
+Regency Seal Beach Center,Electrify America,901-1101 Pacific Coast Highway,Seal Beach,CA,90740,875,350,0.43,0.31,4,NULL,NULL
+Holiday Inn Santa Ana,evGateway,2726 South Grand Avenue,Santa Ana,CA,92705,NULL,NULL,0.45,NULL,NULL,NULL,NULL
+Aviation Park,ChargePoint,1935 Manhattan Beach Boulevard,Redondo Beach,CA,90278,62,62,0.4,NULL,NULL,NULL,NULL
+LADWP LA Kretz Innovation Campus,EVgo,525 South Hewitt Street,Los Angeles,CA,90013,125,50,0.32,0.28,6.99,NULL,NULL
+Valencia Crossroads,EVgo,24290 Valencia Boulevard,Valencia,CA,91355,125,50,0.35,0.3,6.99,NULL,NULL
+Regency Westlake Plaza,Electrify America,2725-2785 Agoura Road,Westlake Village,CA,91361,875,350,0.43,0.31,4,NULL,NULL
+KPC Healthcare Medical Center,EVCS,1001 North Tustin Avenue,Santa Ana,CA,92705,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ralphs,Electrify America,3410 West 3ed Street,Los Angeles,CA,90020,875,350,0.43,0.31,4,NULL,NULL
+Prime Development - DCFC,EVCS,4110 Edison Avenue,Chino,CA,91710,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Jordan Avenue Lot 674 - DCFC,EVCS,7220 Jordan Avenue,Canoga Park,CA,91303,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Avalon Lot 696 - DCFC,EVCS,835 North Avalon Boulevard,Wilmington,CA,90744,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Five Points Plaza,EVgo,12030 Valley Boulevard,El Monte,CA,91732,125,50,0.35,0.3,6.99,NULL,NULL
+Diamond Hills Plaza,EVgo,2825 South Diamond Bar Boulevard,Diamond Bar,CA,91765,125,50,0.35,0.3,6.99,NULL,NULL
+KPC - Anaheim Global Medical Center,EVCS,1017 South Anaheim Boulevard,Anaheim,CA,92805,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Centre on Seventeenth,EVgo,2000 East 17th Street,Santa Ana,CA,92705,125,50,0.35,0.3,6.99,NULL,NULL
+Redondo Beach Plaza,EVgo,4001 Inglewood Avenue,Redondo Beach,CA,90278,125,50,0.35,0.3,6.99,NULL,NULL
+Nissan of Bakersfield,None,2800 Pacheco Road,Bakersfield,CA,93313,NULL,NULL,0,NULL,NULL,NULL,NULL
+Team Nissan - Oxnard,None,1801 Auto Center Drive,Oxnard,CA,93036,NULL,NULL,0,NULL,NULL,NULL,NULL
+Trader Joe's Pacific View Mall North,EVgo,3301 East Main Street,Ventura,CA,93003,125,50,0.35,0.3,6.99,NULL,NULL
+Mercedes-Benz of Oxnard,ChargePoint,1511 Auto Center Drive,Oxnard,CA,93036,62,62,0.4,NULL,NULL,NULL,NULL
+Esplanade Shopping Center,EVgo,195 West Esplanade Drive,Oxnard,CA,93036,125,50,0.35,0.3,6.99,NULL,NULL
+La Cumbre Plaza,EVgo,121 South Hope Avenue,Santa Barbara,CA,93105,125,50,0.35,0.3,6.99,NULL,NULL
+Caltrans Maintenance Station - Delano,None,805 South Lexington Street,Delano,CA,93215,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Days Inn,None,14684 Aloma Street,Lost Hills,CA,93249,NULL,NULL,NULL,NULL,NULL,0.25,NULL
+Walmart,EVgo,6225 Colony Street,Bakersfield,CA,93307,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,530 Woollomes Avenue,Delano,CA,93215,125,50,0.35,0.3,6.99,NULL,NULL
+Strata Federal Credit Union,ChargePoint,1717 Truxtun Avenue,Bakersfield,CA,93301,100,50,NULL,NULL,NULL,0.05,NULL
+"Ojai, CA Supercharger","Tesla, Electrify America",987 West OJAI Avenue,Ojai,CA,93023,180,72,NULL,NULL,NULL,NULL,NULL
+Paradise Chevrolet,None,6350 Leland Street,Ventura,CA,93003,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+200 Coffee Road,ChargePoint,200 Coffee Road,Bakersfield,CA,93309,50,24,0.18,NULL,NULL,NULL,NULL
+Bakersfield Plaza,Electrify America,4310 California Avenue,Bakersfield,CA,93309,875,350,0.43,0.31,4,NULL,NULL
+Countryside Market - Shell,Electrify America,9741 South Enos Lane,Bakersfield,CA,93311,875,350,0.43,0.31,4,NULL,NULL
+DCH Audi - Oxnard,None,1600 Ventura Boulevard,Oxnard,CA,93036,NULL,NULL,0,NULL,NULL,NULL,NULL
+20672 Tracy Avenue,ChargePoint,20673 Tracy Avenue,Buttonwillow,CA,93206,62,62,0.58,NULL,NULL,NULL,NULL
+"Camarillo Premium Outlets (Camarillo, CA)",Electrify America,740 Ventura Boulevard,Camarillo,CA,93010,875,350,0.43,0.31,4,NULL,NULL
+Denny's Delano,EVConnect,14390 County Line Road,Delano,CA,93215,120,50,NULL,NULL,NULL,0.02,NULL
+Shell,ChargePoint,1631 Comanche Drive,Bakersfield,CA,93307,62,62,0.58,NULL,NULL,NULL,NULL
+Weedpatch Hwy Park and Ride,None,8200 Kimber Avenue,Bakersfield,CA,93307,NULL,NULL,0,NULL,NULL,NULL,NULL
+Brady's market,ChargePoint,4467 US-395,Inyokern,CA,93527,62,62,0.58,NULL,NULL,NULL,NULL
+Santa Barbara County Building,EVgo,105 East Anapamu Street,Santa Barbara,CA,93101,125,50,0.35,0.3,6.99,NULL,NULL
+Inyokern,EVConnect,1669 Airport Road,Inyokern,CA,93527,120,50,0,NULL,NULL,NULL,NULL
+Raju Countryside Market,Electrify America,21959 CA-46,Lost Hills,CA,93249,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,11000 Stockdale Highway,Bakersfield,CA,93311,875,350,0.43,0.31,4,NULL,NULL
+132 Industrial Street,ChargePoint,100 Industrial Street,McFarland,CA,93250,62,62,0.43,NULL,NULL,NULL,NULL
+Macerich Pacific View Mall,Electrify America,3301 East Main Street,Ventura,CA,93003,875,350,0.43,0.31,4,NULL,NULL
+BOA North Santa Barbara,Electrify America,3790 State Street,Santa Barbara,CA,93105,875,350,0.43,0.31,4,NULL,NULL
+The World's Tallest Thermometer,EVgo,72157 Baker Boulevard,Baker,CA,92309,125,50,0.35,0.3,6.99,NULL,NULL
+Baker Travel Plaza,ChargePoint,72922 Baker Boulevard,Baker,CA,92309,62,62,0.58,NULL,NULL,NULL,NULL
+Ultra Gas and Mart,Electrify America,71808 Baker Boulevard,Baker,CA,92309,875,350,0.43,0.31,4,NULL,NULL
+City of Needles Charging Depot,Electrify America,1199 Third Street,Needles,CA,92363,875,350,0.43,0.31,4,NULL,NULL
+Najah Hi Sahara Oasis,Electrify America,31251 Goffs Road,Essex Fenner,CA,92332,875,350,0.43,0.31,4,NULL,NULL
+Santa Barbara Honda,None,425 South Kellogg Avenue,Goleta,CA,93117,NULL,NULL,0,NULL,NULL,NULL,NULL
+Coast Nissan,None,12150 Los Osos Valley Road,San Luis Obispo,CA,93405,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Visalia,None,830 South Ben Maddox Way,Visalia,CA,93292,NULL,NULL,0,NULL,NULL,NULL,NULL
+El Rancho Market,EVgo,2886 Mission Drive,Solvang,CA,93463,125,50,0.35,0.3,6.99,NULL,NULL
+BMW Santa Maria,ChargePoint,2150 South College Drive,Santa Maria,CA,93455,50,24,0.15,NULL,NULL,0.05,NULL
+Marigold Center,EVgo,3900 Broad Street,San Luis Obispo,CA,93401,125,50,0.35,0.3,6.99,NULL,NULL
+Cool Hand Luke's,ChargePoint,1111 Riverside Avenue,Paso Robles,CA,93446,50,24,0.25,NULL,NULL,NULL,NULL
+Downtown Visalia Parking Garage,EVgo,320 East Acequia Avenue,Visalia,CA,93291,125,50,0.35,0.3,6.99,NULL,NULL
+25032 W Dorris Avenue Parking,ChargePoint,25032 West Dorris Avenue,Coalinga,CA,93210,100,50,0.58,NULL,NULL,NULL,NULL
+Camp Roberts Southbound Rest Area,ChargePoint,Camp Roberts Southbound Rest Area,Bradley,CA,93426,62,62,0,NULL,NULL,NULL,NULL
+Camp Roberts Northbound Rest Area,ChargePoint,Camp Roberts Northbound Rest Area,San Miguel,CA,93451,62,62,0,NULL,NULL,NULL,NULL
+City of Pismo Beach - City Hall,EVConnect,760 Mattie Road,Pismo Beach,CA,93449,120,50,0.4,NULL,NULL,NULL,NULL
+BOA Paso Robles,Electrify America,1511 Spring Street,Paso Robles,CA,93446,875,350,0.43,0.31,4,NULL,NULL
+Pismo Beach Premium Outlets,Electrify America,333 Five Cities Drive,Pismo Beach,CA,93449,875,350,0.43,0.31,4,NULL,NULL
+Walmart Supercenter - Tulare,Electrify America,1110 East Prosperity Avenue,Tulare,CA,93274,875,350,0.43,0.31,4,NULL,NULL
+"The Wyndham Hotel, Visalia",EVConnect,9000 West Airport Drive,Visalia,CA,93277,120,50,0.4,NULL,NULL,NULL,NULL
+Quality Inn,None,1010 East Prosperity Avenue,Tulare,CA,93274,NULL,NULL,NULL,NULL,NULL,0.25,NULL
+701 West Cinnamon Drive,ChargePoint,701 West Cinnamon Drive,Lemoore,CA,93245,62,62,0.58,NULL,NULL,NULL,NULL
+Shandon Rest Area,ChargePoint,16261 CA-46,Shandon,CA,93461,62,62,0,NULL,NULL,NULL,NULL
+Tulare,EVConnect,2700 South Blackstone Street,Tulare,CA,93274,350,350,0.31,NULL,NULL,NULL,NULL
+Coso Junction Store,Electrify America,20 Gills Station Road,Olancha,CA,93549,875,350,0.43,0.31,4,NULL,NULL
+Harris Ranch Inn & Restaurant,Electrify America,24505 West Dorris Avenue,Coalinga,CA,93210,875,350,0.43,0.31,4,NULL,NULL
+Caltrans Maintenance Station - Kettleman City,None,32169 Brown Street,Kettleman City,CA,93239,NULL,NULL,0,NULL,NULL,NULL,NULL
+Philip S. Raine Rest Area SB Route 99,None,CA-99 Mile Marker 80,Tulare,CA,93274,NULL,NULL,0,NULL,NULL,NULL,NULL
+Philip S. Raine Rest Area NB Route 99,None,CA-99 Mile Marker 80,Tulare,CA,93274,NULL,NULL,0,NULL,NULL,NULL,NULL
+Greybill Building,evGateway,1141 Mission Street,San Miguel,CA,93451,NULL,NULL,0.35,NULL,NULL,NULL,NULL
+Coso Junction Rest Stop,None,15 Gill Station Coso Road,Olancha,CA,93549,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1980 Old Mission Drive,Electrify America,1980 Old Mission Drive,Solvang,CA,93463,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,223 East Betteravia Road,Santa Maria,CA,93454,875,350,0.43,0.31,4,NULL,NULL
+Camino Real Marketplace,Electrify America,7004 Market Place Drive,Goleta,CA,93117,875,350,0.43,0.31,4,NULL,NULL
+Daniels Wood Land Inc,EVConnect,2125 Ardmore Road,Paso Robles,CA,93446,125,50,0,NULL,NULL,NULL,NULL
+"Daniel & Ana Thompson, The Depot Mall",Electrify America,515 Bell Street,Los Alamos,CA,93440,875,350,0.43,0.31,4,NULL,NULL
+Cardinale Nissan,None,1661 Del Monte Boulevard,Seaside,CA,93955,NULL,NULL,0,NULL,NULL,NULL,NULL
+MY Nissan,None,222 Auto Center Circle,Salinas,CA,93907,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nob Hill Foods,EVgo,1912 Main Street,Watsonville,CA,95076,125,50,0.35,0.3,6.99,NULL,NULL
+Clovis Commons,EVgo,748 5th Street,Clovis,CA,93612,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market,EVgo,650 West Shaw Avenue,Fresno,CA,93704,125,50,0.35,0.3,6.99,NULL,NULL
+Nob Hill Salinas,EVgo,1320 South Main Street,Salinas,CA,93901,125,50,0.35,0.3,6.99,NULL,NULL
+Fashion Fair Mall,EVgo,563 East Shaw Avenue,Fresno,CA,93710,125,50,0.35,0.3,6.99,NULL,NULL
+Holiday Inn,EVgo,2950 Pea Soup Anderson Boulevard,Selma,CA,93662,125,50,0.35,0.3,6.99,NULL,NULL
+1340 Munras Avenue,ChargePoint,1340 Munras Avenue,Monterey,CA,93940,50,24,0.15,NULL,NULL,NULL,NULL
+Watsonville Civic Plaza,"ChargePoint, EVgo",264 Rodriguez Street,Watsonville,CA,95076,27,6.5,0,NULL,NULL,NULL,NULL
+Lucky,EVgo,1475 41st Avenue,Capitola,CA,95010,125,50,0.35,0.3,6.99,NULL,NULL
+The Dunes on Monterey Bay,EVgo,110 General Stillwell Drive,Marina,CA,93933,125,50,0.35,0.3,6.99,NULL,NULL
+CA Lottery,ChargePoint,7620 North Del Mar Avenue,Fresno,CA,93711,100,50,0,NULL,NULL,NULL,NULL
+Save Mart,EVgo,1504 Howard Road,Madera,CA,93637,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky,EVgo,291 McCray Street,Hollister,CA,95023,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky,EVgo,2000 California Avenue,Seaside,CA,93955,125,50,0.35,0.3,6.99,NULL,NULL
+Prunedale Shopping Center,EVgo,8065 San Miguel Canyon Road,Salinas,CA,93907,125,50,0.35,0.3,6.99,NULL,NULL
+Praise Church,EVCS,1600 Willow Avenue,Clovis,CA,93612,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Arbor Faire Shopping Center,Electrify America,3310 West Shaw Avenue,Fresno,CA,93711,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Madera,Electrify America,1977 West Cleveland Avenue,Madera,CA,93637,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Fresno,Electrify America,7065 North Ingram Avenue,Fresno,CA,93650,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Selma,Electrify America,3400 Floral Avenue,Selma,CA,93662,875,350,0.43,0.31,4,NULL,NULL
+150 East Via del Parque,ChargePoint,150 East Via del Parque,Fresno,CA,93711,62,62,0.58,NULL,NULL,NULL,NULL
+Panoche Shell,Electrify America,46331 West Panoche Road,Firebaugh,CA,93622,875,350,0.43,0.31,4,NULL,NULL
+Fairfield Inn & Suites by Marriott Selma Kingsburg,"Tesla, EVConnect",216 Ventura Ct,Kingsburg,CA,93631,NULL,NULL,0,NULL,NULL,NULL,NULL
+FoodMaxx @HWY 99,EVgo,1177 Fresno Street,Fresno,CA,93706,125,50,0.35,0.3,6.99,NULL,NULL
+"Walmart 2458 - Salinas, CA",Electrify America,1800 North Main Street,Salinas,CA,93906,875,350,0.43,0.31,4,NULL,NULL
+Shaw and Dewitt,Electrify America,540 Shaw Avenue,Clovis,CA,93612,875,350,0.43,0.31,4,NULL,NULL
+California State University - Fresno,None,5010 North Woodrow Avenue,Fresno,CA,93710,NULL,NULL,0,NULL,NULL,0.2,NULL
+Madera,EVConnect,1750 Avenue 17,Madera,CA,93638,350,350,0.2,NULL,NULL,NULL,NULL
+Walmart,Electrify America,5125 East Kings Canyon Road,Fresno,CA,93727,875,350,0.43,0.31,4,NULL,NULL
+ChargePoint at Marina Target,ChargePoint,133 General Stilwell Drive,Marina,CA,93933,174,62,0.58,NULL,NULL,NULL,NULL
+Foods Co 387,Electrify America,2443-H DELA ROSA SR Street,Soledad,CA,93960,875,350,0.43,0.31,4,NULL,NULL
+Target,ChargePoint,1790 Airline Highway,Hollister,CA,95023,62,62,0.58,NULL,NULL,NULL,NULL
+Chevron-jensen,ChargePoint,2885 East Jensen Avenue,Fresno,CA,93706,62,62,0.25,NULL,NULL,0.1,NULL
+Save Mart,Electrify America,4043 West Clinton,Fresno,CA,93722,875,350,0.43,0.31,4,NULL,NULL
+The Lodge Visitor Center,ChargePoint,2700 17 Mile Drive,Del Monte Forest,CA,93953,62,62,0.5,NULL,NULL,NULL,NULL
+"Save Mart 651 (Fresno, CA)",Electrify America,5750 North First Street,Fresno,CA,93710,875,350,0.43,0.31,4,NULL,NULL
+EZ Trip Travel Center,None,28577 Avenue 12,Madera,CA,93637,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+The Lodge,ChargePoint,3297 17 Mile Drive,Del Monte Forest,CA,93953,62,62,0.5,NULL,NULL,NULL,NULL
+Safeway,Electrify America,1212 Forest Avenue,Pacific Grove,CA,93950,875,350,0.43,0.31,4,NULL,NULL
+King City Center,ChargePoint,560 Canal Street,King City,CA,93930,62,62,0.58,NULL,NULL,NULL,NULL
+C.H. Warlow Rest Area NB-SB Route 99,None,CA-99 Exit 109,Kingsburg,CA,93631,NULL,NULL,0,NULL,NULL,NULL,NULL
+Caltrans District 6 Office,None,1283 North West Avenue,Fresno,CA,93728,NULL,NULL,0,NULL,NULL,NULL,NULL
+Caltrans Maintenance Station - Madera,None,125 West Almond Avenue,Madera,CA,93637,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Sequoia Courts,EVCS,440 South Modoc Street,Fresno,CA,93706,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Sierra Plaza,EVCS,838 Tulare Street,Fresno,CA,93706,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Fairview,EVCS,2195 South Maud Avenue,Fresno,CA,93706,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Legacy Commons,EVCS,2255 South Plumas Street,Fresno,CA,93706,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Macerich Fashion Fair,Electrify America,645 East Shaw Avenue,Fresno,CA,93710,875,350,0.43,0.31,4,NULL,NULL
+Monterey Airprt,ChargePoint,200 Fred Kane Drive,Monterey,CA,93940,62,62,NULL,NULL,NULL,NULL,5
+Store #7048 (King City),EVConnect,1302 Broadway Circle,King City,CA,93930,300,120,0.35,NULL,NULL,NULL,NULL
+7-Eleven 7-Eleven,ChargePoint,6875 North Milburn Avenue,Fresno,CA,93722,62,62,0.46,NULL,NULL,NULL,NULL
+D&K Seascape Village Shops at Seaside Village,Electrify America,13 Seascape Village,Aptos,CA,95003,875,350,0.43,0.31,4,NULL,NULL
+Food Maxx,Electrify America,1465 MAIN Street,Watsonville,CA,95076,875,350,0.43,0.31,4,NULL,NULL
+SWS Fuel Inc.,EVConnect,32685 Avenue 7,Madera,CA,93637,125,50,0.5,NULL,NULL,NULL,NULL
+Pacific Grove City Lot2,ChargePoint,207 16th Street,Pacific Grove,CA,93950,62,62,0.37,NULL,NULL,NULL,NULL
+Fresno Buick GMC,Flo,5515 North Blackstone Avenue,Fresno,CA,93710,125,50,NULL,NULL,NULL,0.25,NULL
+Best Western Plus Capitola By-The-Sea Inn & Suites,EVCS,1435 41st Avenue,Capitola,CA,95010,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+Soledad Starbucks,Unknown,3070 H Dela Rosa Sr Street,Soledad,CA,93960,350,200,0.42,NULL,NULL,NULL,NULL
+Antioch Nissan,None,1831 Auto Center Drive,Antioch,CA,94509,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Serramonte,None,1500 Collins Avenue,Colma,CA,94014,NULL,NULL,0,NULL,NULL,NULL,NULL
+Premier Nissan of Fremont,None,5701 Cushing Parkway,Fremont,CA,94538,NULL,NULL,0,NULL,NULL,NULL,NULL
+Hayward Nissan,None,24644 Mission Boulevard,Hayward,CA,94544,NULL,NULL,0,NULL,NULL,NULL,NULL
+Boardwalk Auto Mall,None,1 Bair Island Road,Redwood City,CA,94063,NULL,NULL,0,NULL,NULL,NULL,NULL
+Hanlees Hilltop Nissan,None,3277 Auto Plaza,Richmond,CA,94806,NULL,NULL,0,NULL,NULL,NULL,NULL
+Premier Nissan - San Jose,None,1120 West Capitol Expy,San Jose,CA,95136,NULL,NULL,0,NULL,NULL,NULL,NULL
+San Leandro Nissan,None,1152 Marina Boulevard,San Leandro,CA,94577,NULL,NULL,0,NULL,NULL,NULL,NULL
+Dublin Nissan,None,6450 Dublin Ct,Dublin,CA,94568,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Stockton,None,3077 East Hammer Lane,Stockton,CA,95212,NULL,NULL,0,NULL,NULL,NULL,NULL
+Whole Foods Market,EVgo,3111 Mowry Avenue,Fremont,CA,94538,125,50,0.35,0.3,6.99,NULL,NULL
+Crossroads Pleasant Hill,EVgo,2316 Monument Boulevard,Pleasant Hill,CA,94523,125,50,0.35,0.3,6.99,NULL,NULL
+Northgate Mall - San Rafael,EVgo,5800 Northgate Drive,San Rafael,CA,94903,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods - Cupertino,EVgo,20955 Stevens Creek Boulevard,Cupertino,CA,95014,125,50,0.35,0.3,6.99,NULL,NULL
+The Village at Corte Madera,EVgo,1618 Redwood Highway,Corte Madera,CA,94925,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market Street,EVgo,2001 Market Street,San Francisco,CA,94114,125,50,0.35,0.3,6.99,NULL,NULL
+Public Market - Emeryville,EVgo,5959 Shellmound Street,Emeryville,CA,94608,125,50,0.35,0.3,6.99,NULL,NULL
+San Francisco Premium Outlets,EVgo,2774 Livermore Outlets Drive,Livermore,CA,94551,125,50,0.35,0.3,6.99,NULL,NULL
+Great Mall - Milpitas,EVgo,447 Great Mall Drive,Milpitas,CA,95035,125,50,0.35,0.3,6.99,NULL,NULL
+49ers Stadium - Santa Clara Public Lot,EVgo,2525 Tasman Drive,Santa Clara,CA,95054,125,50,0.35,0.3,6.99,NULL,NULL
+Petaluma Village Premium Outlets,EVgo,2200 Petaluma Boulevard North,Petaluma,CA,94952,125,50,0.35,0.3,6.99,NULL,NULL
+Peralta College,EVgo,333 East 8th Street,Oakland,CA,94606,125,50,0.35,0.3,6.99,NULL,NULL
+Stevens Creek Nissan,None,4855 Stevens Creek Boulevard,Santa Clara,CA,95051,NULL,NULL,0,NULL,NULL,NULL,NULL
+Applegate Ranch Shopping Center,EVgo,1264 Commerce Avenue,Atwater,CA,95301,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods - Gilman,EVgo,1025 Gilman Street,Berkeley,CA,94710,125,50,0.35,0.3,6.99,NULL,NULL
+Linda Mar Shopping Center,EVgo,1227 Linda Mar Shopping Ctr,Pacifica,CA,94044,125,50,0.35,0.3,6.99,NULL,NULL
+Dublin Kia,Shell Recharge,4200 John Monego Court,Dublin,CA,94568,125,50,NULL,NULL,NULL,0.25,NULL
+Applied Materials - Building 12,Unknown (edit),3350 Scott Boulevard,Santa Clara,CA,95051,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ohlone College - Newark Campus,Blink,39399 Cherry Street,Newark,CA,94560,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+North Bay Nissan,None,1250 Auto Center Drive,Petaluma,CA,94952,NULL,NULL,0,NULL,NULL,NULL,NULL
+Walmart #2280 - Mountain View CA,Electrify America,600 Showers Drive,Mountain View,CA,94040,875,350,0.43,0.31,4,NULL,NULL
+Meta Mpk12-01,ChargePoint,1 Hacker Way MPK 12,Menlo Park,CA,94025,62,62,0,NULL,NULL,NULL,NULL
+Silver Spring Networks,ChargePoint,585 Broadway,Redwood City,CA,94063,100,50,NULL,NULL,NULL,0.02,NULL
+Lynbrook High School,Powerflex,1280 Johnson Avenue,San Jose,CA,95129,NULL,NULL,NULL,NULL,NULL,0.03,NULL
+Miller Avenue Garage,EVgo,329 Miller Avenue,South San Francisco,CA,94080,125,50,0.35,0.3,6.99,NULL,NULL
+Alcopark Garage,ChargePoint,165 13th Street,Oakland,CA,94612,100,50,0.25,NULL,NULL,NULL,NULL
+Saratoga Library,ChargePoint,13650 Saratoga Avenue,Saratoga,CA,95070,100,50,0.35,NULL,NULL,NULL,NULL
+Winn Volkswagen,ChargePoint,39695 Balentine Drive,Newark,CA,94560,52,23.9,0.25,NULL,NULL,NULL,1.25
+Alma Street Parking,None,355 Alma Street,Palo Alto,CA,94301,NULL,NULL,0,NULL,NULL,NULL,NULL
+Whole Foods Market,"ChargePoint, EVgo",3502 Mt Diablo Boulevard,Lafayette,CA,94549,27,6.5,0,NULL,NULL,NULL,NULL
+Stanford Shopping Center,Electrify America,660 Stanford Shopping Center,Palo Alto,CA,94304,875,350,0.43,0.31,4,NULL,NULL
+Whole Foods - Redwood City,EVgo,1250 Jefferson Avenue,Redwood City,CA,94062,125,50,0.35,0.3,6.99,NULL,NULL
+West Valley Mall,EVgo,3200 Naglee Road,Tracy,CA,95304,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods San Jose - The Alameda,EVgo,777 The Alameda,San Jose,CA,95126,125,50,0.35,0.3,6.99,NULL,NULL
+Meta Mpk20.3,ChargePoint,1 Facebook Way,Menlo Park,CA,94025,100,50,0,NULL,NULL,NULL,NULL
+Simon Petaluma Village Premium Outlets,Electrify America,2200 Petaluma Boulevard North,Petaluma,CA,94952,875,350,0.43,0.31,4,NULL,NULL
+Gateway Shopping Center - Vallejo,EVgo,173 Plaza Drive,Vallejo,CA,94591,125,50,0.35,0.3,6.99,NULL,NULL
+Stoneridge Shopping Center,EVgo,1700 Stoneridge Mall Road,Pleasanton,CA,94588,125,50,0.35,0.3,6.99,NULL,NULL
+Grocery Outlet,EVgo,1180 North Fair Oaks Avenue,Sunnyvale,CA,94089,125,50,0.35,0.3,6.99,NULL,NULL
+Laney College,EVgo,900 Fallon Street,Oakland,CA,94607,125,50,0.35,0.3,6.99,NULL,NULL
+Chase Chevrolet,None,6441 Holman Road,Stockton,CA,95212,NULL,NULL,0,NULL,NULL,NULL,NULL
+320 Magnolia Avenue,EVgo,320 Magnolia Avenue,Millbrae,CA,94030,125,50,0.35,0.3,6.99,NULL,NULL
+South Creek VW,ChargePoint,4490 Stevens Creek Boulevard,San Jose,CA,95129,52,23.9,NULL,NULL,NULL,0.2,NULL
+Team Volkswagen,ChargePoint,25115 Mission Boulevard,Hayward,CA,94544,50,24,0.2,NULL,NULL,0.1,NULL
+Whole Foods Market,EVgo,450 Rhode Island Street,San Francisco,CA,94107,125,50,0.35,0.3,6.99,NULL,NULL
+Vintage Faire Mall,EVgo,3401 Dale Road,Modesto,CA,95356,125,50,0.35,0.3,6.99,NULL,NULL
+Flyers Fuel,EVgo,1240 East Whitmore Avenue,Ceres,CA,95307,125,50,0.35,0.3,6.99,NULL,NULL
+Target,EVgo,19691 Hesperian Boulevard,Hayward,CA,94541,125,50,0.35,0.3,6.99,NULL,NULL
+Vineyard 76 Station,EVgo,4530 Kiernan Avenue,Salida,CA,95368,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky Mowry,EVgo,5000 Mowry Avenue,Fremont,CA,94538,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky,EVgo,6843 Mission Street,Daly City,CA,94014,125,50,0.35,0.3,6.99,NULL,NULL
+Nineteen 800,EVgo,19800 Vallco Parkway,Cupertino,CA,95014,125,50,0.35,0.3,6.99,NULL,NULL
+Walgreens,EVgo,1175 Columbus Avenue,San Francisco,CA,94133,125,50,0.35,0.3,6.99,NULL,NULL
+San Mateo Caltrain Station,EVgo,385 1st Avenue,San Mateo,CA,94401,125,50,0.35,0.3,6.99,NULL,NULL
+Fresh & Easy - Rose Pavilion,EVgo,3903 Santa Rita Road,Pleasanton,CA,94588,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market,EVgo,5200 Dublin Boulevard,Dublin,CA,94568,125,50,0.35,0.3,6.99,NULL,NULL
+Alameda Municipal Power,Shell Recharge,2000 Grand Street,Alameda,CA,94501,125,50,0,NULL,NULL,0,NULL
+400 Front Street,ChargePoint,400 Front Street,Danville,CA,94526,100,50,0.55,NULL,NULL,NULL,1
+Whole Foods - Oakland,EVgo,230 Bay Place,Oakland,CA,94612,125,50,0.35,0.3,6.99,NULL,NULL
+UC Hastings Larkin Garage,EVgo,376 Larkin Street,San Francisco,CA,94102,125,50,0.35,0.3,6.99,NULL,NULL
+Homewood Suites,ChargePoint,1103 Embarcadero,Oakland,CA,94606,50,24,0.18,NULL,NULL,NULL,NULL
+Saison,ChargePoint,17035 Condit Road,Morgan Hill,CA,95037,50,24,0.25,NULL,NULL,NULL,NULL
+701 Ocean Street,ChargePoint,701 Ocean Street,Santa Cruz,CA,95060,62,62,0.22,NULL,NULL,NULL,NULL
+Intel HQ Santa Clara,Shell Recharge,2200 Mission College Boulevard,Santa Clara,CA,95052,125,50,NULL,NULL,NULL,0.08,NULL
+Facebook,ChargePoint,300 Constitution Drive MPK 23,Menlo Park,CA,94025,100,50,0,NULL,NULL,NULL,NULL
+1100 Park Place,ChargePoint,1100 Park Place,San Mateo,CA,94403,100,50,0.7,NULL,NULL,NULL,NULL
+Meta Mpk17-08,ChargePoint,1 Hacker Way Building 17,Menlo Park,CA,94025,62,62,0,NULL,NULL,NULL,NULL
+San Carlos Library,EVgo,610 Elm Street,San Carlos,CA,94070,125,50,0.35,0.3,6.99,NULL,NULL
+SaveMart Chowchilla,EVgo,1225 East Robertson Boulevard,Chowchilla,CA,93610,125,50,0.35,0.3,6.99,NULL,NULL
+Motel 6,None,2654 West March Lane,Stockton,CA,95207,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lucky,EVgo,2175 Grant Road,Los Altos,CA,94024,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart San Jose - Almaden,EVgo,5095 Almaden Expy,San Jose,CA,95118,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky,EVgo,1312 Trancas Street,Napa,CA,94558,125,50,0.35,0.3,6.99,NULL,NULL
+Fairfield Verdant Garage,EVgo,3700 Casa Verde Street,San Jose,CA,95134,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market,EVgo,399 4th Street,San Francisco,CA,94107,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market,EVgo,1765 California Street,San Francisco,CA,94109,125,50,0.35,0.3,6.99,NULL,NULL
+Raley's,EVgo,2400 Sand Creek Road,Brentwood,CA,94513,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky,EVgo,1145 Arnold Drive,Martinez,CA,94553,125,50,0.35,0.3,6.99,NULL,NULL
+Marsh Manor Shopping Center,EVgo,3640 Florence Street,Redwood City,CA,94063,125,50,0.35,0.3,6.99,NULL,NULL
+Nob Hill Foods,EVgo,2531 Blanding Avenue,Alameda,CA,94501,125,50,0.35,0.3,6.99,NULL,NULL
+Millbrae Farmer's Market - Broadway,"ChargePoint, EVgo",446 Broadway,Millbrae,CA,94030,27,6.5,NULL,NULL,NULL,0.02,NULL
+Cupertino Village,EVgo,10869 North Wolfe Road,Cupertino,CA,95014,125,50,0.35,0.3,6.99,NULL,NULL
+New Leaf Shopping Center,EVgo,150 San Mateo Road,Half Moon Bay,CA,94019,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market,None,2732 Augustine Drive,Santa Clara,CA,95054,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Richmond Civic Center,EVgo,325 Civic Center Plaza,Richmond,CA,94804,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market,EVgo,2941 Ygnacio Valley Road,Walnut Creek,CA,94598,125,50,0.35,0.3,6.99,NULL,NULL
+Kennedy Swim Center,ChargePoint,4300 Cutting Boulevard,Richmond,CA,94804,100,50,0.18,NULL,NULL,NULL,NULL
+Facebook - Jefferson Drive,ChargePoint,162 Jefferson Drive MPK 27,Menlo Park,CA,94025,100,50,0,NULL,NULL,NULL,NULL
+Summit House,EVgo,23123 Santa Cruz Highway,Los Gatos,CA,95033,125,50,0.35,0.3,6.99,NULL,NULL
+1624 Dell Avenue,None,1624 Dell Avenue,Campbell,CA,95008,NULL,NULL,0,NULL,NULL,NULL,NULL
+Visitor Center,ChargePoint,Nasa Parkway,Mountain View,CA,94043,100,50,0.25,NULL,NULL,NULL,NULL
+Walmart,EVgo,777 Story Road,San Jose,CA,95122,125,50,0.35,0.3,6.99,NULL,NULL
+Sprouts,EVgo,1300 Pinole Valley Road,Pinole,CA,94564,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,2701 North Texas Street,Fairfield,CA,94533,125,50,0.35,0.3,6.99,NULL,NULL
+254 E Hacienda Avenue,ChargePoint,250 East Hacienda Avenue,Campbell,CA,95008,52,23.9,0.25,NULL,NULL,NULL,NULL
+Walmart,EVgo,301 Ranch Drive,Milpitas,CA,95035,125,50,0.35,0.3,6.99,NULL,NULL
+ABB San Jose,EVgo,3055 Orchard Drive,San Jose,CA,95134,125,50,0.35,0.3,6.99,NULL,NULL
+Connection Cafe: A Chiropractic Center,Unknown (edit),3920 Smith St,Union City,CA,94587,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Brisbane Village,ChargePoint,108 Old County Road,Brisbane,CA,94005,100,50,0.2,NULL,NULL,NULL,NULL
+Whole Foods Market,EVgo,790 De Long Avenue,Novato,CA,94945,125,50,0.35,0.3,6.99,NULL,NULL
+Nob Hill Foods,EVgo,1250 Grant Road,Mountain View,CA,94040,125,50,0.35,0.3,6.99,NULL,NULL
+Efficient Drivetrains,None,1181 Cadillac Ct,Milpitas,CA,95035,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Meta - Jefferson Drive,ChargePoint,220 Jefferson Drive,Menlo Park,CA,94025,100,50,0,NULL,NULL,NULL,NULL
+ETM Electromatic Inc,ChargePoint,35463 Dumbarton Ct,Newark,CA,94560,62,62,0.12,NULL,NULL,NULL,NULL
+Western States Oil,EVConnect,1790 South 10th Street,San Jose,CA,95112,300,120,0.35,NULL,NULL,NULL,NULL
+Facebook,ChargePoint,135 Commonwealth Drive,Menlo Park,CA,94025,62,62,0,NULL,NULL,NULL,NULL
+Santa Nella Circle K,ChargePoint,12754 CA-33,Gustine,CA,95322,62,62,0.58,NULL,NULL,NULL,NULL
+Diablo Plaza,Unknown (edit),2421 San Ramon Valley Blvd,San Ramon,CA,94583,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+1198 El Camino,EVgo,1198 El Camino,Colma,CA,94014,125,50,0.35,0.3,6.99,NULL,NULL
+San Francisco Premium Outlets,Electrify America,2774 Livermore Outlets Drive,Livermore,CA,94551,875,350,0.43,0.31,4,NULL,NULL
+Chevron - Willow Road,EVgo,1399 Willow Road,Menlo Park,CA,94025,125,50,0.35,0.3,6.99,NULL,NULL
+Gilroy Outlets,Electrify America,681 Leavesley Road,Gilroy,CA,95020,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Patterson,Electrify America,1030 Sperry Avenue,Patterson,CA,95363,875,350,0.43,0.31,4,NULL,NULL
+200 N 3rd Avenue,ChargePoint,200 North 3rd Avenue,Oakdale,CA,95361,62,62,0.58,NULL,NULL,NULL,NULL
+Novato Fair Shopping Center,Electrify America,900 Diablo Avenue,Novato,CA,94947,875,350,0.43,0.31,4,NULL,NULL
+Great Mall,"Tesla, Electrify America",447 Great Mall Drive,Milpitas,CA,95035,180,72,NULL,NULL,NULL,NULL,NULL
+555 Mission - Parking Garage,None,555 Mission Street,San Francisco,CA,94105,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,13900 Harlan Road,Lathrop,CA,95330,50,24,0,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,7576 Southfront Road,Livermore,CA,94551,50,24,0.25,NULL,NULL,0.33,NULL
+Woodmans Food Marke,ChargePoint,151 Hegenberger Road,Oakland,CA,94621,50,24,0.25,NULL,NULL,NULL,NULL
+Harley Davidson,ChargePoint,93 1st Avenue North,Pacheco,CA,94553,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Walmart - Turlock,Electrify America,2111 Fulkerth Road,Turlock,CA,95380,875,350,0.43,0.31,4,NULL,NULL
+Valley Water,ChargePoint,Almaden & Via Monte,San Jose,CA,95123,62,62,0.19,NULL,NULL,NULL,NULL
+Sonoma County Harley-Davidson,ChargePoint,7601 Redwood Drive,Cotati,CA,94931,50,24,0.23,NULL,NULL,NULL,NULL
+Magnolia Square Shopping Center,Electrify America,2005 Crow Canyon Place,San Ramon,CA,94583,875,350,0.43,0.31,4,NULL,NULL
+Greene Middle School,Powerflex,750 North California Avenue,Palo Alto,CA,94303,NULL,NULL,0.1,NULL,NULL,NULL,NULL
+Metro - Pleasanton,Electrify America,4575 Rosewood Drive,Pleasanton,CA,94588,875,350,0.43,0.31,4,NULL,NULL
+Lucky - Concord,Electrify America,5190 Clayton Road,Concord,CA,94521,875,350,0.43,0.31,4,NULL,NULL
+Covington Elementary School,Powerflex,201 Covington Road,Los Altos,CA,94024,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Plaza Shopping Center - Pan Cal,Electrify America,1334 Saratoga Avenue,San Jose,CA,95129,875,350,0.43,0.31,4,NULL,NULL
+Delhi Unified School District,EVConnect,16491 Schendel Avenue,Delhi,CA,95315,120,50,0.3,NULL,NULL,NULL,NULL
+Walmart - Fremont,Electrify America,44009 Osgood Road,Fremont,CA,94539,875,350,0.43,0.31,4,NULL,NULL
+Walmart - San Leandro,Electrify America,1919 Davis Street,San Leandro,CA,94577,875,350,0.43,0.31,4,NULL,NULL
+Lawrence Oakmead Shopping Center,Electrify America,540-548 Lawrence Expressway,Sunnyvale,CA,94085,875,350,0.43,0.31,4,NULL,NULL
+Bank of America Santa Teresa-Bernal CA3-169,Electrify America,155 Bernal Road,San Jose,CA,95119,875,350,0.43,0.31,4,NULL,NULL
+Bank of America - Castro Valley,Electrify America,3067 Castro Valley Boulevard,Castro Valley,CA,94546,875,350,0.43,0.31,4,NULL,NULL
+Brookvale Shopping Center,Electrify America,35720 Fremont Boulevard,Fremont,CA,94536,875,350,0.43,0.31,4,NULL,NULL
+Britannia Point Eden Business Park on Research Way,ChargePoint,4010 Point Eden Way,Hayward,CA,94545,50,24,0.25,NULL,NULL,NULL,NULL
+Britannia Oyster Point Business Plaza,Blink,1110 Veterans Boulevard,South San Francisco,CA,94080,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Walmart - Tracy,Electrify America,3010 West Grant Line Road,Tracy,CA,95304,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Union City,Electrify America,30600 Dyer Street,Union City,CA,94587,875,350,0.43,0.31,4,NULL,NULL
+Facebook,ChargePoint,309 Constitution Drive,Menlo Park,CA,94025,62,62,0,NULL,NULL,NULL,NULL
+Walmart - Stockton,Electrify America,10355 Trinity Parkway,Stockton,CA,95219,875,350,0.43,0.31,4,NULL,NULL
+Safeway - Belmont,Electrify America,1100 El Camino Real,Belmont,CA,94002,875,350,0.43,0.31,4,NULL,NULL
+Bank of America Financial Center,Electrify America,333 North Santa Cruz Avenue,Los Gatos,CA,95030,875,350,0.43,0.31,4,NULL,NULL
+Lucky - Oakland,Electrify America,247 East 18th Street,Oakland,CA,94606,875,350,0.43,0.31,4,NULL,NULL
+Whole Foods Mill Valley - E Blithedale,EVgo,731 East Blithedale Avenue,Mill Valley,CA,94941,125,50,0.35,0.3,6.99,NULL,NULL
+Mechanics Bank,EVgo,201 41st Street,Richmond,CA,94805,125,50,0.35,0.3,6.99,NULL,NULL
+Oakland - Lafayette Square,EVgo,610 East 10th Street,Oakland,CA,94606,125,50,0.35,0.3,6.99,NULL,NULL
+Foster City - High Power Charging Plaza,EVgo,1030 East Hillsdale Boulevard,Foster City,CA,94404,125,50,0.35,0.3,6.99,NULL,NULL
+Chula Vista Lot HPCP,EVgo,1133 Chula Vista,Burlingame,CA,94010,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky San Leandro,EVgo,1300 Fairmont Drive,San Leandro,CA,94578,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky - Hayward,EVgo,25151 Santa Clara Street,Hayward,CA,94544,125,50,0.35,0.3,6.99,NULL,NULL
+Westlake Shopping Center,EVgo,75 Southgate Avenue,Daly City,CA,94015,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,4893 Lone Tree Way,Antioch,CA,94531,125,50,0.35,0.3,6.99,NULL,NULL
+Los Altos High School,None,201 Almond Avenue,Los Altos,CA,94022,NULL,NULL,0.18,NULL,NULL,NULL,NULL
+Almond Elementary School,None,550 Almond Avenue,Los Altos,CA,94022,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Egan Junior High School,None,100 West Portola Avenue,Los Altos,CA,94022,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+4120 San Pablo Avenue,Electrify America,4120 San Pablo Avenue,Emeryville,CA,94608,875,350,0.43,0.31,4,NULL,NULL
+Bank of America Blossom Hill,Electrify America,971 Blossom Hill Road,San Jose,CA,95123,875,350,0.43,0.31,4,NULL,NULL
+105 Chowchilla Boulevard,ChargePoint,105 Chowchilla Bvd,Chowchilla,CA,93610,62,62,0.58,NULL,NULL,NULL,NULL
+1458 Mercey Springs Road,ChargePoint,1458 Mercey Springs Road,Los Banos,CA,93635,62,62,0.58,NULL,NULL,NULL,NULL
+Jelly Belly,EVConnect,1 Jelly Belly Lane,Fairfield,CA,94533,120,50,0.35,NULL,NULL,NULL,NULL
+Bank of America,Electrify America,620 Main Street,Half Moon Bay,CA,94019,875,350,0.43,0.31,4,NULL,NULL
+Target,ChargePoint,2355 West Kettleman Lane,Lodi,CA,95242,62,62,0.5,NULL,NULL,NULL,NULL
+Safeway,Electrify America,3350 Mission Street,San Francisco,CA,94110,875,350,0.43,0.31,4,NULL,NULL
+Target,ChargePoint,2800 Naglee Road,Tracy,CA,95304,62,62,0.58,NULL,NULL,NULL,NULL
+1000 Van Ness,EVgo,1000 Van Ness Avenue,San Francisco,CA,94109,125,50,0.35,0.3,6.99,NULL,NULL
+Bayside Business Park,None,46714 Fremont Boulevard,Fremont,CA,94538,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"Safeway 1502 (Pleasanton, CA)",Electrify America,1701 Santa Rita Road,Pleasanton,CA,94566,875,350,0.43,0.31,4,NULL,NULL
+Safeway,Electrify America,2350 Noriega Street,San Francisco,CA,94122,875,350,0.43,0.31,4,NULL,NULL
+5519 El Dorado Lane,ChargePoint,5801 Sterling Street,Dublin,CA,94568,62,62,0.25,NULL,NULL,NULL,NULL
+Target,ChargePoint,2061 Cadenasso Drive,Fairfield,CA,94533,62,62,0.58,NULL,NULL,NULL,NULL
+Lakeshore Plaza,Electrify America,4258 Ocean Avenue,San Francisco,CA,94132,875,350,0.43,0.31,4,NULL,NULL
+Bank of America Sonoma,Electrify America,35 West Napa Street,Sonoma,CA,95476,875,350,0.43,0.31,4,NULL,NULL
+Broadway Plaza,Electrify America,1275 Broadway Plaza,Walnut Creek,CA,94596,875,350,0.43,0.31,4,NULL,NULL
+Shell - Lodi,ChargePoint,6437 West Banner Street,Lodi,CA,95242,62,62,0.58,NULL,NULL,NULL,NULL
+Ampm,EVConnect,800 East Kettleman Lane,Lodi,CA,95240,300,120,0.35,NULL,NULL,NULL,NULL
+Bank of America Hillsdale,Electrify America,2900 South El Camino Real,San Mateo,CA,94403,875,350,0.43,0.31,4,NULL,NULL
+Laurelwood Shopping Center,EVgo,1206 West Hillsdale Boulevard,San Mateo,CA,94403,125,50,0.35,0.3,6.99,NULL,NULL
+Safeway,Electrify America,1 Camino Alto,Mill Valley,CA,94941,875,350,0.43,0.31,4,NULL,NULL
+Safeway,Electrify America,2558 Berryessa Road,San Jose,CA,95132,875,350,0.43,0.31,4,NULL,NULL
+Bank of America,Electrify America,2300 Alum Rock Avenue,San Jose,CA,95116,875,350,0.43,0.31,4,NULL,NULL
+Safeway,Electrify America,1335 Webster Street,San Francisco,CA,94115,875,350,0.43,0.31,4,NULL,NULL
+Georgina P. Blach Intermediate School,"None, Unknown",1120 Covington Road,Los Altos,CA,94024,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Lucky San Francisco,EVgo,1750 Fulton Street,San Francisco,CA,94117,125,50,0.35,0.3,6.99,NULL,NULL
+City of Patterson Recreation and Community Services Department,ChargePoint,1033 West Las Palmas Avenue,Patterson,CA,95363,50,24,0.12,NULL,NULL,0.01,NULL
+Target,ChargePoint,10424 Trinity Parkway,Stockton,CA,95219,62,62,0.58,NULL,NULL,NULL,NULL
+Somo Village,ChargePoint,1400 Valley House Drive East,Rohnert Park,CA,94928,100,50,0.25,NULL,NULL,NULL,NULL
+Meta Mpk21.9-22,ChargePoint,1 Facebook Way,Menlo Park,CA,94025,100,50,0,NULL,NULL,NULL,NULL
+Chevron Gilroy,ChargePoint,7110 Camino Arroyo,Gilroy,CA,95020,100,50,0.58,NULL,NULL,NULL,NULL
+Twin Canyon Shopping Center,EVgo,2550 San Ramon Valley Boulevard,San Ramon,CA,94583,125,50,0.35,0.3,6.99,NULL,NULL
+Rio Sands Lodge,EVConnect,205 CA-12,Rio Vista,CA,94571,120,50,0.4,NULL,NULL,NULL,NULL
+Two Rock Station,"SWTCH, None",7616 Valley Ford Road,Petaluma,CA,94952,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Princeton Plaza Mall,Electrify America,1375 Blossom Hill Road,San Jose,CA,95118,875,350,0.43,0.31,4,NULL,NULL
+Groveland Library,ChargePoint,18990 CA-120,Groveland,CA,95321,62,62,0.58,NULL,NULL,NULL,NULL
+Safeway,Electrify America,600 Patterson Boulevard,Pleasant Hill,CA,94523,875,350,0.43,0.31,4,NULL,NULL
+Monta Vista High School,Powerflex,21840 McClellan Road,Cupertino,CA,95014,NULL,NULL,0.2,NULL,NULL,NULL,NULL
+Carlmont Village Shopping Center,EVgo,1049 Alameda de las Pulgas,Belmont,CA,94002,125,50,0.35,0.3,6.99,NULL,NULL
+Serramonte Main Library,EVgo,40 Wembley Drive,Daly City,CA,94015,125,50,0.35,0.3,6.99,NULL,NULL
+Simon Napa Premium Outlet,Electrify America,629 FACTORY STORES DRIVE,Napa,CA,94558,875,350,0.43,0.31,4,NULL,NULL
+Save Mart FoodMaxx,Electrify America,39966 Cedar Boulevard,Newark,CA,94560,875,350,0.43,0.31,4,NULL,NULL
+Meta Mpk26-03,ChargePoint,180 Jefferson Drive,Menlo Park,CA,94025,62,62,0,NULL,NULL,NULL,NULL
+Whole Foods Market,EVgo,1150 Ocean Avenue,San Francisco,CA,94112,125,50,0.35,0.3,6.99,NULL,NULL
+Kaiser Permanente San Rafael Medical Center,EVgo,99 Montecillo Road,San Rafael,CA,94903,125,50,0.35,0.3,6.99,NULL,NULL
+Ford Point Fast Charger,ChargePoint,1414 Harbour Way South,Richmond,CA,94804,100,50,NULL,NULL,NULL,NULL,9
+BP - Basra Associates Inc,Blink,3650 Nelson Road,Fairfield,CA,94533,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+7-eleven,ChargePoint,2360 West Grant Line Road,Tracy,CA,95377,62,62,0.46,NULL,NULL,NULL,NULL
+SOMA Grand,EVgo,1160 Mission Street,San Francisco,CA,94103,125,50,0.35,0.3,6.99,NULL,NULL
+Ripon Loveâ€™s Travel Stop,EVConnect,1553 West Colony Road,Ripon,CA,95366,350,350,0.3,NULL,NULL,NULL,NULL
+ARCO 7147 (Stockton),EVConnect,1206 East March Lane,Stockton,CA,95210,300,120,0.35,NULL,NULL,NULL,NULL
+Whole Foods Market,EVgo,4800 El Camino Real,Los Altos,CA,94022,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market,EVgo,911 Soquel Avenue,Santa Cruz,CA,95062,125,50,0.35,0.3,6.99,NULL,NULL
+FoodMaxx Newark #462,EVgo,39966 Cedar Boulevard,Newark,CA,94560,125,50,0.35,0.3,6.99,NULL,NULL
+Target,Electrify America,1405 West Pacheco Boulevard,Los Banos,CA,93635,875,350,0.43,0.31,4,NULL,NULL
+Chargepoint HQ 44,ChargePoint,240 East Hacienda Avenue,Campbell,CA,95008,62,62,0.25,NULL,NULL,NULL,NULL
+Bank of America,Electrify America,6490 Camden Avenue,San Jose,CA,95120,875,350,0.43,0.31,4,NULL,NULL
+Lucky Castro Valley,EVgo,3401 Castro Valley Boulevard,Castro Valley,CA,94546,125,50,0.35,0.3,6.99,NULL,NULL
+Site Centers Hilltop Plaza,Electrify America,3401 Blume Drive,Richmond,CA,94806,875,350,0.43,0.31,4,NULL,NULL
+Chevron Station,ChargePoint,875 Blossom Hill Road,San Jose,CA,95123,62,62,0.47,NULL,NULL,NULL,NULL
+Megahub - 350 Pacific,EVgo,350 Pacific Avenue,San Francisco,CA,94111,125,50,0.35,0.3,6.99,NULL,NULL
+Bank of America Mission-Sorenson,Electrify America,26801 Mission Boulevard,Hayward,CA,94544,875,350,0.43,0.31,4,NULL,NULL
+Safeway,Electrify America,1300 West San Carlos Street,San Jose,CA,95126,875,350,0.43,0.31,4,NULL,NULL
+Yosemite Westgate Lodge-Buck Meadows Lodge,Electrify America,7649 CA-120,Groveland,CA,95321,875,350,0.43,0.31,4,NULL,NULL
+Chevron,EVgo,320 East Millbrae Avenue,Millbrae,CA,94030,125,50,0.35,0.3,6.99,NULL,NULL
+Save Mart-Lucky,Electrify America,1590 Sycamore Avenue,Hercules,CA,94547,875,350,0.43,0.31,4,NULL,NULL
+Meta Mpk17-02,ChargePoint,1 Hacker Way Building 17,Menlo Park,CA,94025,62,62,0,NULL,NULL,NULL,NULL
+Dirito Brothers,ChargePoint,2020 North Main Street,Walnut Creek,CA,94596,52,23.9,NULL,NULL,NULL,0.2,NULL
+Visitor Center,ChargePoint,NASA Parkway,Mountain View,CA,94043,100,50,0.25,NULL,NULL,NULL,NULL
+Meta Mpk29-05 Fc,ChargePoint,220 Jefferson Drive,Menlo Park,CA,94025,100,50,0,NULL,NULL,NULL,NULL
+Meta Mpk57-05,ChargePoint,1350 Willow Road,Menlo Park,CA,94025,100,50,0,NULL,NULL,NULL,NULL
+Westfield Valley Fair,Electrify America,2855 Stevens Creek Boulevard,Santa Clara,CA,95050,875,350,0.43,0.31,4,NULL,NULL
+The Fremont Auto Mall,ChargePoint,5740 Cushing Parkway,Fremont,CA,94538,62,62,0,NULL,NULL,NULL,NULL
+Chowchilla,EVConnect,18208 Avenue 24,Chowchilla,CA,93610,125,50,0.5,NULL,NULL,NULL,NULL
+ROIC-Granada Shopping Center,Electrify America,1951 Holmes Street,Livermore,CA,94550,875,350,0.43,0.31,4,NULL,NULL
+Rotten Robbie's,EVConnect,1202 Oakland Road,San Jose,CA,95112,300,120,0.4,NULL,NULL,NULL,NULL
+Haidlen Ford,ChargePoint,1355 CA-120,Oakdale,CA,95361,62,62,0.25,NULL,NULL,NULL,NULL
+Gilroy Premium Outlets,EVgo,681 Leavesley Road,Gilroy,CA,95020,125,50,0.35,0.3,6.99,NULL,NULL
+Musich - Crystal Springs Village SC,Electrify America,100 Deanza Boulevard,San Mateo,CA,94402,875,350,0.43,0.31,4,NULL,NULL
+Topline Milpitas Square,Electrify America,320 Barber Ct,Milpitas,CA,95035,875,350,0.43,0.31,4,NULL,NULL
+Motel 6 - Santa Nella,Shell Recharge,28821 Gonzaga Road,Santa Nella,CA,95322,100,40,0.45,NULL,NULL,NULL,NULL
+Mercedes Benz of San Francisco Station 4,ChargePoint,2233 Gellert Boulevard,South San Francisco,CA,94080,62,62,0,NULL,NULL,NULL,NULL
+Whole Foods Temescal,EVgo,5110 Telegraph Avenue,Oakland,CA,94609,125,50,0.35,0.3,6.99,NULL,NULL
+23519 Robertson Boulevard,Shell Recharge,23519 Robertson Boulevard,Chowchilla,CA,93610,100,40,0.4,NULL,NULL,NULL,NULL
+Homestead High School,Powerflex,21370 Homestead Road,Cupertino,CA,95014,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Whole Foods San Francisco -Trinity Place,EVgo,1185 Market Street,San Francisco,CA,94103,125,50,0.35,0.3,6.99,NULL,NULL
+Preylock Zanker Road Lot,Electrify America,2860 Zanker Road,San Jose,CA,95134,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,4500 Macdonald Avenue,Richmond,CA,94805,875,350,0.43,0.31,4,NULL,NULL
+AMPM Merced,EVConnect,810 South Coffee Street,Merced,CA,95341,300,120,0.35,NULL,NULL,NULL,NULL
+Cruisers #14,None,1297 Highway 4,Arnold,CA,95223,125,50,0.45,NULL,NULL,NULL,NULL
+Homewood Suites San Jose Airport Silicon Valley,EVgo,10 West Trimble Road,San Jose,CA,95131,125,50,0.35,0.3,6.99,NULL,NULL
+Parking Lot 107 - Sunnyvale,EVgo,107 South Sunnyvale Avenue,Sunnyvale,CA,94086,125,50,0.35,0.3,6.99,NULL,NULL
+East Middlefield Road,EVgo,199 East Middlefield Road,Mountain View,CA,94043,125,50,0.35,0.3,6.99,NULL,NULL
+Lakewood Shopping Center,EVgo,1161 North Lawrence Expy,Sunnyvale,CA,94089,125,50,0.35,0.3,6.99,NULL,NULL
+TA Santa Nella,Shell Recharge,12310 CA-33,Santa Nella,CA,95322,200,100,0.5,NULL,NULL,NULL,NULL
+Valley Mountain Regional Center,EVCS,1820 Blue Gum Avenue,Modesto,CA,95358,NULL,NULL,0.29,NULL,NULL,NULL,NULL
+Johnson Hotel-Doubletree,Electrify America,7050 Johnson Drive,Pleasanton,CA,94588,875,350,0.43,0.31,4,NULL,NULL
+Target,Electrify America,2700 5th Street,Alameda,CA,94501,875,350,0.43,0.31,4,NULL,NULL
+Lake Park Lot Grand Lake,EVgo,519 Lake Park Avenue,Oakland,CA,94610,125,50,0.35,0.3,6.99,NULL,NULL
+Target,Electrify America,1000 Commerce Avenue,AtWater,CA,95301,875,350,0.43,0.31,4,NULL,NULL
+Salvador Chevron,ChargePoint,1895 Salvador Avenue,Napa,CA,94558,62,62,0.5,NULL,NULL,NULL,NULL
+Meta Mpk60-16,ChargePoint,150 Independence Drive,Menlo Park,CA,94025,62,62,0,NULL,NULL,NULL,NULL
+Santa Teresa Village,EVgo,7160 Santa Teresa Boulevard,San Jose,CA,95139,125,50,0.35,0.3,6.99,NULL,NULL
+Jack London Square,EVgo,409 Washington Street,Oakland,CA,94607,125,50,0.35,0.3,6.99,NULL,NULL
+Quail Lakes Center,EVCS,4733 Quail Lakes Drive,Stockton,CA,95207,NULL,NULL,0.49,NULL,NULL,NULL,NULL
+1943 Soscol Avenue,ChargePoint,1943 Soscol Avenue,Napa,CA,94559,62,62,0,NULL,NULL,NULL,NULL
+Caltrans District 9 Office,None,500 South Main Street,Bishop,CA,93514,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+34021 CA-120,ChargePoint,34021 CA-120,Groveland,CA,95321,62,62,0.58,NULL,NULL,NULL,NULL
+Vons - Bishop,Electrify America,1190 North Main Street,Bishop,CA,93514,875,350,0.43,0.31,4,NULL,NULL
+Central Valley Bank,Electrify America,40004 CA-41,Oakhurst,CA,93644,875,350,0.43,0.31,4,NULL,NULL
+Old Mill Village,ChargePoint,40050 CA-49,Oakhurst,CA,93644,62,62,0.58,NULL,NULL,NULL,NULL
+Shell - Bridgeport,Electrify America,453 Main Street,Bridgeport,CA,93517,875,350,0.43,0.31,4,NULL,NULL
+Hanlees Davis Nissan,None,5009 Chiles Road,Davis,CA,95618,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Elk Grove,None,8590 Laguna Grove Drive,Elk Grove,CA,95757,NULL,NULL,0,NULL,NULL,NULL,NULL
+Nissan of Sacramento,None,2820 Auburn Boulevard,Sacramento,CA,95821,NULL,NULL,0,NULL,NULL,NULL,NULL
+Bella Vista Road Park & Ride Lot,None,782 Davis Ct,Vacaville,CA,95687,NULL,NULL,0,NULL,NULL,NULL,NULL
+Winner Chevrolet,None,1624 South Canyon Way,Colfax,CA,95713,NULL,NULL,0,NULL,NULL,NULL,NULL
+Jim Bone Nissan,None,1275 Santa Rosa Avenue,Santa Rosa,CA,95404,NULL,NULL,0,NULL,NULL,NULL,NULL
+Greenwood Ridge Vineyards,"Tesla, None",5501 Highway 128,Philo,CA,95466,NULL,NULL,0,NULL,NULL,NULL,NULL
+Future Nissan of Folsom,None,12610 Auto Mall Circle,Folsom,CA,95630,NULL,NULL,0,NULL,NULL,NULL,NULL
+Future Nissan of Roseville,None,600 Automall Drive,Roseville,CA,95661,NULL,NULL,0,NULL,NULL,NULL,NULL
+Panda Express,EVgo,5414 Crossings Drive,Rocklin,CA,95677,125,50,0.35,0.3,6.99,NULL,NULL
+Jim Bone Auto Group,Shell Recharge,1255 Santa Rosa Avenue,Santa Rosa,CA,95404,125,50,0.35,NULL,NULL,NULL,NULL
+Chico Nissan,None,575 Manzanita Avenue,Chico,CA,95926,NULL,NULL,0,NULL,NULL,NULL,NULL
+Esquire Plaza,ChargePoint,1215 K Street,Sacramento,CA,95814,100,50,0,NULL,NULL,NULL,NULL
+Chico Volkswagen,ChargePoint,902 Oroville Avenue,Chico,CA,95928,26,23.9,0.25,NULL,NULL,NULL,NULL
+Santa Rosa Plaza,EVgo,1071 Santa Rosa Plz,Santa Rosa,CA,95401,125,50,0.35,0.3,6.99,NULL,NULL
+Davis Commons,EVgo,500 1st Street,Davis,CA,95616,125,50,0.35,0.3,6.99,NULL,NULL
+Bel Air Grocery,EVgo,2760 East Bidwell Street,Folsom,CA,95630,125,50,0.35,0.3,6.99,NULL,NULL
+Vacaville Premium Outlets,EVgo,321 Nut Tree Road,Vacaville,CA,95687,125,50,0.35,0.3,6.99,NULL,NULL
+Arco AM-PM,ChargePoint,310 Orange Drive,Vacaville,CA,95687,50,24,0.25,NULL,NULL,0.04,NULL
+Sacramento Municipal Utility District,None,6151 South Street,Sacramento,CA,95817,NULL,NULL,0.23,NULL,NULL,NULL,NULL
+Whole Foods Market - Arden Way,EVgo,4315 Arden Way,Sacramento,CA,95864,125,50,0.35,0.3,6.99,NULL,NULL
+288 Golf Course Drive,ChargePoint,288 Golf Course Drive,Rohnert Park,CA,94928,100,50,0,NULL,NULL,NULL,NULL
+Butte College Skyway Center,EVgo,2480 Notre Dame Boulevard,Chico,CA,95928,125,50,0.35,0.3,6.99,NULL,NULL
+"Loomis, CA Supercharger",EVgo,6119 Horseshoe Bar Road,Loomis,CA,95650,125,50,0.35,0.3,6.99,NULL,NULL
+Raley's,EVgo,3935 Park Drive,El Dorado Hills,CA,95762,125,50,0.35,0.3,6.99,NULL,NULL
+Save Mart,EVgo,386 Elm Avenue,Auburn,CA,95603,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Roseville,EVgo,1001 Galleria Boulevard,Roseville,CA,95678,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,235 East Dorset Drive,Dixon,CA,95620,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,6650 Hembree Lane,Windsor,CA,95492,125,50,0.35,0.3,6.99,NULL,NULL
+Lucky,EVgo,776 Gravenstein Highway North,Sebastopol,CA,95472,125,50,0.35,0.3,6.99,NULL,NULL
+Nugget Market -Elk Grove,Shell Recharge,7101 Elk Grove Boulevard,Elk Grove,CA,95758,125,50,0.23,NULL,NULL,NULL,NULL
+Sacramento Food Coop,Shell Recharge,2820 R Street,Sacramento,CA,95816,125,50,0.23,NULL,NULL,NULL,NULL
+Raley's,EVgo,1 Cadillac Drive,Sacramento,CA,95825,125,50,0.35,0.3,6.99,NULL,NULL
+Colfax Public Parking Lot,EVgo,1 North Main Street,Colfax,CA,95713,125,50,0.35,0.3,6.99,NULL,NULL
+Raley's,EVgo,4050 Sunrise Boulevard,Rancho Cordova,CA,95742,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart,EVgo,755 Riverpoint Ct,West Sacramento,CA,95605,125,50,0.35,0.3,6.99,NULL,NULL
+Laytonville Supercharger,ChargePoint,45020 US-101,Laytonville,CA,95454,62,62,0.58,NULL,NULL,NULL,NULL
+St Helena Public Parking Lot,EVgo,1304 Oak Avenue,Saint Helena,CA,94574,125,50,0.35,0.3,6.99,NULL,NULL
+Walmart - Elk Grove,Electrify America,8465 Elk Grove Boulevard,Elk Grove,CA,95758,875,350,0.43,0.31,4,NULL,NULL
+America's Best Value Inn,Electrify America,3930 County Road 89,Dunnigan,CA,95937,875,350,0.43,0.31,4,NULL,NULL
+Market West,Electrify America,3270 Arena Boulevard,Sacramento,CA,95834,875,350,0.43,0.31,4,NULL,NULL
+Laguna Village,Electrify America,8785 Center Parkway,Sacramento,CA,95823,875,350,0.43,0.31,4,NULL,NULL
+The Cannery,Electrify America,1651 Alhambra Boulevard,Sacramento,CA,95816,875,350,0.43,0.31,4,NULL,NULL
+16th & L Street Parking Lot,Electrify America,1601 L Street,Sacramento,CA,95814,875,350,0.43,0.31,4,NULL,NULL
+Riverpoint Marketplace,Electrify America,767 Ikea Court,West Sacramento,CA,95605,875,350,0.43,0.31,4,NULL,NULL
+Walmart - North Highland,Electrify America,4675 Watt Avenue,North Highland,CA,95660,875,350,0.43,0.31,4,NULL,NULL
+Target - Sacramento,Electrify America,3601 North Freeway Boulevard,Sacramento,CA,95834,875,350,0.43,0.31,4,NULL,NULL
+Sacramento International Airport - Cell Phone Lot,None,Lindbergh Drive,Sacramento,CA,95837,NULL,NULL,0.23,NULL,NULL,NULL,NULL
+Harley Davisdon,ChargePoint,4401 Granite Drive,Rocklin,CA,95677,50,24,0.3,NULL,NULL,NULL,NULL
+Walmart - Sacramento,Electrify America,6051 Florin Road,Sacramento,CA,95823,875,350,0.43,0.31,4,NULL,NULL
+Sacramento International Airport,Electrify America,6900 Airport Boulevard,Sacramento,CA,95837,875,350,0.43,0.31,4,NULL,NULL
+Briar Patch Coop,ChargePoint,290 Sierra College Drive,Grass Valley,CA,95945,62,62,0.55,NULL,NULL,NULL,NULL
+Harley Davidson,ChargePoint,1000 Arden Way,Sacramento,CA,95815,50,24,0,NULL,NULL,NULL,NULL
+McDonald's,ChargePoint,1139 South Cloverdale Boulevard,Cloverdale,CA,95425,62,62,0.58,NULL,NULL,NULL,NULL
+Target - Rocklin,Electrify America,5104 Commons Drive,Rocklin,CA,95677,875,350,0.43,0.31,4,NULL,NULL
+Target - Sacramento,Electrify America,6507 4th Avenue,Sacramento,CA,95817,875,350,0.43,0.31,4,NULL,NULL
+Dine N Dash Parking Lot,ChargePoint,1516 South Canyon Way,Colfax,CA,95713,62,62,0.58,NULL,NULL,NULL,NULL
+Chevron Parking Lot,ChargePoint,4040 Road 89,Dunnigan,CA,95937,100,50,0.58,NULL,NULL,NULL,NULL
+Target,Electrify America,2505 Riverside Boulevard,Sacramento,CA,95818,875,350,0.43,0.31,4,NULL,NULL
+Chevron Santa Rosa,ChargePoint,879 Hopper Avenue,Santa Rosa,CA,95403,62,62,0.58,NULL,NULL,NULL,NULL
+Santa Rosa Plaza,Electrify America,1071 Santa Rosa Plaza,Santa Rosa,CA,95401,875,350,0.43,0.31,4,NULL,NULL
+120 Grass Valley Hwy,ChargePoint,120 Grass Valley Highway,Auburn,CA,95603,62,62,0.58,NULL,NULL,NULL,NULL
+Vacaville Premium Outlets,Electrify America,321 Nut Tree Road,Vacaville,CA,95687,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Willows,Electrify America,470 Airport Road,Willows,CA,95988,875,350,0.43,0.31,4,NULL,NULL
+Southside Park,EVgo,2115 6th Street,Sacramento,CA,95818,125,50,0.35,0.3,6.99,NULL,NULL
+"Shop N' Save - Williams, CA",EVgo,421 7th Street,Williams,CA,95987,125,50,0.35,0.3,6.99,NULL,NULL
+County Fair Fashion Mall,EVgo,1264 East Gibson Road Ste E500,Woodland,CA,95776,125,50,0.35,0.3,6.99,NULL,NULL
+Black Bear - Willows A1,EVgo,246 North Humboldt Avenue,Willows,CA,95988,125,50,0.35,0.3,6.99,NULL,NULL
+Whole Foods Market,EVgo,733 Coddingtown Ctr,Santa Rosa,CA,95401,125,50,0.35,0.3,6.99,NULL,NULL
+Bradshaw Shell,Shell Recharge,3591 Bradshaw Road,Sacramento,CA,95827,125,50,0.25,NULL,NULL,NULL,1.99
+City of Elk Grove Civic Center- Aquatics,None,9701 Big Horn Drive,Elk Grove,CA,95758,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+City of Elk Grove Civic Center- Community Center,None,8230 Civic Center Drive,Elk Grove,CA,95758,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Berry Patch Restaurant,EVgo,900 Newville Road,Orland,CA,95963,125,50,0.35,0.3,6.99,NULL,NULL
+PetsMart Center,EVgo,865 Colusa Avenue,Yuba City,CA,95991,125,50,0.35,0.3,6.99,NULL,NULL
+Sierra Nevada,ChargePoint,1085 East 20th Street,Chico,CA,95928,50,24,0,NULL,NULL,NULL,NULL
+Sacramento Valley Station,Shell Recharge,401 I Street,Sacramento,CA,95814,125,50,0.23,NULL,NULL,NULL,NULL
+Target,Electrify America,1919 Fulton Avenue,Sacramento,CA,95825,875,350,0.43,0.31,4,NULL,NULL
+Auburn Target,ChargePoint,2700 East Bell Road,Auburn,CA,95603,62,62,0.58,NULL,NULL,NULL,NULL
+Department of Transportation Station,None,12983 State Highway 20,Clearlake Oaks,CA,95423,NULL,NULL,0,NULL,NULL,NULL,NULL
+Tupi Coffee,ChargePoint,1610 Arden Way,Sacramento,CA,95815,62,62,0.35,NULL,NULL,NULL,NULL
+Burger King,ChargePoint,711 East Perkins Street,Ukiah,CA,95482,62,62,0.5,NULL,NULL,NULL,NULL
+Safeway,Electrify America,845 South Main Street,Willits,CA,95490,875,350,0.43,0.31,4,NULL,NULL
+10860 Gold Center Drive,Shell Recharge,10860 Gold Center Drive,Rancho Cordova,CA,95670,125,50,0.35,NULL,NULL,NULL,NULL
+Folsom Premium Outlets,Electrify America,13000 Folsom Boulevard,Folsom,CA,95630,875,350,0.43,0.31,4,NULL,NULL
+7-Eleven,ChargePoint,4010 Lake Road,West Sacramento,CA,95691,62,62,0.57,NULL,NULL,NULL,NULL
+134 Browns Valley Parkway,ChargePoint,130 Browns Valley Parkway,Vacaville,CA,95688,62,62,0.58,NULL,NULL,NULL,NULL
+13647 Arnold Drive,ChargePoint,13647 Arnold Drive,Glen Ellen,CA,95442,62,62,0.65,NULL,NULL,NULL,NULL
+Bank of America,Electrify America,325 East Street,Davis,CA,95616,875,350,0.43,0.31,4,NULL,NULL
+165 Magnolia Avenue,ChargePoint,165 Magnolia Avenue,Auburn,CA,95603,62,62,0.5,NULL,NULL,NULL,NULL
+Walmart,Electrify America,4625 Redwood Drive,Rohnert Park,CA,94928,875,350,0.43,0.31,4,NULL,NULL
+Chevron,ChargePoint,2789 East Bidwell Street,Folsom,CA,95630,62,62,0.5,NULL,NULL,NULL,NULL
+Shell,Shell Recharge,3721 Truxel Road,Sacramento,CA,95834,125,50,0.39,NULL,NULL,NULL,NULL
+Shell,Shell Recharge,1216 Galleria Boulevard,Roseville,CA,95678,125,50,0.39,NULL,NULL,NULL,NULL
+8830 East Stockton Boulevard,Shell Recharge,8830 East Stockton Boulevard,Elk Grove,CA,95624,125,50,0.39,NULL,NULL,NULL,NULL
+Westfield Galleria at Roseville,Electrify America,1151 Galleria Boulevard,Roseville,CA,95678,875,350,0.43,0.31,4,NULL,NULL
+7-eleven,ChargePoint,400 Mace Boulevard,Davis,CA,95618,62,62,0.46,NULL,NULL,NULL,NULL
+Bank of America Chico,Electrify America,400 Broadway Street,Chico,CA,95928,875,350,0.43,0.31,4,NULL,NULL
+Curbside 506 14th Street,EVgo,506 14th Street,Sacramento,CA,95814,125,50,0.35,0.3,6.99,NULL,NULL
+Target,Electrify America,1153 Butte House Road,Yuba City,CA,95991,875,350,0.43,0.31,4,NULL,NULL
+Courtyard by Marriott Sacramento,EVCS,1782 Tribute Road,Sacramento,CA,95815,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Hampton Inn & Suites Sacramento,EVCS,2230 Auburn Boulevard,Sacramento,CA,95821,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Holiday Inn Express & Suites Sacramento,EVCS,2224 Auburn Boulevard,Sacramento,CA,95821,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Hilton Arden West Sacramento,EVCS,2200 Harvard Street,Sacramento,CA,95815,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Fairfield Inn Cal Expo,EVCS,1780 Tribute Road,Sacramento,CA,95815,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+County EVSE Pub Park 3,ChargePoint,725 7th Street,Sacramento,CA,95814,62,62,0,NULL,NULL,NULL,NULL
+Patel & Chirag Motel 6,Electrify America,1819 Auburn Ravine Road,Auburn,CA,95603,875,350,0.43,0.31,4,NULL,NULL
+Curbside 22nd Street,EVgo,926 22nd Street,Sacramento,CA,95816,125,50,0.35,0.3,6.99,NULL,NULL
+Cherry Magnolia 03,ChargePoint,138 Magnolia Avenue,Auburn,CA,95603,62,62,0.5,NULL,NULL,NULL,NULL
+Chico VW DC Wallbox 1,ChargePoint,902 Main Street,Chico,CA,95928,26,23.9,0.25,NULL,NULL,NULL,NULL
+Healdsburg,Shell Recharge,33 Healdsburg Avenue,Healdsburg,CA,95448,100,40,NULL,NULL,NULL,NULL,NULL
+Crystal View,ChargePoint,6529 Pony Express Trail,Pollock Pines,CA,95726,62,62,0.25,NULL,NULL,NULL,4.95
+Save Mart - Truckee,Electrify America,11399 Deerfield Drive.,Truckee,CA,96161,875,350,0.43,0.31,4,NULL,NULL
+Save Mart,EVgo,100 River Road,Tahoe City,CA,96145,125,50,0.35,0.3,6.99,NULL,NULL
+Pines Shopping Center,EVgo,6450 Pony Express Trl,Pollock Pines,CA,95726,125,50,0.35,0.3,6.99,NULL,NULL
+Raleys',EVgo,166 Placerville Drive,Placerville,CA,95667,125,50,0.35,0.3,6.99,NULL,NULL
+Dutch Flat 76 Station,EVgo,25 Canyon Creek Road,Dutch Flat,CA,95714,125,50,0.35,0.3,6.99,NULL,NULL
+Shell,EVgo,41965 Nyack Road,Emigrant Gap,CA,95715,125,50,0.35,0.3,6.99,NULL,NULL
+Shell,EVgo,53102 Donner Pass Road,Soda Springs,CA,95728,125,50,0.35,0.3,6.99,NULL,NULL
+Raley's,EVgo,1020 Emerald Bay Road,South Lake Tahoe,CA,96150,125,50,0.35,0.3,6.99,NULL,NULL
+Strawberry Station General Store,EVgo,17481 US-50,Twin Bridges,CA,95735,125,50,0.35,0.3,6.99,NULL,NULL
+Placerville,ChargePoint,1200 Broadway,Placerville,CA,95667,62,62,0.58,NULL,NULL,NULL,NULL
+McDonald's,ChargePoint,1184 Broadway,Placerville,CA,95667,62,62,0.58,NULL,NULL,NULL,NULL
+Save Mart,EVgo,11399 Deerfield Drive,Truckee,CA,96161,125,50,0.35,0.3,6.99,NULL,NULL
+DC Corridor Truckee,ChargePoint,10069 Church Street,Truckee,CA,96161,62,62,0.25,NULL,NULL,NULL,4.95
+Strawberry Lodge,ChargePoint,17510 US-50,Kyburz,CA,95735,62,62,0.58,NULL,NULL,NULL,NULL
+2012 Lake Tahoe Boulevard,ChargePoint,2012 Lake Tahoe Boulevard,South Lake Tahoe,CA,96150,62,62,0.5,NULL,NULL,NULL,NULL
+South Lake Tahoe,Electrify America,3344 Lake Tahoe Boulevard,South Lake Tahoe,CA,96150,875,350,0.43,0.31,4,NULL,NULL
+Lucky's Travel Plaza,ChargePoint,90 Cisco Road,Soda Springs,CA,95728,62,62,0.58,NULL,NULL,NULL,NULL
+Bank of America,Electrify America,3044 Sacramento Street,Placerville,CA,95667,875,350,0.43,0.31,4,NULL,NULL
+Arcata Town Hall,ChargePoint,601 8th Street,Arcata,CA,95521,62,62,0.58,NULL,NULL,NULL,NULL
+Target,ChargePoint,1280 Dana Drive,Redding,CA,96003,62,62,0.5,NULL,NULL,NULL,NULL
+260 Keisner,ChargePoint,260 Keisner,Loleta,CA,95551,62,62,0.52,NULL,NULL,NULL,NULL
+Vittles Family Restaurant,ChargePoint,2385 North Street,Anderson,CA,96007,62,62,0.58,NULL,NULL,NULL,NULL
+Safeway - Anderson,Electrify America,2601 Balls Ferry Road,Anderson,CA,96007,875,350,0.43,0.31,4,NULL,NULL
+20725 Lakeshore Drive,ChargePoint,20725 Lakeshore Drive,Lakehead-Lakeshore,CA,96051,62,62,0.58,NULL,NULL,NULL,NULL
+Eureka-Bayshore Mall,Electrify America,3300 Broadway Street,Eureka,CA,95501,875,350,0.43,0.31,4,NULL,NULL
+Moon Lim Lee Rest Area Parking Lot,ChargePoint,CA-299,Douglas City,CA,96024,62,62,0,NULL,NULL,NULL,NULL
+Garberville-One LogHouse,Electrify America,705 US 101,Garberville,CA,95542,875,350,0.43,0.31,4,NULL,NULL
+Best Western Antelope Inn & Suites,ChargePoint,203 Antelope Boulevard,Red Bluff,CA,96080,62,62,0.58,NULL,NULL,NULL,NULL
+Benbow Inn,ChargePoint,445 Lake Benbow Drive,Garberville,CA,95542,62,62,0.5,NULL,NULL,NULL,NULL
+872 Sundial Bridge Dr.,ChargePoint,872-880 Sundial Bridge Drive,Redding,CA,96001,62,62,0.2,NULL,NULL,NULL,NULL
+TA Corning,Shell Recharge,3524 Highway 99 West,Corning,CA,96021,200,100,0.5,NULL,NULL,NULL,NULL
+Willow Creek Maintenance Station,None,634 Highway 96,Willow Creek,CA,95573,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Comfort Inn,ChargePoint,1844 Shastina Drive,Weed,CA,96094,62,62,0.52,NULL,NULL,NULL,NULL
+YAKS on the 5,ChargePoint,4917 Dunsmuir Avenue,Dunsmuir,CA,96025,62,62,0.52,NULL,NULL,NULL,NULL
+111 Morgan Way,ChargePoint,134 Morgan Way,Mount Shasta,CA,96067,62,62,0.52,NULL,NULL,NULL,NULL
+McDonald's - Yreka Junction,ChargePoint,1842 Fort Jones Road,Yreka,CA,96097,62,62,0.52,NULL,NULL,NULL,NULL
+N Indian Rd Casino and Hotel,ChargePoint,350 North Indian Road,Smith River,CA,95567,62,62,0.52,NULL,NULL,NULL,NULL
+101 S Stop,ChargePoint,655 US-101,Crescent City,CA,95531,62,62,0.52,NULL,NULL,NULL,NULL
+Walmart - Crescent City,Electrify America,900 East Washington Boulevard,Crescent City,CA,95531,875,350,0.43,0.31,4,NULL,NULL
+Walmart - Yreka,Electrify America,1906 Fort Jones Road,Yreka,CA,96097,875,350,0.43,0.31,4,NULL,NULL
+171 Klamath Boulevard,ChargePoint,185 Klamath Boulevard,Klamath,CA,95548,62,62,0.52,NULL,NULL,NULL,NULL
+Collier Street Parking Lot,ChargePoint,Unnamed Road,Hornbrook,CA,96044,62,62,0,NULL,NULL,NULL,NULL
+Yreka Truck,ChargePoint,787 Montague Road,Yreka,CA,96097,62,62,0.25,NULL,NULL,NULL,NULL
+10700 Us-101,Shell Recharge,10700 US-101,Smith River,CA,95567,100,40,0.45,NULL,NULL,NULL,NULL
+Fontana Nissan,None,16444 South Highland Avenue,Fontana,CA,92336,NULL,NULL,0,NULL,NULL,NULL,NULL
+Orange Coast Nissan,None,2850 Harbor Boulevard,Costa Mesa,CA,92626,NULL,NULL,0,NULL,NULL,NULL,NULL
+Anaheim Plaza,EVgo,510 North Euclid Street,Anaheim,CA,92801,125,50,0.35,0.3,6.99,NULL,NULL
+Courtyard by Marriott Costa Mesa South Coast Metro,EVgo,3002 South Harbor Boulevard,Santa Ana,CA,92704,125,50,0.35,0.3,6.99,NULL,NULL
+Bank of America,Electrify America,1685 East Katella Avenue,Anaheim,CA,92805,875,350,0.43,0.31,4,NULL,NULL
+Costa Mesa City Hall,ChargePoint,77 Fair Drive,Costa Mesa,CA,92626,62,62,0.38,NULL,NULL,NULL,NULL
+BOA Magnolia Park,Electrify America,3400 West MAGNOLIA Boulevard,Burbank,CA,91505,875,350,0.43,0.31,4,NULL,NULL
+South Coast Plaza,ChargePoint,3333 Bear Street,Costa Mesa,CA,92626,62,62,NULL,NULL,NULL,0.16,NULL
+Ralph's,Electrify America,17840 VENTURA Boulevard,Encinco,CA,91316,875,350,0.43,0.31,4,NULL,NULL
+Metro Pointe,EVgo,969 South Coast Drive,Costa Mesa,CA,92626,125,50,0.35,0.3,6.99,NULL,NULL
+City of Porterville,EVConnect,61 West Oak Avenue,Porterville,CA,93257,350,350,0.25,NULL,NULL,NULL,NULL
+Momentum Nissan,None,2545 Auto Mall Parkway,Fairfield,CA,94533,NULL,NULL,0,NULL,NULL,NULL,NULL
+Whole Foods Market - Telegraph Avenue,EVgo,3000 Telegraph Avenue,Berkeley,CA,94705,125,50,0.35,0.3,6.99,NULL,NULL
+Raley's,EVgo,10430 Twin Cities Road,Galt,CA,95632,125,50,0.35,0.3,6.99,NULL,NULL
+UC Davis Health Station 1,ChargePoint,4800 2nd Avenue,Sacramento,CA,95817,62,62,0,NULL,NULL,NULL,NULL

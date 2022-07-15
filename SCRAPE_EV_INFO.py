@@ -238,7 +238,7 @@ df = pd.DataFrame({'STATION': station_lst,
 df = df.drop_duplicates()  # Ensure no duplicates
 df = df[df['STATE'] == STATE]
 
-# Don't want to lose data due to naming issue.
+# Handle any naming issue before saving.
 try:
     df.to_csv(f'{FILENAME}_output_raw.csv', index=False)
 except:
